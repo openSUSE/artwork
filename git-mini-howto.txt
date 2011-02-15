@@ -1,0 +1,21 @@
+git mini-howto
+
+cd the-place-you-want-the-repo
+git clone git@gitorious.org:opensuse-artwork/opensuse-artwork.git
+git remote add origin git@gitorious.org:opensuse-artwork/opensuse-artwork.git
+cd opensuse-artwork/
+git remote add origin git@gitorious.org:opensuse-artwork/opensuse-artwork.git
+git checkout -b master
+git remote add origin git@gitorious.org:opensuse-artwork/opensuse-artwork.git
+
+# now edit something, add files etc ...
+# vi posters/README
+
+git add *
+# or you can use more selective ways git add mynewfolder/mysuper-art-contrib.svg
+
+git commit -m "This is a usefull comment which describe what I updated"
+git push origin master
+
+# Update your copy 
+git pull
