@@ -1,3 +1,5 @@
+Substract of the http://en.opensuse.org/openSUSE:Marketing_and_Artwork_repository wiki page
+
 git mini-howto
 
 cd the-place-you-want-the-repo
