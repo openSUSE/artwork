@@ -10,15 +10,15 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="baner_v6.svg"
-   inkscape:version="0.47 r22583"
+   sodipodi:docname="ro_baner_v6.svg"
+   inkscape:version="0.48.1 r9760"
    version="1.1"
    id="svg2816"
    height="1771.6534"
    width="7086.6138"
-   inkscape:export-filename="C:\Documents and Settings\luciano\Desktop\Banner\baner_v6.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-filename="/home/bruno/openSUSE/artwork/git/opensuse-artwork/banners/ro/ro_baner_v6.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,17 +26,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.15"
-     inkscape:cx="3970.3316"
-     inkscape:cy="892.24448"
+     inkscape:zoom="1.6970563"
+     inkscape:cx="207.26094"
+     inkscape:cy="216.97359"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="cm"
-     inkscape:window-width="1280"
-     inkscape:window-height="744"
+     inkscape:window-width="1680"
+     inkscape:window-height="1005"
      inkscape:window-x="-4"
-     inkscape:window-y="-4"
+     inkscape:window-y="-3"
      inkscape:window-maximized="1" />
   <defs
      id="defs2818">
@@ -1711,12 +1711,13 @@
      inkscape:label="Layer 1">
     <rect
        rx="0.7325663"
-       y="-705.18298"
-       x="6.4061279"
-       height="1769.3413"
-       width="7084.3018"
+       y="-719.29272"
+       x="0"
+       height="1771.6536"
+       width="7086.6143"
        id="rect2828"
-       style="fill:#217808;fill-opacity:1;stroke:none;stroke-width:2.31222557999999980;stroke-opacity:0.10465118000000000" />
+       style="fill:#217808;fill-opacity:1;stroke:none"
+       ry="0.7325663" />
     <text
        transform="translate(0,-719.29263)"
        id="text2830"
