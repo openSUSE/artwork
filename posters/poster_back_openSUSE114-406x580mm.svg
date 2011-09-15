@@ -14,13 +14,15 @@
    height="1438.5826"
    id="svg4277"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="0.48.2 r9819"
    sodipodi:docname="poster_back_openSUSE114-406x580mm.svg"
    sodipodi:version="0.32"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/bruno/openSUSE/artwork/git/opensuse-artwork/posters/png/poster_back_openSUSE114_406x580-96dpi.png"
    inkscape:export-xdpi="95.96946"
    inkscape:export-ydpi="95.96946">
+  <title
+     id="title4007">openSUSE cheat sheet code</title>
   <defs
      id="defs4279">
     <color-profile
@@ -776,14 +778,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.7694431"
-     inkscape:cx="1832.1814"
-     inkscape:cy="150.9856"
+     inkscape:zoom="0.19833243"
+     inkscape:cx="-142.00686"
+     inkscape:cy="970.31019"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4031"
      showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="1003"
+     inkscape:window-width="1920"
+     inkscape:window-height="1035"
      inkscape:window-x="-4"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
@@ -885,8 +887,59 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>openSUSE cheat sheet code</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc/3.0/" />
+        <dc:date>September 14 2011</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>severals</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>openSUSE community</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>severals</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>en_US</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>cheat</rdf:li>
+            <rdf:li>sheet</rdf:li>
+            <rdf:li>code</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>The background of cheat sheet code.
+version updated and fixed </dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Chuck Payne
+Carlos E. Ribiero
+Bruno Friedmann
+Bernhard Wiedermann</dc:title>
+          </cc:Agent>
+        </dc:contributor>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -896,7 +949,7 @@
      transform="translate(0,386.22049)">
     <g
        id="g4031"
-       transform="matrix(1.9004976,0,0,1.9004967,31.308556,-967.84114)">
+       transform="matrix(1.9004976,0,0,1.9004967,27.525926,-1203.1483)">
       <path
          inkscape:export-filename="/home/pinheiro/server/svnserver/estilo/opensuse kdeopensewrvice/rect8449.png"
          style="fill:url(#radialGradient4928);fill-opacity:1;stroke:none"
@@ -1352,7 +1405,7 @@
              id="flowPara2940"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#4a5224;fill-opacity:1;font-family:Impact;-inkscape-font-specification:Impact Bold"><flowSpan
    style="fill:#484537"
-   id="flowSpan3481">            Wiki </flowSpan>                  http://en.opensuse.org/Main_Page</flowPara><flowPara
+   id="flowSpan3481">            Wiki </flowSpan>                  http://en.opensuse.org/</flowPara><flowPara
              id="flowPara2942"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#4a5224;fill-opacity:1;font-family:Impact;-inkscape-font-specification:Impact Bold"><flowSpan
    style="fill:#484537"
@@ -1392,7 +1445,7 @@
              id="flowPara2964"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#4a5224;fill-opacity:1;font-family:Impact;-inkscape-font-specification:Impact Bold"><flowSpan
    style="fill:#484537"
-   id="flowSpan3499">            Users </flowSpan>               https://users.opensuse.org/</flowPara><flowPara
+   id="flowSpan3499">            Users </flowSpan>               https://connect.opensuse.org/</flowPara><flowPara
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#4a5224;fill-opacity:1;font-family:Impact;-inkscape-font-specification:Impact Bold"
              id="flowPara3012"><flowSpan
    style="fill:#484537"
@@ -1408,7 +1461,7 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#4a5224;fill-opacity:1;font-family:Impact;-inkscape-font-specification:Impact Bold"
              id="flowPara3014"><flowSpan
    style="fill:#484537"
-   id="flowSpan3507">            OpenSUSE-Community</flowSpan>      http://www.opensuse-community.org</flowPara><flowPara
+   id="flowSpan3507">            openSUSE-Community</flowSpan>      http://www.opensuse-community.org</flowPara><flowPara
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#4a5224;fill-opacity:1;font-family:Impact;-inkscape-font-specification:Impact Bold"
              id="flowPara3016" /><flowPara
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#4a5224;fill-opacity:1;font-family:Impact;-inkscape-font-specification:Impact Bold"
@@ -1418,7 +1471,7 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#4a5224;fill-opacity:1;font-family:Impact;-inkscape-font-specification:Impact Bold"
              id="flowPara3020"><flowSpan
    style="fill:#484537"
-   id="flowSpan3509">            Deverloper Documentations</flowSpan>     http://en.opensuse.org/Portal:Development    </flowPara><flowPara
+   id="flowSpan3509">            Deverloper Documentation</flowSpan>     http://en.opensuse.org/Portal:Development    </flowPara><flowPara
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#4a5224;fill-opacity:1;font-family:Impact;-inkscape-font-specification:Impact Bold"
              id="flowPara3024"><flowSpan
    style="fill:#484537"
@@ -1694,9 +1747,9 @@
              id="flowPara3889"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">start a install normally</flowPara><flowPara
              id="flowPara3891"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">installer starts ssh server*</flowPara><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">installer start an ssh server*</flowPara><flowPara
              id="flowPara3893"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">installer starts a vnc server* </flowPara><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">installer start a vnc server* </flowPara><flowPara
              id="flowPara3895"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">boot rescue mode</flowPara><flowPara
              id="flowPara3897"
@@ -1704,7 +1757,7 @@
              id="flowPara3899"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">boots into single mode</flowPara><flowPara
              id="flowPara3901"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">Set the video 1024x768 </flowPara></flowRoot>        <flowRoot
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">Set the video resolution to1024x768 </flowPara></flowRoot>        <flowRoot
            xml:space="preserve"
            id="flowRoot3935"
            style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium"
@@ -1726,22 +1779,7 @@
          width="219.73183"
          id="rect4100"
          style="fill:none;stroke:#545f2c;stroke-width:0.95443153;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <flowRoot
-         transform="translate(-69.093184,186.56738)"
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium"
-         id="flowRoot5088"
-         xml:space="preserve"><flowRegion
-           id="flowRegion5090"><rect
-             y="199.19131"
-             x="427.11215"
-             height="49.124794"
-             width="8.2349091"
-             id="rect5092" /></flowRegion><flowPara
-           id="flowPara5094">-u </flowPara><flowPara
-           id="flowPara5096">-g</flowPara><flowPara
-           id="flowPara5098">-d</flowPara><flowPara
-           id="flowPara5100">-c</flowPara><flowPara
-           id="flowPara5102">-s</flowPara></flowRoot>      <text
+      <text
          id="text5104"
          y="381.68701"
          x="346.08725"
@@ -1762,11 +1800,16 @@
              height="59.374329"
              width="88.103882"
              id="rect5116" /></flowRegion><flowPara
-           id="flowPara5118">specific UID</flowPara><flowPara
-           id="flowPara5120">specific GID</flowPara><flowPara
-           id="flowPara5122">create home dir</flowPara><flowPara
-           id="flowPara5124">User full name</flowPara><flowPara
-           id="flowPara5126">-s Assign a Default Shell</flowPara></flowRoot>      <flowRoot
+           id="flowPara5118"
+           style="font-size:7.76321983px">specific UID</flowPara><flowPara
+           id="flowPara5120"
+           style="font-size:7.76321983px">specific GID</flowPara><flowPara
+           id="flowPara5122"
+           style="font-size:7.76321983px">create home dir</flowPara><flowPara
+           id="flowPara5124"
+           style="font-size:7.76321983px">user full name</flowPara><flowPara
+           id="flowPara5126"
+           style="font-size:7.76321983px">assign a default shell</flowPara></flowRoot>      <flowRoot
          transform="translate(-97.413174,313.76953)"
          style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium"
          id="flowRoot5132"
@@ -1813,7 +1856,7 @@
            id="tspan5228"
            y="467.23157"
            x="346.07455"
-           sodipodi:role="line"> -d /home/users/jsmith\</tspan><tspan
+           sodipodi:role="line"> -d /home/users/jsmith -m\</tspan><tspan
            id="tspan5230"
            y="477.23157"
            x="346.07455"
@@ -1892,12 +1935,12 @@
            id="tspan5270"
            y="554.24542"
            x="346.07455"
-           sodipodi:role="line">-G add a user to a group</tspan><tspan
+           sodipodi:role="line">-A add a user to a group</tspan><tspan
            style="font-size:7px;font-style:normal;font-weight:bold;-inkscape-font-specification:Berylium Bold"
            id="tspan5272"
            y="563.30573"
            x="346.07455"
-           sodipodi:role="line">     # usermod -G homeuser jsmith </tspan><tspan
+           sodipodi:role="line">     # usermod -A homeuser jsmith </tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:Berylium Bold"
            id="tspan5274"
            y="572.99542"
@@ -2017,7 +2060,7 @@
              id="tspan5933"
              x="505.51166"
              y="532.52032"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">List all Network Devices</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">List all network devices</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium Bold"
@@ -2027,11 +2070,15 @@
              sodipodi:role="line"
              id="tspan5939"
              x="505.4718"
-             y="575.15955"># ifconfig -a</tspan><tspan
+             y="575.15955"># ifconfig ethx up</tspan><tspan
              sodipodi:role="line"
              x="505.4718"
              y="585.15955"
-             id="tspan5969"># ip link  </tspan></text>
+             id="tspan3968"># ifup ethx</tspan><tspan
+             sodipodi:role="line"
+             x="505.4718"
+             y="595.15955"
+             id="tspan5969"># ip link ethx up  </tspan></text>
         <text
            xml:space="preserve"
            style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium"
@@ -2042,160 +2089,151 @@
              id="tspan5945"
              x="505.51166"
              y="564.94855"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">List all Network Devices</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">Start a network device</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium Bold"
            x="505.4718"
-           y="607.26562"
+           y="616.73694"
            id="text5947"><tspan
              sodipodi:role="line"
              id="tspan5949"
              x="505.4718"
-             y="607.26562"># ifconfig  ethx down</tspan><tspan
+             y="616.73694"># ifconfig ethx down</tspan><tspan
              sodipodi:role="line"
              x="505.4718"
-             y="617.26562"
-             id="tspan5951"># ifdown ethx  </tspan></text>
+             y="626.73694"
+             id="tspan3970"># ifdown ethx</tspan><tspan
+             sodipodi:role="line"
+             x="505.4718"
+             y="636.73694"
+             id="tspan5951"># ip link ethx down  </tspan></text>
         <text
            xml:space="preserve"
            style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium"
            x="505.64838"
-           y="597.05463"
+           y="606.52594"
            id="text5953"><tspan
              sodipodi:role="line"
              id="tspan5955"
              x="505.64838"
-             y="597.05463"
+             y="606.52594"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">Stop a network device</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium Bold"
            x="505.4718"
-           y="640.01263"
-           id="text5959"><tspan
-             sodipodi:role="line"
-             id="tspan5961"
-             x="505.4718"
-             y="640.01263"># ifconfig -a</tspan><tspan
-             sodipodi:role="line"
-             x="505.4718"
-             y="650.01263"
-             id="tspan5963"># ifup ethx </tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium"
-           x="505.51166"
-           y="629.80164"
-           id="text5965"><tspan
-             sodipodi:role="line"
-             id="tspan5967"
-             x="505.51166"
-             y="629.80164"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">List all Network Devices</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium Bold"
-           x="505.4718"
-           y="670.78851"
+           y="658.1601"
            id="text5973"><tspan
              sodipodi:role="line"
              id="tspan5975"
              x="505.4718"
-             y="670.78851"># netstat -rn</tspan><tspan
+             y="658.1601"># netstat -rn</tspan><tspan
              sodipodi:role="line"
              x="505.4718"
-             y="680.78851"
+             y="668.1601"
              id="tspan5977"># ip route</tspan><tspan
              sodipodi:role="line"
              x="505.4718"
-             y="690.78851"
+             y="678.1601"
              id="tspan5983"># route</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium"
            x="505.64838"
-           y="660.57751"
+           y="647.9491"
            id="text5979"><tspan
              sodipodi:role="line"
              id="tspan5981"
              x="505.64838"
-             y="660.57751"
+             y="647.9491"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">Show the routes</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium Bold"
            x="505.4718"
-           y="713.88654"
+           y="699.15338"
            id="text5991"><tspan
              sodipodi:role="line"
              id="tspan5993"
              x="505.4718"
-             y="713.88654"># netstat -tanp</tspan><tspan
+             y="699.15338"># netstat -tanp</tspan><tspan
              sodipodi:role="line"
              x="505.4718"
-             y="723.88654"
+             y="709.15338"
              id="tspan5995"># ss --tcp --ipv4 </tspan></text>
         <text
            xml:space="preserve"
            style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium"
            x="505.51166"
-           y="703.67554"
+           y="688.94238"
            id="text5997"><tspan
              sodipodi:role="line"
              id="tspan5999"
              x="505.51166"
-             y="703.67554"
+             y="688.94238"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">List all TCP Connections</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium Bold"
            x="505.4718"
-           y="746.29858"
+           y="730.51306"
            id="text6009"><tspan
              sodipodi:role="line"
              id="tspan6011"
              x="505.4718"
-             y="746.29858"># Dig &lt;hostname&gt;</tspan><tspan
+             y="730.51306"># dig &lt;hostname&gt;</tspan><tspan
              sodipodi:role="line"
              x="505.4718"
-             y="756.29858"
+             y="740.51306"
+             id="tspan3972"># dig AAAA &lt;hostname&gt;</tspan><tspan
+             sodipodi:role="line"
+             x="505.4718"
+             y="750.51306"
              id="tspan6013"># host &lt;hostname&gt;</tspan><tspan
              sodipodi:role="line"
              x="505.4718"
-             y="766.29858"
+             y="760.51306"
              id="tspan6019"># nslookup &lt;hostname&gt;</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium"
            x="505.64838"
-           y="736.08759"
+           y="720.30206"
            id="text6015"><tspan
              sodipodi:role="line"
              id="tspan6017"
              x="505.64838"
-             y="736.08759"
+             y="720.30206"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">Search Host</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium Bold"
            x="505.4718"
-           y="793.3421"
+           y="782.81842"
            id="text6021"><tspan
              sodipodi:role="line"
              x="505.4718"
-             y="793.3421"
-             id="tspan6025"># ping &lt;hostname-ip&gt; </tspan></text>
+             y="782.81842"
+             id="tspan6025"># ping &lt;hostname-ip&gt;</tspan><tspan
+             sodipodi:role="line"
+             x="505.4718"
+             y="792.81842"
+             id="tspan3976"># ping6 &lt;hostname-ip&gt; </tspan><tspan
+             sodipodi:role="line"
+             x="505.4718"
+             y="802.81842"
+             id="tspan3974" /></text>
         <text
            xml:space="preserve"
            style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium"
            x="505.64838"
-           y="783.1311"
+           y="772.60742"
            id="text6027"><tspan
              sodipodi:role="line"
              id="tspan6029"
              x="505.64838"
-             y="783.1311"
+             y="772.60742"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">See if a host is a live</tspan></text>
         <rect
            style="fill:none;stroke:#545f2c;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -2275,15 +2313,15 @@
            sodipodi:role="line">Remote Desktop to Windows Desktop</tspan></text>
       <text
          id="text5780"
-         y="737.71716"
+         y="733.50769"
          x="454.02036"
          style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium"
          xml:space="preserve"><tspan
            id="tspan5784"
            style="font-size:6px;font-weight:bold;-inkscape-font-specification:Berylium Bold"
-           y="737.71716"
+           y="733.50769"
            x="454.02036"
-           sodipodi:role="line"># redesktop &lt;hostname&gt; -u &lt;username&gt;-p &lt;password&gt; </tspan></text>
+           sodipodi:role="line"># rdesktop -u &lt;username&gt;-p &lt;password&gt;  server:port </tspan></text>
       <text
          id="text5786"
          y="703.30518"
@@ -2308,25 +2346,25 @@
            sodipodi:role="line"># vncviewer &lt;host-or-ip&gt;:&lt;port&gt;</tspan></text>
       <text
          id="text5794"
-         y="720.8233"
-         x="454.33151"
+         y="718.71857"
+         x="505.89734"
          style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium"
          xml:space="preserve"><tspan
            style="font-size:6px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold"
-           y="720.8233"
-           x="454.33151"
+           y="718.71857"
+           x="505.89734"
            id="tspan5796"
            sodipodi:role="line">VNC Client with SSH</tspan></text>
       <text
          id="text5798"
-         y="727.97083"
-         x="454.02036"
+         y="725.86609"
+         x="505.58618"
          style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium"
          xml:space="preserve"><tspan
            style="font-size:6px;font-weight:bold;-inkscape-font-specification:Berylium Bold"
            id="tspan5800"
-           y="727.97083"
-           x="454.02036"
+           y="725.86609"
+           x="505.58618"
            sodipodi:role="line"># ssh -L &lt;port&gt;:localhost:&lt;port&gt; hostname</tspan></text>
       <g
          transform="translate(0,7.62e-4)"
@@ -2497,7 +2535,7 @@
                id="tspan6274"
                y="421.07373"
                x="630.10016"
-               sodipodi:role="line"># zypper ve &lt;packages&gt;</tspan></text>
+               sodipodi:role="line"># zypper ve &lt;-r repository&gt;</tspan></text>
           <text
              id="text6276"
              y="411.61816"
@@ -2508,51 +2546,51 @@
                y="411.61816"
                x="630.51501"
                id="tspan6278"
-               sodipodi:role="line">Verify packages integrity</tspan></text>
+               sodipodi:role="line">Verify packages dependency</tspan></text>
           <text
              id="text6280"
              y="398.16248"
-             x="727.00861"
+             x="734.37518"
              style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium Bold"
              xml:space="preserve"><tspan
                id="tspan6282"
                y="398.16248"
-               x="727.00861"
-               sodipodi:role="line"># zypper rm &lt;package&gt;</tspan></text>
+               x="734.37518"
+               sodipodi:role="line"># zypper rm &lt;packages&gt;</tspan></text>
           <text
              id="text6284"
              y="388.70691"
-             x="727.04846"
+             x="734.41504"
              style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium"
              xml:space="preserve"><tspan
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold"
                y="388.70691"
-               x="727.04846"
+               x="734.41504"
                id="tspan6286"
                sodipodi:role="line">Remove packages</tspan></text>
           <text
              id="text6288"
              y="421.10574"
-             x="727.00861"
+             x="734.37518"
              style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium Bold"
              xml:space="preserve"><tspan
                id="tspan6290"
                y="421.10574"
-               x="727.00861"
-               sodipodi:role="line"># zypper patch &lt;package&gt;</tspan><tspan
+               x="734.37518"
+               sodipodi:role="line"># zypper patch &lt;packages&gt;</tspan><tspan
                id="tspan6296"
                y="431.10574"
-               x="727.00861"
+               x="734.37518"
                sodipodi:role="line" /></text>
           <text
              id="text6292"
              y="411.61816"
-             x="727.04846"
+             x="734.41504"
              style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium"
              xml:space="preserve"><tspan
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold"
                y="411.61816"
-               x="727.04846"
+               x="734.41504"
                id="tspan6294"
                sodipodi:role="line">Patch packages</tspan></text>
           <text
@@ -2579,30 +2617,30 @@
                y="433.68195"
                x="630.14001"
                id="tspan6304"
-               sodipodi:role="line">List available packages</tspan></text>
+               sodipodi:role="line">List available updates</tspan></text>
           <text
              id="text6308"
              y="442.80331"
-             x="727.00861"
+             x="734.37518"
              style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium Bold"
              xml:space="preserve"><tspan
                id="tspan6310"
                y="442.80331"
-               x="727.00861"
+               x="734.37518"
                sodipodi:role="line"># zypper  up</tspan><tspan
                id="tspan6316"
                y="452.80331"
-               x="727.00861"
+               x="734.37518"
                sodipodi:role="line"># zypper  update</tspan></text>
           <text
              id="text6312"
              y="433.68195"
-             x="727.0719"
+             x="734.43848"
              style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium"
              xml:space="preserve"><tspan
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold"
                y="433.68195"
-               x="727.0719"
+               x="734.43848"
                id="tspan6314"
                sodipodi:role="line">Update packages</tspan></text>
           <text
@@ -2629,30 +2667,30 @@
                y="466.84015"
                x="630.14001"
                id="tspan6324"
-               sodipodi:role="line">List patches needed </tspan></text>
+               sodipodi:role="line">List available patches </tspan></text>
           <text
              id="text6328"
              y="476.34372"
-             x="727.00861"
+             x="734.37518"
              style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium Bold"
              xml:space="preserve"><tspan
                id="tspan6330"
                y="476.34372"
-               x="727.00861"
+               x="734.37518"
                sodipodi:role="line"># zypper dup</tspan><tspan
                id="tspan6336"
                y="486.34372"
-               x="727.00861"
+               x="734.37518"
                sodipodi:role="line"># zypper dist-upgrade</tspan></text>
           <text
              id="text6332"
              y="466.84015"
-             x="727.04846"
+             x="734.41504"
              style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium"
              xml:space="preserve"><tspan
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold"
                y="466.84015"
-               x="727.04846"
+               x="734.41504"
                id="tspan6334"
                sodipodi:role="line">Perform a distro upgrade</tspan></text>
           <text
@@ -2664,11 +2702,11 @@
                id="tspan6340"
                y="510.46167"
                x="630.10016"
-               sodipodi:role="line"># zypper if &lt;packages&gt;</tspan><tspan
+               sodipodi:role="line"># zypper if &lt;package&gt;</tspan><tspan
                id="tspan6346"
                y="520.46167"
                x="630.10016"
-               sodipodi:role="line"># zypper info &lt;packages&gt;</tspan></text>
+               sodipodi:role="line"># zypper info &lt;package&gt;</tspan></text>
           <text
              id="text6342"
              y="501.00613"
@@ -2679,32 +2717,32 @@
                y="501.00613"
                x="630.14001"
                id="tspan6344"
-               sodipodi:role="line">Information  on packages</tspan></text>
+               sodipodi:role="line">Information for a package</tspan></text>
           <text
              id="text6348"
              y="510.46167"
-             x="727.00861"
+             x="734.37518"
              style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium Bold"
              xml:space="preserve"><tspan
                id="tspan6350"
                y="510.46167"
-               x="727.00861"
+               x="734.37518"
                sodipodi:role="line"># zypper wp &lt;package&gt;</tspan><tspan
                id="tspan6356"
                y="520.46167"
-               x="727.00861"
+               x="734.37518"
                sodipodi:role="line"># zypper what-provides &lt;packs&gt;</tspan></text>
           <text
              id="text6352"
              y="501.00613"
-             x="727.37659"
+             x="734.74316"
              style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium"
              xml:space="preserve"><tspan
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold"
                y="501.00613"
-               x="727.37659"
+               x="734.74316"
                id="tspan6354"
-               sodipodi:role="line">What provides packages</tspan></text>
+               sodipodi:role="line">What provide package</tspan></text>
         </g>
         <rect
            style="fill:none;stroke:#545f2c;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -2737,11 +2775,11 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">Every running Process</tspan><tspan
              sodipodi:role="line"
              x="839.22357"
-             y="375.95523"
+             y="376.29926"
              id="tspan4899"># ps -e</tspan><tspan
              sodipodi:role="line"
              x="839.22357"
-             y="385.95523"
+             y="386.29926"
              id="tspan4901" /><tspan
              sodipodi:role="line"
              x="839.22357"
@@ -2750,11 +2788,11 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">Every running Process, long listing</tspan><tspan
              sodipodi:role="line"
              x="839.22357"
-             y="405.95523"
+             y="406.29926"
              id="tspan4905"># ps -el</tspan><tspan
              sodipodi:role="line"
              x="839.22357"
-             y="415.95523"
+             y="416.29926"
              id="tspan4907" /><tspan
              sodipodi:role="line"
              x="839.22357"
@@ -2763,37 +2801,37 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">Every running Process, full-format listing</tspan><tspan
              sodipodi:role="line"
              x="839.22357"
-             y="435.95523"
+             y="436.29926"
              id="tspan4911"># ps -ef</tspan><tspan
              sodipodi:role="line"
              x="839.22357"
-             y="445.95523"
+             y="446.29926"
              id="tspan4913" /><tspan
              sodipodi:role="line"
              x="839.22357"
              y="456.66153"
              id="tspan4915"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">Every running Process, Short BDS Style</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">Every running Process, Short BSD Style</tspan><tspan
              sodipodi:role="line"
              x="839.22357"
-             y="465.95523"
+             y="466.29926"
              id="tspan4917"># ps ax</tspan><tspan
              sodipodi:role="line"
              x="839.22357"
-             y="475.95523"
+             y="476.29926"
              id="tspan4919" /><tspan
              sodipodi:role="line"
              x="839.22357"
              y="486.66153"
              id="tspan4921"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">Every running Process, Long BDS Style</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">Every running Process, Long BSD Style</tspan><tspan
              sodipodi:role="line"
              x="839.22357"
-             y="495.95523"
+             y="496.29926"
              id="tspan4923"># ps auwwx</tspan><tspan
              sodipodi:role="line"
              x="839.22357"
-             y="505.95523"
+             y="506.29926"
              id="tspan4925" /><tspan
              sodipodi:role="line"
              x="839.22357"
@@ -2802,24 +2840,24 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">List processes of current user at the Current shell</tspan><tspan
              sodipodi:role="line"
              x="839.22357"
-             y="525.9552"
+             y="526.29926"
              id="tspan4929"># ps </tspan><tspan
              sodipodi:role="line"
              x="839.22357"
-             y="535.9552"
+             y="536.29926"
              id="tspan4931" /><tspan
              sodipodi:role="line"
              x="839.22357"
              y="546.6615"
              id="tspan4935"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">Show all processes ran by a uesers Simple process</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">Show all processes ran by a user's simple process</tspan><tspan
              sodipodi:role="line"
              x="839.22357"
-             y="555.9552"
+             y="556.29926"
              id="tspan4937"># ps -u username</tspan><tspan
              sodipodi:role="line"
              x="839.22357"
-             y="565.9552"
+             y="566.29926"
              id="tspan4939" /><tspan
              sodipodi:role="line"
              x="839.22357"
@@ -2828,11 +2866,11 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">With CPU/Memory</tspan><tspan
              sodipodi:role="line"
              x="839.22357"
-             y="585.9552"
-             id="tspan4943"># ps -u usersname u </tspan><tspan
+             y="586.29926"
+             id="tspan4943"># ps -u username u </tspan><tspan
              sodipodi:role="line"
              x="839.22357"
-             y="595.9552"
+             y="596.29926"
              id="tspan4945" /><tspan
              sodipodi:role="line"
              x="839.22357"
@@ -2841,11 +2879,11 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">With PPID</tspan><tspan
              sodipodi:role="line"
              x="839.22357"
-             y="615.9552"
+             y="616.29926"
              id="tspan4949"># ps -fu user </tspan><tspan
              sodipodi:role="line"
              x="839.22357"
-             y="625.9552"
+             y="626.29926"
              id="tspan4955" /><tspan
              sodipodi:role="line"
              x="839.22357"
@@ -2854,27 +2892,32 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold">Watch Active Processes</tspan><tspan
              sodipodi:role="line"
              x="839.22357"
-             y="645.9552"
+             y="646.29926"
              id="tspan4957"># top </tspan><tspan
              sodipodi:role="line"
              x="839.22357"
-             y="655.9552"
+             y="656.29926"
              id="tspan4959" /><tspan
              style="font-size:6px"
              sodipodi:role="line"
              x="839.22357"
-             y="664.06415"
-             id="tspan4961">-d 5      Changes update delay to 5 sec</tspan><tspan
+             y="664.32214"
+             id="tspan4961">   -d 5      Changes update delay to five seconds</tspan><tspan
              style="font-size:6px"
              sodipodi:role="line"
              x="839.22357"
-             y="671.56415"
-             id="tspan4963">-u         userid Only show that useid</tspan><tspan
+             y="671.82214"
+             id="tspan4963">   -u         userid Only show that userid</tspan><tspan
              style="font-size:6px"
              sodipodi:role="line"
              x="839.22357"
-             y="679.06415"
-             id="tspan4965">-b         Run in non-interavite non-screen-oriented mode.</tspan></text>
+             y="679.32214"
+             id="tspan4965">   -b         Run in non-interactive non-screen-oriented mode.</tspan><tspan
+             style="font-size:6px"
+             sodipodi:role="line"
+             x="839.22357"
+             y="686.82214"
+             id="tspan4005" /></text>
         <flowRoot
            xml:space="preserve"
            id="flowRoot5603"
@@ -2971,7 +3014,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold"
            y="806.89728"
            x="868.89868"
-           sodipodi:role="line">Install packaging with YaST</tspan></text>
+           sodipodi:role="line">Install packages with YaST</tspan></text>
       <text
          id="text7604"
          y="816.66693"
@@ -2993,7 +3036,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold"
            y="827.65851"
            x="868.89868"
-           sodipodi:role="line">Remove an installed packages with YaST</tspan></text>
+           sodipodi:role="line">Remove installed packages with YaST</tspan></text>
       <text
          id="text7612"
          y="837.42816"
@@ -3053,7 +3096,7 @@
            id="tspan7632"
            y="889.92627"
            x="868.85883"
-           sodipodi:role="line"># yast  &lt;module&gt; help</tspan></text>
+           sodipodi:role="line"># yast &lt;module&gt; help</tspan></text>
       <flowRoot
          transform="translate(429.95441,679.71)"
          style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium"
@@ -3083,7 +3126,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold"
            y="783.91974"
            x="443.556"
-           sodipodi:role="line">Installing a RPM</tspan></text>
+           sodipodi:role="line">Installing a package </tspan></text>
       <text
          id="text8057"
          y="793.68939"
@@ -3105,7 +3148,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold"
            y="805.97302"
            x="443.556"
-           sodipodi:role="line">Upgrade a RPM</tspan></text>
+           sodipodi:role="line">Upgrade a package</tspan></text>
       <text
          id="text8065"
          y="815.74268"
@@ -3149,7 +3192,7 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold"
            y="847.85828"
            x="443.556"
-           sodipodi:role="line">Detials about an RPM</tspan></text>
+           sodipodi:role="line">Details about a package</tspan></text>
       <text
          id="text8081"
          y="857.62793"
@@ -3204,7 +3247,7 @@
            style="font-weight:bold;-inkscape-font-specification:Berylium Bold"
            y="900.25708"
            x="443.51608"
-           sodipodi:role="line"># rpm -qal</tspan></text>
+           sodipodi:role="line"># rpm -qa</tspan></text>
       <text
          id="text8101"
          y="911.11761"
@@ -3226,7 +3269,7 @@
            id="tspan8107"
            y="920.88727"
            x="443.51608"
-           sodipodi:role="line"># rpm -qal | grep &lt;package&gt;</tspan></text>
+           sodipodi:role="line"># rpm -qav | grep -i &lt;package&gt;</tspan></text>
       <flowRoot
          transform="translate(0.61168,724.67095)"
          style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium"
@@ -3297,7 +3340,7 @@
            y="981.64532"
            x="428.91776"
            id="tspan8137"
-           sodipodi:role="line">To See what the current shell </tspan></text>
+           sodipodi:role="line">To see what the current shell </tspan></text>
       <text
          id="text8139"
          y="988.79285"
@@ -3341,7 +3384,7 @@
            y="969.60699"
            x="526.81354"
            id="tspan8157"
-           sodipodi:role="line">List Bash Setting </tspan></text>
+           sodipodi:role="line">List Bash settings </tspan></text>
       <text
          id="text8159"
          y="976.75452"
@@ -3363,7 +3406,7 @@
            y="985.37939"
            x="525.9635"
            id="tspan8165"
-           sodipodi:role="line">To find a command you have ran </tspan></text>
+           sodipodi:role="line">To find a command you have run </tspan></text>
       <text
          id="text8167"
          y="992.52692"
@@ -3451,7 +3494,7 @@
            y="1002.8746"
            x="615.5686"
            id="tspan8201"
-           sodipodi:role="line">Go back to the las directory  </tspan></text>
+           sodipodi:role="line">Go back to the last directory  </tspan></text>
       <text
          id="text8203"
          y="1010.0221"
@@ -3473,7 +3516,7 @@
            y="968.00342"
            x="691.11957"
            id="tspan8213"
-           sodipodi:role="line">To repeat the last directory </tspan></text>
+           sodipodi:role="line">To repeat the last command </tspan></text>
       <text
          id="text8215"
          y="975.25055"
@@ -3583,7 +3626,7 @@
            y="1003.3551"
            x="777.33997"
            id="tspan8257"
-           sodipodi:role="line">See that release is install </tspan></text>
+           sodipodi:role="line">See what release is installed </tspan></text>
       <text
          id="text8259"
          y="1010.5026"
@@ -3675,7 +3718,7 @@
            y="813.05475"
            x="611.05011"
            id="tspan8311"
-           sodipodi:role="line">Get a status on a services </tspan></text>
+           sodipodi:role="line">Get status of a service </tspan></text>
       <text
          id="text8313"
          y="820.20227"
@@ -3763,7 +3806,7 @@
            y="875.38159"
            x="611.01495"
            id="tspan8343"
-           sodipodi:role="line">Do a full-restart on a service </tspan></text>
+           sodipodi:role="line">Do a full-restart of a service </tspan></text>
       <text
          id="text8345"
          y="882.52911"
@@ -3938,7 +3981,7 @@
              id="tspan6100"
              x="157.94177"
              y="768.83575"
-             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">Bin</tspan><tspan
+             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">bin</tspan><tspan
              sodipodi:role="line"
              x="157.94177"
              y="776.33575"
@@ -3948,7 +3991,7 @@
              x="157.94177"
              y="783.83575"
              id="tspan6104"
-             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">Boot</tspan><tspan
+             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">boot</tspan><tspan
              sodipodi:role="line"
              x="157.94177"
              y="791.33575"
@@ -3958,7 +4001,7 @@
              x="157.94177"
              y="798.83575"
              id="tspan6108"
-             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">Dev               </tspan><tspan
+             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">dev               </tspan><tspan
              sodipodi:role="line"
              x="157.94177"
              y="806.33575"
@@ -3968,7 +4011,7 @@
              x="157.94177"
              y="813.83575"
              style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold"
-             id="tspan6341">Etc         </tspan><tspan
+             id="tspan6341">etc         </tspan><tspan
              sodipodi:role="line"
              x="157.94177"
              y="821.33575"
@@ -3978,7 +4021,7 @@
              x="157.94177"
              y="828.83575"
              style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold"
-             id="tspan6166">Home</tspan><tspan
+             id="tspan6166">home</tspan><tspan
              sodipodi:role="line"
              x="157.94177"
              y="836.33575"
@@ -3988,7 +4031,7 @@
              x="157.94177"
              y="843.83575"
              style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold"
-             id="tspan6315">Lib</tspan><tspan
+             id="tspan6315">lib</tspan><tspan
              sodipodi:role="line"
              x="157.94177"
              y="851.33575"
@@ -3998,7 +4041,7 @@
              x="157.94177"
              y="858.83575"
              id="tspan6124"
-             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">Media </tspan><tspan
+             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">media </tspan><tspan
              sodipodi:role="line"
              x="157.94177"
              y="866.33575"
@@ -4008,7 +4051,7 @@
              x="157.94177"
              y="873.83575"
              id="tspan6130"
-             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">Mnt</tspan><tspan
+             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">mnt</tspan><tspan
              sodipodi:role="line"
              x="157.94177"
              y="881.33575"
@@ -4018,7 +4061,7 @@
              x="157.94177"
              y="888.83575"
              id="tspan6132"
-             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">Opt</tspan><tspan
+             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">opt</tspan><tspan
              sodipodi:role="line"
              x="157.94177"
              y="896.33575"
@@ -4028,17 +4071,17 @@
              x="157.94177"
              y="903.83575"
              id="tspan6136"
-             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">Proc</tspan><tspan
+             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">proc</tspan><tspan
              sodipodi:role="line"
              x="157.94177"
              y="911.33575"
              id="tspan6138"
-             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold" /><tspan
+             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">sys</tspan><tspan
              sodipodi:role="line"
              x="157.94177"
              y="918.83575"
              id="tspan6140"
-             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">Root</tspan><tspan
+             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">root</tspan><tspan
              sodipodi:role="line"
              x="157.94177"
              y="926.33575"
@@ -4048,7 +4091,7 @@
              x="157.94177"
              y="933.83575"
              id="tspan6146"
-             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">Sbin</tspan><tspan
+             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">sbin</tspan><tspan
              sodipodi:role="line"
              x="157.94177"
              y="941.33575"
@@ -4058,7 +4101,7 @@
              x="157.94177"
              y="948.83575"
              id="tspan6148"
-             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">Selinux</tspan><tspan
+             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">selinux</tspan><tspan
              sodipodi:role="line"
              x="157.94177"
              y="956.33575"
@@ -4068,7 +4111,7 @@
              x="157.94177"
              y="963.83575"
              id="tspan6152"
-             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">Srv</tspan><tspan
+             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">srv</tspan><tspan
              sodipodi:role="line"
              x="157.94177"
              y="971.33575"
@@ -4078,7 +4121,7 @@
              x="157.94177"
              y="978.83575"
              id="tspan6158"
-             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">Tmp</tspan><tspan
+             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">tmp</tspan><tspan
              sodipodi:role="line"
              x="157.94177"
              y="986.33575"
@@ -4088,7 +4131,7 @@
              x="157.94177"
              y="993.83575"
              id="tspan6160"
-             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">Usr</tspan><tspan
+             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">usr</tspan><tspan
              sodipodi:role="line"
              x="157.94177"
              y="1001.3358"
@@ -4098,7 +4141,7 @@
              x="157.94177"
              y="1008.8358"
              id="tspan6164"
-             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">Var </tspan></text>
+             style="font-size:6px;font-weight:bold;fill:#545f2c;fill-opacity:1;-inkscape-font-specification:Sans Bold">var </tspan></text>
         <text
            xml:space="preserve"
            style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -4110,7 +4153,7 @@
              id="tspan6100-1"
              x="192.65771"
              y="768.909"
-             style="font-size:6px">Contains useful commands that are used both user and administrators. </tspan><tspan
+             style="font-size:6px">Contains useful commands that are used both by users and administrators. </tspan><tspan
              sodipodi:role="line"
              x="192.65771"
              y="776.409"
@@ -4170,7 +4213,7 @@
              x="192.65771"
              y="858.909"
              id="tspan6124-4"
-             style="font-size:6px">Mount point for removeable media.</tspan><tspan
+             style="font-size:6px">Mount point for removable media.</tspan><tspan
              sodipodi:role="line"
              x="192.65771"
              y="866.409"
@@ -4230,12 +4273,12 @@
              x="192.65771"
              y="948.909"
              id="tspan6148-9"
-             style="font-size:6px">Pseudo-file system contains commands that are most commonly </tspan><tspan
+             style="font-size:6px">(optionnal) pseudo-file system for security extension</tspan><tspan
              sodipodi:role="line"
              x="192.65771"
              y="956.409"
              style="font-size:6px"
-             id="tspan6365">used by the kernel subsystem.</tspan><tspan
+             id="tspan6365" /><tspan
              sodipodi:role="line"
              x="192.65771"
              y="963.909"
@@ -4260,7 +4303,7 @@
              x="192.65771"
              y="993.909"
              id="tspan6160-3"
-             style="font-size:6px">Directory contains system files and directories that is shared by all users.</tspan><tspan
+             style="font-size:6px">Directory contains system files and directories that are shared by all users.</tspan><tspan
              sodipodi:role="line"
              x="192.65771"
              y="1001.409"
@@ -4447,15 +4490,15 @@
       <text
          transform="scale(1.0278584,0.97289665)"
          id="text8301-5"
-         y="821.60803"
+         y="817.28137"
          x="703.13403"
          style="font-size:8.22286701px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium"
          xml:space="preserve"><tspan
            style="font-size:6.1671505px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Impact;-inkscape-font-specification:Impact Bold"
-           y="821.60803"
+           y="817.28137"
            x="703.13403"
            id="tspan8303-0"
-           sodipodi:role="line">To list all disk and partitions </tspan></text>
+           sodipodi:role="line">To list all disks and partitions </tspan></text>
       <text
          transform="scale(1.0278584,0.97289665)"
          id="text8309-9"
@@ -4467,7 +4510,7 @@
            y="837.1192"
            x="703.13403"
            id="tspan8311-6"
-           sodipodi:role="line">To list for a specific disk </tspan></text>
+           sodipodi:role="line">To list a specific disk </tspan></text>
       <text
          transform="scale(1.0278584,0.97289665)"
          id="text8313-3"
@@ -4542,15 +4585,25 @@
          style="fill:none;stroke:#545f2c;stroke-width:1.07191265;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <text
          id="text8305-0"
-         y="804.47028"
+         y="800.2608"
          x="722.7066"
          style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium"
          xml:space="preserve"><tspan
            style="font-size:5px;font-weight:bold;-inkscape-font-specification:Berylium Bold"
            id="tspan8307-2"
-           y="804.47028"
+           y="800.2608"
            x="722.7066"
-           sodipodi:role="line"># fdisk -l</tspan></text>
+           sodipodi:role="line"># fdisk -l</tspan><tspan
+           style="font-size:5px;font-weight:bold;-inkscape-font-specification:Berylium Bold"
+           y="806.5108"
+           x="722.7066"
+           sodipodi:role="line"
+           id="tspan4001"># sfdisk -l</tspan><tspan
+           style="font-size:5px;font-weight:bold;-inkscape-font-specification:Berylium Bold"
+           y="812.7608"
+           x="722.7066"
+           sodipodi:role="line"
+           id="tspan3999" /></text>
       <text
          transform="scale(1.0278584,0.97289665)"
          id="text8349-7-7"
@@ -4562,7 +4615,7 @@
            y="887.76227"
            x="702.9353"
            id="tspan8351-6-6"
-           sodipodi:role="line">Unount Partition </tspan></text>
+           sodipodi:role="line">Umount Partition </tspan></text>
       <text
          transform="scale(1.0278584,0.97289665)"
          id="text8353-3-4"
@@ -4615,7 +4668,7 @@
            y="920.22247"
            x="702.91724"
            id="tspan8351-6-80"
-           sodipodi:role="line">Mount Partition </tspan></text>
+           sodipodi:role="line">Mount remote partition with sshfs </tspan></text>
       <text
          transform="scale(1.0278584,0.97289665)"
          id="text8353-3-7"
@@ -4715,6 +4768,37 @@
              height="756.88239"
              width="1080.5754"
              id="rect4104" /></flowRegion><flowPara
-           id="flowPara4106" /></flowRoot>    </g>
+           id="flowPara4106" /></flowRoot>      <flowRoot
+         transform="translate(-69.632253,186.59298)"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium"
+         id="flowRoot5112-6"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5114-8"><rect
+             y="199.19131"
+             x="427.11215"
+             height="59.374329"
+             width="88.103882"
+             id="rect5116-0" /></flowRegion><flowPara
+           id="flowPara5118-5"
+           style="font-size:7.76321983px">-u</flowPara><flowPara
+           id="flowPara5120-2"
+           style="font-size:7.76321983px">-g</flowPara><flowPara
+           id="flowPara5122-1"
+           style="font-size:7.76321983px">-m</flowPara><flowPara
+           id="flowPara5124-8"
+           style="font-size:7.76321983px">-c</flowPara><flowPara
+           id="flowPara5126-4"
+           style="font-size:7.76321983px">-s</flowPara></flowRoot>      <text
+         id="text5780-9"
+         y="739.99573"
+         x="454.10019"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Berylium;-inkscape-font-specification:Berylium"
+         xml:space="preserve"><tspan
+           id="tspan5784-2"
+           style="font-size:6px;font-weight:bold;-inkscape-font-specification:Berylium Bold"
+           y="739.99573"
+           x="454.10019"
+           sodipodi:role="line"># xfreerdp -u &lt;username&gt;-p &lt;password&gt;  server:port</tspan></text>
+    </g>
   </g>
 </svg>
