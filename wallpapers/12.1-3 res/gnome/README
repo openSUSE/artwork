@@ -1,0 +1,50 @@
+GNOME Default Wallpaper
+=======================
+
+dynamic/
+ [built from dynamic-wallpaper.xml.in and svg files]
+
+ This is the dynamic wallpaper as understood by gnome-desktop. The dynamic
+ wallpaper is a slideshow described by the XML file in dynamic, and is based on
+ the different svg files.
+
+
+openSUSE-default-static.xml:
+ [built from openSUSE-default-static.xml.in]
+
+ This is a XML file as understood by gnome-desktop, that describes a slideshow.
+ There is only one slide, the default wallpaper, available in various
+ resolutions.
+
+
+wallpaper-branding-openSUSE.xml:
+dynamic-wallpaper-branding-openSUSE.xml:
+ [built from wallpaper-branding-openSUSE.xml.in]
+
+ This is a XML file as understood by gnome-control-center. It describes a
+ specific wallpaper that gnome-control-center can set as wallpaper
+ (openSUSE-default-static.xml).
+
+
+Testing the dynamic wallpaper
+=============================
+
+From the top directory for the artwork (the one above ./gnome/), build the
+requires files with "make gnome_dynamic", and then change your current
+wallpaper:
+
+  # Get your current background:
+  OLD_BACKGROUND=`gsettings get org.gnome.desktop.background picture-uri`
+  # Set the background to the dynamic wallpaper
+  gsettings set org.gnome.desktop.background picture-uri file://`pwd`/gnome/dynamic-wallpaper-localtest.xml
+  # Restore your previous background
+  gsettings set org.gnome.desktop.background picture-uri "${OLD_BACKGROUND}"
+
+Since by default, the dynamic wallpaper is slow to change, you can use the fast
+test version, where 20 minutes are accelerated to 1 second (a whole cycle takes
+72 seconds):
+
+  gsettings set org.gnome.desktop.background picture-uri file://`pwd`/gnome/dynamic-wallpaper-localtest-fast.xml
+
+Note that it only works if your git checkout is not located in a directory
+containing characters that should be escaped for URI (like a space).
