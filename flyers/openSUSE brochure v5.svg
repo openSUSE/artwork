@@ -1691,6 +1691,26 @@
          style="stop-color:#ffffff;stop-opacity:0.63529414"
          id="stop4839" />
     </linearGradient>
+    <filter
+       id="filter6148"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         id="feColorMatrix6150"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix6152"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1699,11 +1719,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="320.53919"
-     inkscape:cy="638.75476"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="702.8883"
+     inkscape:cy="507.4417"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1049"
@@ -1860,7 +1880,7 @@
     <path
        id="path3606"
        style="fill:#596855;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 48.747399,1698.6535 1451.112601,0 0,-832.29253 -1451.112601,0 0,832.29253 z"
+       d="m 0,1699.7244 1451.1126,0 0,-832.29259 -1451.1126,0 0,832.29259 z"
        inkscape:connector-curvature="0" />
     <path
        transform="translate(-111.37143,-467.6641)"
@@ -1873,7 +1893,8 @@
      inkscape:label="content"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-111.37143,-467.6641)">
+     transform="translate(-111.37143,-467.6641)"
+     style="display:inline;">
     <g
        transform="matrix(0.125,0,0,-0.125,110.42191,2167.389)"
        id="g3054">
@@ -5577,11 +5598,11 @@
     <g
        inkscape:groupmode="layer"
        id="layer5"
-       inkscape:label="reversed"
+       inkscape:label="inverts"
        style="display:inline">
       <text
          xml:space="preserve"
-         style="font-size:89.42236327999999901px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"
+         style="font-size:89.42236327999999901px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold;"
          x="283.60516"
          y="1508.4918"
          id="text5907"
