@@ -1,0 +1,5 @@
+http mirror located at 
+http://linux.ioda.net/mirror/git/opensuse-artwork/
+
+http://linux.ioda.net/mirror/git/art/
+
