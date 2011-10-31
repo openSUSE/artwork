@@ -15,8 +15,8 @@
    id="svg3785"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="twitterdraft.svg"
-   inkscape:export-filename="/home/ilmehtar/Pictures/SUSEWallpaper/twitterdraft.png"
+   sodipodi:docname="twitterbackround-nopers.svg"
+   inkscape:export-filename="/home/ilmehtar/packages/git/opensuse-artwork/twitter/twitterback-nopers.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -213,14 +213,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="331.27369"
-     inkscape:cy="1501.3729"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="184.36328"
+     inkscape:cy="1041.2441"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-width="1366"
+     inkscape:window-height="710"
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:window-maximized="1" />
@@ -259,23 +259,24 @@
        height="1600"
        width="2844.4446" />
     <rect
-       style="color:#000000;fill:url(#linearGradient4432);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.02876042999999995;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;filter:url(#filter4492)"
+       style="color:#000000;fill:url(#linearGradient4432);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.02876043;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter4492);enable-background:accumulate"
        id="rect3912"
        width="200"
        height="582.53552"
        x="8.7514934e-08"
-       y="-480.17163" />
+       y="-480.17163"
+       transform="matrix(1,0,0,0.65210777,0,-167.04798)" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
        x="11.313713"
-       y="83.475876"
+       y="-122.324"
        id="text4445"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4447"
          x="11.313713"
-         y="83.475876"
+         y="-122.324"
          style="font-size:22px;fill:#abd557;fill-opacity:1">www.opensuse.org</tspan></text>
     <text
        xml:space="preserve"
@@ -357,45 +358,23 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
-       x="188.30998"
-       y="-303.80795"
-       id="text4539"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4541"
-         x="188.30998"
-         y="-303.80795"
-         style="font-size:28px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1">Richard Brown</tspan><tspan
-         sodipodi:role="line"
-         x="188.30998"
-         y="-276.1217"
-         style="font-size:22px;text-align:end;text-anchor:end;fill:#abd557;fill-opacity:1"
-         id="tspan4543">openSUSE Member</tspan><tspan
-         sodipodi:role="line"
-         x="188.30998"
-         y="-256.60703"
-         style="font-size:16px;text-align:end;text-anchor:end;fill:#abd557;fill-opacity:1"
-         id="tspan4545">rbrownccb@opensuse.org</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
        x="190.489"
-       y="-114.30331"
+       y="-281.20312"
        id="text4547"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="190.489"
-         y="-114.30331"
+         y="-281.20312"
          style="font-size:32px;fill:#ffffff;fill-opacity:1"
          id="tspan4627">openSUSE 12.1</tspan><tspan
          sodipodi:role="line"
          x="190.489"
-         y="-74.303307"
+         y="-241.20312"
          style="font-size:32px;fill:#abd557;fill-opacity:1"
          id="tspan4631">Release Date</tspan><tspan
          sodipodi:role="line"
          x="190.489"
-         y="-34.303307"
+         y="-201.20312"
          id="tspan4559"
          style="font-size:32px;fill:#ffffff;fill-opacity:1">16th Nov 2011</tspan></text>
   </g>
