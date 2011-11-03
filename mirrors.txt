@@ -1,5 +1,13 @@
 http mirror located at 
-http://linux.ioda.net/mirror/git/opensuse-artwork/
+for -art 
+http://geeko.ioda.net/git/art
+for -artwork 
+http://geeko.ioda.net/git/opensuse-artwork
 
-http://linux.ioda.net/mirror/git/art/
+you can have them by rsync 
+rsync://geeko.ioda.net/git/art
+rsync://geeko.ioda.net/git/opensuse-artwork
+
+Have fun!
+
 
