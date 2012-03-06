@@ -716,7 +716,7 @@
      inkscape:cx="56.915845"
      inkscape:cy="626.9635"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3135"
      showgrid="false"
      inkscape:window-width="1680"
      inkscape:window-height="995"
@@ -734,7 +734,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1101,7 +1101,7 @@
                  id="tspan4000"
                  x="125.38968"
                  y="479.19952"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2b3347;fill-opacity:1;font-family:Sigmar One;-inkscape-font-specification:Sigmar One Bold">Sept. 21-22, 2012 ~ Orlando, FL</tspan></text>
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#2b3347;fill-opacity:1;font-family:Sigmar One;-inkscape-font-specification:Sigmar One Bold">Sept. 21-23, 2012 ~ Orlando, FL</tspan></text>
           </g>
           <g
              inkscape:export-ydpi="90"

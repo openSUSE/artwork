@@ -14,8 +14,11 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.1 r9760"
-   sodipodi:docname="drawing-1.svg">
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="Logo.svg"
+   inkscape:export-filename="/home/jospoortvliet/Downloads/oS-marketing/artwork/conference/openSUSE Summit 2012/Logo.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs4">
     <linearGradient
@@ -562,10 +565,10 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="673"
+     inkscape:window-width="1680"
+     inkscape:window-height="995"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="-3"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -670,9 +673,10 @@
     </g>
     <g
        id="g3135"
-       inkscape:export-filename="/home/ytoox/Dropbox/SUSECon/openSUSE Summit/Logo Creation/Logo-Idea-PalmTrees2-opensuse.png"
+       inkscape:export-filename="/home/jospoortvliet/Downloads/oS-marketing/artwork/conference/openSUSE Summit 2012/logo_big.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       transform="translate(0.3447,13.11746)">
       <path
          inkscape:connector-curvature="0"
          id="rect4398"
@@ -762,12 +766,12 @@
            y="479.19952"
            x="125.38968"
            id="tspan4000"
-           sodipodi:role="line">Sept. 21-22, 2012 ~ Orlando, FL</tspan></text>
+           sodipodi:role="line">Sept. 21-23, 2012 ~ Orlando, FL</tspan></text>
     </g>
     <g
        id="g3995"
-       transform="translate(135.08096,0)"
-       inkscape:export-filename="/home/ytoox/Dropbox/SUSECon/openSUSE Summit/Logo Creation/Logo-Idea-PalmTrees2-opensuse.png"
+       transform="translate(135.42566,13.11746)"
+       inkscape:export-filename="/home/jospoortvliet/Downloads/oS-marketing/artwork/conference/openSUSE Summit 2012/logo_big.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <text
