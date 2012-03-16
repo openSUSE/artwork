@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="541.76489"
+   height="497.26541"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
@@ -19,6 +19,8 @@
    inkscape:export-filename="/home/jospoortvliet/Downloads/oS-marketing/artwork/conference/openSUSE Summit 2012/Logo.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
+  <title
+     id="title3087">openSUSE Summit Logo</title>
   <defs
      id="defs4">
     <linearGradient
@@ -226,7 +228,12 @@
     <font
        horiz-adv-x="1024"
        id="font3017"
-       inkscape:label="font 1">
+       inkscape:label="font 1"
+       horiz-origin-x="0"
+       horiz-origin-y="0"
+       vert-origin-x="45"
+       vert-origin-y="90"
+       vert-adv-y="90">
       <font-face
          units-per-em="1024"
          id="font-face3019"
@@ -560,8 +567,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.60987415"
-     inkscape:cx="253.21641"
-     inkscape:cy="841.08686"
+     inkscape:cx="148.28794"
+     inkscape:cy="26.037086"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -571,10 +578,14 @@
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <sodipodi:guide
        orientation="1,0"
-       position="104.92847,785.51426"
+       position="-2.8421709e-14,232.81369"
        id="guide3157" />
   </sodipodi:namedview>
   <metadata
@@ -585,14 +596,37 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>openSUSE Summit Logo</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Andi</dc:title>
+          </cc:Agent>
+        </dc:creator>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-104.92847,-2.3962062)">
     <text
        xml:space="preserve"
        style="font-size:13.42943668px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
