@@ -19,6 +19,8 @@
    inkscape:export-filename="/home/jospoortvliet/Downloads/oS-marketing/artwork/conference/openSUSE Summit 2012/Logo.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
+  <title
+     id="title3087">openSUSE Summit Logo</title>
   <defs
      id="defs4">
     <linearGradient
@@ -594,8 +596,30 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>openSUSE Summit Logo</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Andi</dc:title>
+          </cc:Agent>
+        </dc:creator>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
