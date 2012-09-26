@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.54691671"
-     inkscape:cx="624.98193"
-     inkscape:cy="502.89904"
+     inkscape:cx="-89.999688"
+     inkscape:cy="620.6672"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -219,7 +219,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -490,7 +490,7 @@
     </g>
     <g
        id="g3858"
-       transform="matrix(1.9279826,0,0,1.9279826,443.85034,-482.52708)"
+       transform="matrix(3.1431961,0,0,3.1431961,-756.81941,-463.44949)"
        style="fill:#73ba25;fill-opacity:1">
       <path
          style="fill:#73ba25;fill-opacity:1"
@@ -561,28 +561,26 @@
        xml:space="preserve"
        id="flowRoot3891"
        style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#73ba25;fill-opacity:1;stroke:none;font-family:DeadHistory;-inkscape-font-specification:DeadHistory"
-       transform="matrix(1.6573714,-0.20968265,0.27508697,1.2633169,-479.85857,-754.67104)"><flowRegion
+       transform="matrix(1.8482667,-0.26981641,0.30677136,1.6256167,-451.8878,-923.36691)"><flowRegion
          id="flowRegion3893"><rect
            id="rect3895"
-           width="321.21835"
-           height="221.72595"
+           width="178.9883"
+           height="98.253387"
            x="304.16251"
            y="566.95135"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#73ba25;fill-opacity:1;font-family:DeadHistory;-inkscape-font-specification:DeadHistory" /></flowRegion><flowPara
-         id="flowPara3897"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Chiller;-inkscape-font-specification:Chiller Bold">The tail</flowPara><flowPara
          id="flowPara3899"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Chiller;-inkscape-font-specification:Chiller Bold">knows!!</flowPara></flowRoot>    <path
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Chiller;-inkscape-font-specification:Chiller Bold">The Tail</flowPara></flowRoot>    <path
        sodipodi:nodetypes="cccccccccccccsccccccscccccccccccc"
        inkscape:connector-curvature="0"
        id="path6408"
-       d="m 400.33203,-228.84369 c -3.6174,8.97055 -8.45893,29.18836 -3.65396,48.24374 2.08266,8.33104 5.96504,16.65799 11.19032,24.15044 11.76573,16.91784 31.52676,28.18801 52.81104,30.08805 30.05383,2.68565 52.82498,-10.81565 60.9185,-36.0828 5.57221,-17.44951 -0.0201,-43.05971 -21.35291,-56.12262 -17.33799,-10.63302 -36.00059,-8.17117 -46.81641,-1.02767 -9.39057,6.22996 -14.72536,15.91528 -14.61584,26.5483 0.21923,18.83621 16.43369,28.87089 28.08991,28.88915 3.41648,0 6.83976,-0.62513 10.67635,-1.88412 1.37022,-0.42034 2.64694,-0.87458 4.05371,-1.76984 l 0.45667,-0.28538 0.17061,-0.11415 c 2.66731,-1.79045 4.28197,-4.77524 4.28197,-7.93595 0,-0.87512 -0.16189,-1.75117 -0.39972,-2.62629 -1.37022,-4.7684 -6.06551,-7.63218 -10.96189,-6.73699 l -0.62802,0.11415 -0.91353,0.34244 -1.31311,0.39952 c -2.68559,0.67603 -4.7181,0.74224 -5.13839,0.74224 -1.37022,-0.0933 -8.10725,-2.11471 -8.10725,-9.4775 l 0,-0.11415 c 0.0195,-2.7021 1.10993,-4.57017 1.71286,-5.59516 2.06437,-3.28849 7.80117,-6.51769 15.52938,-5.82347 10.15804,0.85686 17.48181,6.06278 22.32335,15.87191 4.51265,9.13485 3.33204,20.36399 -3.02596,28.60365 -6.30299,8.1666 -17.54118,11.61919 -32.48592,9.99137 -15.0727,-1.66261 -27.81587,-10.30468 -34.94098,-23.80786 -6.99749,-13.19082 -6.10503,-26.69226 -1.02775,-40.87873 31.75937,-69.2238 32.06424,-60.36156 44.73637,-64.41404 -9.8407,-19.8993 5.52893,-12.49068 -18.51004,-32.88902 -16.51047,5.89188 -39.6788,49.69963 -53.06006,83.60065 z"
+       d="m 1367.5725,-387.91727 c -3.6174,8.97055 -8.4589,29.18836 -3.6539,48.24374 2.0826,8.33104 5.965,16.65799 11.1903,24.15044 11.7657,16.91784 31.5268,28.18801 52.811,30.08805 30.0539,2.68565 52.825,-10.81565 60.9185,-36.0828 5.5722,-17.44951 -0.02,-43.05971 -21.3529,-56.12262 -17.338,-10.63302 -36.0006,-8.17117 -46.8164,-1.02767 -9.3906,6.22996 -14.7253,15.91528 -14.6158,26.5483 0.2192,18.83621 16.4337,28.87089 28.0899,28.88915 3.4165,0 6.8397,-0.62513 10.6763,-1.88412 1.3703,-0.42034 2.647,-0.87458 4.0537,-1.76984 l 0.4567,-0.28538 0.1706,-0.11415 c 2.6673,-1.79045 4.282,-4.77524 4.282,-7.93595 0,-0.87512 -0.1619,-1.75117 -0.3997,-2.62629 -1.3702,-4.7684 -6.0655,-7.63218 -10.9619,-6.73699 l -0.628,0.11415 -0.9136,0.34244 -1.3131,0.39952 c -2.6856,0.67603 -4.7181,0.74224 -5.1384,0.74224 -1.3702,-0.0933 -8.1072,-2.11471 -8.1072,-9.4775 l 0,-0.11415 c 0.019,-2.7021 1.1099,-4.57017 1.7128,-5.59516 2.0644,-3.28849 7.8012,-6.51769 15.5294,-5.82347 10.1581,0.85686 17.4818,6.06278 22.3234,15.87191 4.5126,9.13485 3.332,20.36399 -3.026,28.60365 -6.303,8.1666 -17.5412,11.61919 -32.4859,9.99137 -15.0727,-1.66261 -27.8159,-10.30468 -34.941,-23.80786 -6.9975,-13.19082 -6.105,-26.69226 -1.0277,-40.87873 31.7593,-69.2238 32.0642,-60.36156 44.7363,-64.41404 -9.8407,-19.8993 5.529,-12.49068 -18.51,-32.88902 -16.5105,5.89188 -39.6788,49.69963 -53.0601,83.60065 z"
        style="fill:#73ba25;fill-opacity:1;stroke:none" />
     <g
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/ytoox/Dropbox/SUSECon/openSUSE Summit/Logo Creation/Logo-Idea-PalmTrees2-opensuse.png"
-       transform="matrix(1.370214,0,0,1.370214,1010.768,-761.46161)"
+       transform="matrix(1.370214,0,0,1.370214,926.66012,-871.16752)"
        id="g6424"
        style="stroke:none">
       <text
@@ -610,5 +608,29 @@
            y="236.30179"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#73ba25;fill-opacity:1;stroke:none;font-family:FifthLeg;-inkscape-font-specification:FifthLeg">openSUSE</tspan></text>
     </g>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3089"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Chiller;-inkscape-font-specification:Chiller Bold"
+       transform="translate(16.227759,-673.30137)"><flowRegion
+         id="flowRegion3091"><rect
+           id="rect3093"
+           width="369.34326"
+           height="182.8432"
+           x="-5.4852958"
+           y="741.18805"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Chiller;-inkscape-font-specification:Chiller Bold" /></flowRegion><flowPara
+         id="flowPara3095" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3097"
+       style="font-size:144px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#73ba25;fill-opacity:1;stroke:none;font-family:Chiller;-inkscape-font-specification:Chiller Bold"
+       transform="matrix(0.96984684,-0.24371522,0.24371522,0.96984684,767.31239,-1085.7473)"><flowRegion
+         id="flowRegion3099"><rect
+           id="rect3101"
+           width="257.8089"
+           height="173.70103"
+           x="-683.83356"
+           y="927.68811"
+           style="font-size:144px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#73ba25;fill-opacity:1;font-family:Chiller;-inkscape-font-specification:Chiller Bold" /></flowRegion><flowPara
+         id="flowPara3103">knows</flowPara></flowRoot>  </g>
 </svg>
