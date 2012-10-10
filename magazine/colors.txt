@@ -1,8 +1,0 @@
-The file `opensusemagazine.gpl' contains a GIMP palette with the colors used.
-(For use with inkscape, copy to /usr/share/inkscape/palettes/ .)
-
-The lightest green is almost always used with a 60% opacity on a white
-background.
-
-I did not use the complement colors in the design, but they may be useful for
-some typography.
