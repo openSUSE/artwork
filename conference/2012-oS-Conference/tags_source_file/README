@@ -5,3 +5,4 @@ for printer
 include all fonts
 
 Source Sans Pro font: http://sourceforge.net/projects/sourcesans.adobe/files/
+[zypper in SourceSansPro-fonts]
