@@ -1,0 +1,189 @@
+Welcome to openSUSE
+
+Hello! We’re the international openSUSE 
+Community team—friendly, welcoming and active
+in creating the premier Linux for the future
+
+What We Do
+
+We provide an open and innovative atmosphere. 
+Here, barriers and limitations don’t exist. We 
+believe in the freedom to create technology that 
+will better ourselves and the world. It’s why 
+everything we do is free and open.
+
+
+Working Together
+
+Our freedom-loving philosophy is what drives us 
+and is why we work extensively with the wider 
+Free Software community and other Linux 
+distributions. We also initiate new projects and 
+embrace anyone who wants to build upon our 
+technology or integrate it into their own project. 
+One example is Appstream, which helps unify 
+software installation. Our package building 
+infrastructure delivers more than 120,000 
+packages to 30,000 users supporting 21 distros 
+on seven architectures.
+
+Helping You Out
+
+Whether you’re a new user looking for help, or 
+an experienced developer looking to cross-
+compile and distribute software, openSUSE 
+provides the tools and support you need.
+For a full list of communication channels, or if 
+you’d just like to talk with us about ideas, visit 
+
+pensuse.org/communication
+
+
+Linux for
+Open Minds
+
+Something for Everyone
+
+For Users
+
+openSUSE allows you to design cool graphics, 
+write great documents, create awesome videos 
+or surf the Net with ease—because all the 
+applications you need are included. But should 
+you want more, thousands of additional apps are 
+a click away. It’s a desktop ready for the most 
+demanding user: anytime, anywhere, anyway.
+
+For Administrators
+
+openSUSE offers a full range of software to meet 
+your networking, management and maintenance 
+needs for both home and enterprise networks. 
+Create a mail, Web or file server. It’s powerful 
+and flexible with its unique command line, 
+graphical and Web interface. Deploy virtual 
+machines or a firewall perimeter—and maintain
+your user accounts. And thanks to YaST, the 
+most comprehensive and powerful admin tool in 
+the industry, you can manage your environment 
+with surprising ease.
+
+For Developers
+
+Unleash your creativity and join the ranks of 
+developers using the openSUSE platform. With 
+unparalleled stability, flexibility and all the 
+relevant tool chains, there is no better Linux for 
+software development.
+openSUSE comes with IDEs for a wide variety of 
+development workflows, from Anjuta to QtCreator,
+complete with all the languages, libraries and 
+tools Free Software has to offer. And with YaST, 
+you can install the required development 
+libraries with one click.
+
+SUSE Studio
+
+COOL
+
+Build a full distro from a browser-
+customized with your packages, scripts 
+and artwork
+Build on the latest openSUSE platform, or 
+the dependable SUSE Linux Enterprise
+
+COOL++
+
+Test drive your OS via SSH or Web 
+browser, and your changes get saved 
+to the appliance
+Output choice includes VMware, 
+KVM and LiveCD/USB with one-click 
+deployment to Amazon EC2
+
+Include WebYaST and make your OS 
+configurable from any Web browser
+Export your config as KIWI XML for custom 
+building in OBS
+
+For more information, please visit
+
+susestudio.com
+ susegallery.comes
+
+Open Build
+Service
+
+COOL
+
+Builds rpm and deb packages from a Web 
+browser, pulling from git/SVN using VMs to 
+build for any platform or OS
+
+COOL++
+
+Support for Windows “packages” is in the 
+making
+Easy nightly builds
+
+Integration with application store
+Spec file generation from tarball
+Use a powerful command line interface, or 
+a convenient Web interface
+
+Desktop Choice
+
+COOL
+
+openSUSE offers the full selection of desktop 
+choices
+
+all fully integrated for a seamless 
+computing experienced
+
+COOL++
+
+Popular desktops (including GNOME, KDE, 
+LXDE and XFCE) all ship on a single DVD
+
+providing you with simplicity and complete 
+freedom of choice
+
+Tumbleweed
+
+COOL
+
+Tumbleweed offers a “rolling release” 
+repository for openSUSE so you can 
+escape the Upgrade Mill and enjoy 
+smooth and stable progress
+
+COOL++
+
+openSUSE Tumbleweed is a project on 
+the move. Testers are encouraged to 
+join the mailing list and provide 
+feedback. And certainly, contributors 
+are always welcome.
+
+For more information, please visit:
+
+http://en.opensuse.org/tumbleweed
+
+Appinstaller
+
+COOL++
+
+Application Center technology based 
+on FD.o standards
+openSUSE is collaborating with other 
+distros (including Red Hat) to create a 
+cross-distribution technology
+
+KIWI
+
+COOL++
+
+Connect with OBS to automatically build 
+live images (CD/USB/Virtual) directly 
+from git/SVN

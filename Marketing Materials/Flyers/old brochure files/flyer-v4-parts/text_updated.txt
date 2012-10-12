@@ -1,0 +1,214 @@
+Welcome to openSUSE
+
+Hello! We’re the international openSUSE
+Community — friendly, welcoming and active in
+creating the premier Linux for the future.
+
+What We Do
+
+We develop an awesome Linux distribution
+and powerful tools around it. We believe in
+the freedom to create technology that will
+better ourselves and the world. And in
+having fun while doing it!
+
+Working Together
+
+We work extensively with the wider Free
+Software community and other Linux
+distributions, initiating new collaborative
+projects and embracing anyone who wants
+to build upon our technology.
+
+Helping You Out
+
+Whether you’re a new user looking for help,
+or an experienced developer looking to
+cross-compile and distribute software,
+openSUSE provides the tools and support
+you need and gladly helps you on your way.
+
+Meet us at openSUSE.org!
+
+
+Linux for
+Open Minds
+
+Something for Everyone
+
+For Users
+
+With openSUSE you easily design graphics,
+create documents and videos or surf the Net.
+Hundreds of applications are included and
+thousands more up to date tools are a click
+away. It’s a desktop ready for the most
+demanding user: anytime, anywhere, anyway.
+
+For Administrators
+
+openSUSE fulfills all your networking,
+management and maintenance needs for the
+home or small enterprise. Create a mail, 
+Web or file server. Manage user accounts.
+Deploy virtual machines or a firewall.
+Thanks to YaST, the most comprehensive
+and powerful admin tool in the industry,
+you manage your environment with ease.
+
+For Developers
+
+With unparalleled stability, flexibility and
+up to date versions of all the relevant tool
+chains and libraries, there is no better
+Linux for software development.
+
+Try it at download.opensuse.org!
+
+SUSE Studio
+
+COOL
+Build a full distro from a browser—customized
+with your packages, scripts and artwork
+
+Build on the latest openSUSE platform, or the
+dependable SUSE Linux Enterprise
+
+COOL++
+Test drive your OS via SSH or Web browser,
+and your changes get saved  to the appliance
+Output choice includes VMware, KVM and
+
+LiveCD/USB with one-click deployment to
+Amazon EC2
+
+Include WebYaST and make your OS configurable
+from any Web browser
+
+Export your config as KIWI XML for custom
+building in OBS
+
+Try Studio at susestudio.com
+
+Open Build
+Service
+
+COOL
+Powerful Build system for any kind of
+packages (deb, rpm, tgz, exe) or
+architecture (ARMv5/v7, x86, x86_64)
+
+COOL++
+Pulls code directly from git or svn
+and builds each package in a fresh VM for
+repeatable and reliable results
+
+Offers API to integrate with applications,
+ other OBS instances or web sites
+
+Offers powerful collaboration features
+including team- and project formation,
+forking of packages and merge requests
+
+build.opensuse.org currently supports 27
+linux distributions on 6 architectures
+and has over 30.000 users building over
+150.000 packages
+
+OBS is used by major players like Dell
+as well as community projects like VLC
+
+Thanks to the KIWI tool, OBS can build
+ lmost any kind of OS image including
+all well known VM formats, disk images
+and Live CD's
+
+
+
+Learn about OBS at openbuildservice.org
+
+
+
+Tumbleweed
+
+COOL
+Tumbleweed offers a “rolling release”
+repository
+for openSUSE so you can escape the Upgrade
+Mill
+and enjoy smooth and stable progress
+
+COOL++
+openSUSE Tumbleweed is a project on the move.
+Testers are encouraged to join the mailing
+list
+and provide feedback. And certainly,
+contributors
+ are always welcome.
+
+Roll with Tumbleweed at
+opensuse.org/tumbleweed
+
+
+
+Freedom & Choice
+
+COOL
+
+COOL
+All openSUSE does is Free and Open Source
+
+But if you need it, flash and media support
+are available and easy to get
+
+COOL++
+The major Free Desktops GNOME, KDE, LXDE
+and XFCE are all fully supported and ship on
+a single DVD so the choice is yours
+
+Download openSUSE on download.opensuse.org
+
+Tumbleweed
+
+COOL
+Tumbleweed offers a “rolling release”
+repository for openSUSE so you can escape the
+Upgrade Mill and enjoy smooth and stable
+progress
+
+COOL++
+escape the Upgrade Mill and enjoy 
+smooth and stable progress
+
+Always the latest software but not the
+handiwork that comes with the typical
+rolling release distribution
+
+Fall back anytime on the stable
+openSUSE release by removing the
+tumbleweed repository
+
+openSUSE Tumbleweed is a project on 
+the move. Testers are encouraged to 
+join the mailing list and provide 
+feedback. And certainly, contributors 
+are always welcome.
+
+Roll with Tumbleweed at
+opensuse.org/tumbleweed
+
+openQA
+COOL
+Fully automated testing of any kind of
+software
+
+Takes frequent screenshots and compares with
+desired result
+
+Easy web interface with clear status view
+
+COOL++
+Easy to write test scripts
+Screenshots can be downloaded as video's
+
+See it in action at openqa.opensuse.org
