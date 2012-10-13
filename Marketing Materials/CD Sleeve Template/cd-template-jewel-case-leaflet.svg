@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="29.699999cm"
+   height="21.000000cm"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45"
+   sodipodi:docbase="/home/maison/Desktop/dosucmene"
+   sodipodi:docname="cd-template-jewel-case-leaflet.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;">
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path4380"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(-5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lstart"
+       style="overflow:visible">
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path4371"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) translate(-5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="DistanceIn"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DistanceIn"
+       style="overflow:visible">
+      <g
+         transform="scale(0.6,0.6) translate(8,0)"
+         id="g987">
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path974"
+           d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+           style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none" />
+        <path
+           id="path976"
+           d="M -14.759949,-7 L -14.759949,65"
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.2pt;marker-start:none" />
+      </g>
+    </marker>
+    <marker
+       inkscape:stockid="DistanceOut"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DistanceOut"
+       style="overflow:visible">
+      <g
+         transform="scale(-0.6,0.6) translate(8,0)"
+         id="g990">
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path991"
+           d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+           style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none" />
+        <path
+           id="path992"
+           d="M -14.759949,-7 L -14.759949,65"
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.2pt;marker-start:none" />
+      </g>
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path4377"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(-5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path4385"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.4)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.76200001"
+     inkscape:cx="497.16935"
+     inkscape:cy="378.56693"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1024"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>CD Jewel Case Template - Leaflet</dc:title>
+        <dc:date>24/09/2006</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Kevin Deldycke</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Inkscape</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3507"
+       transform="translate(16.09972,50.98973)"
+       style="fill:#eaeaea;fill-opacity:1.0000000">
+      <rect
+         y="163.28998"
+         x="104.29848"
+         height="424.30432"
+         width="424.30609"
+         id="rect1306"
+         style="opacity:1.0000000;color:#000000;fill:#eaeaea;fill-opacity:1.0000000;fill-rule:nonzero;stroke:#000000;stroke-width:0.89178395;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible" />
+      <rect
+         y="163.28998"
+         x="529.56659"
+         height="424.30432"
+         width="424.30609"
+         id="rect2763"
+         style="opacity:1.0000000;color:#000000;fill:#eaeaea;fill-opacity:1.0000000;fill-rule:nonzero;stroke:#000000;stroke-width:0.89178395;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4.0000000;stroke-dasharray:none;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible" />
+    </g>
+    <path
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000000;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#DistanceIn);marker-end:url(#DistanceOut);stroke-miterlimit:0.0000000;stroke-dasharray:none;stroke-opacity:1.0000000"
+       d="M 77.053821,634.38148 L 77.053821,218.48225"
+       id="path5152" />
+    <path
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000001;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#DistanceIn);marker-end:url(#DistanceOut);stroke-miterlimit:0.0000000;stroke-dasharray:none;stroke-opacity:1.0000000"
+       d="M 125.79452,116.79790 L 964.57605,116.79790"
+       id="path10475" />
+    <text
+       xml:space="preserve"
+       style="font-size:18.940386px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="303.60944"
+       y="163.06256"
+       id="text12029"><tspan
+         sodipodi:role="line"
+         id="tspan12031"
+         x="303.60944"
+         y="163.06256">12 cm</tspan></text>
+    <path
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000000;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#DistanceIn);marker-end:url(#DistanceOut);stroke-miterlimit:0.0000000;stroke-dasharray:none;stroke-opacity:1.0000000"
+       d="M 125.37440,170.75739 L 541.27363,170.75739"
+       id="path10471" />
+    <path
+       style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000000;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#DistanceIn);marker-end:url(#DistanceOut);stroke-miterlimit:0.0000000;stroke-dasharray:none;stroke-opacity:1.0000000"
+       d="M 549.09694,170.73345 L 964.99617,170.73345"
+       id="path12041" />
+    <text
+       xml:space="preserve"
+       style="font-size:18.940386px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="727.33197"
+       y="163.03862"
+       id="text12043"><tspan
+         sodipodi:role="line"
+         id="tspan12045"
+         x="727.33197"
+         y="163.03862">12 cm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.940386px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="515.8175"
+       y="107.94442"
+       id="text12047"><tspan
+         sodipodi:role="line"
+         x="515.8175"
+         y="107.94442"
+         id="tspan12051">24 cm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.940386px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="9.6554985"
+       y="433.32642"
+       id="text12053"><tspan
+         sodipodi:role="line"
+         id="tspan12055"
+         x="9.6554985"
+         y="433.32642">12 cm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40.666065px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125.00000%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="526.12152"
+       y="62.771061"
+       id="text12057"
+       sodipodi:linespacing="125.00000%"><tspan
+         sodipodi:role="line"
+         x="526.12152"
+         y="62.771061"
+         id="tspan12059">CD Jewel Case Template - Leaflet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:61.666931px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125.00000%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="755.3941"
+       y="405.49643"
+       id="text12835"
+       sodipodi:linespacing="125.00000%"><tspan
+         sodipodi:role="line"
+         id="tspan12837"
+         x="755.39411"
+         y="405.49643">Front</tspan><tspan
+         sodipodi:role="line"
+         x="755.3941"
+         y="482.58009"
+         id="tspan12839">Cover</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:61.666931px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125.00000%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+       x="322.73175"
+       y="410.00848"
+       id="text13615"
+       sodipodi:linespacing="125.00000%"><tspan
+         sodipodi:role="line"
+         id="tspan13617"
+         x="322.73175"
+         y="410.00848">Inside</tspan><tspan
+         sodipodi:role="line"
+         x="322.73175"
+         y="487.09215"
+         id="tspan13619">Cover</tspan></text>
+    <rect
+       style="opacity:1.0000000;color:#000000;fill:none;fill-opacity:1.0000000;fill-rule:nonzero;stroke:#7d7f7d;stroke-width:1.0000001;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4.0000000;stroke-dasharray:6.0000014 1.0000003 ;stroke-dashoffset:10.000003;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible"
+       id="rect1344"
+       width="870.65265"
+       height="445.40710"
+       x="109.85896"
+       y="203.72832" />
+    <g
+       id="g3700"
+       transform="translate(-12.67399,-2.624672)">
+      <rect
+         y="682.01135"
+         x="29.777002"
+         height="20.389133"
+         width="34.457500"
+         id="rect3677"
+         style="opacity:1.0000000;color:#000000;fill:none;fill-opacity:1.0000000;fill-rule:nonzero;stroke:#7d7f7d;stroke-width:1.0000018;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4.0000000;stroke-dasharray:6.0000117 1.0000020 ;stroke-dashoffset:10.000020;stroke-opacity:1.0000000;visibility:visible;display:inline;overflow:visible" />
+      <text
+         sodipodi:linespacing="125.00000%"
+         id="text3679"
+         y="696.62"
+         x="72.647621"
+         style="font-size:16.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan3683"
+           y="696.62"
+           x="72.647621"
+           sodipodi:role="line">Bleeding Edges (0,3 cm)</tspan></text>
+    </g>
+    <g
+       id="g3695"
+       transform="translate(-11.81102,-60.36745)">
+      <rect
+         y="771.95770"
+         x="28.914032"
+         height="20.389133"
+         width="34.457500"
+         id="rect3685"
+         style="opacity:1.0000000;color:#000000;fill:none;fill-opacity:1.0000000;fill-rule:nonzero;stroke:#ff0000;stroke-width:1.0000001;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4.0000000;stroke-dasharray:6.0000014 1.0000003 ;stroke-dashoffset:10.000003;stroke-opacity:0.54117650;visibility:visible;display:inline;overflow:visible" />
+      <text
+         sodipodi:linespacing="125.00000%"
+         id="text3687"
+         y="786.56635"
+         x="71.784653"
+         style="font-size:16.000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125.00000%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1.0000000;stroke:none;stroke-width:1.0000000px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1.0000000;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           id="tspan3693"
+           y="786.56635"
+           x="71.784653"
+           sodipodi:role="line">Safe Area (0,3 cm)</tspan></text>
+    </g>
+    <g
+       id="g1355"
+       transform="translate(130.6181,-4.740989e-2)">
+      <rect
+         y="225.01067"
+         x="0.49936581"
+         height="402.93723"
+         width="402.93820"
+         id="rect2127"
+         style="opacity:1.0000000;color:#000000;fill:none;fill-opacity:1.0000000;fill-rule:nonzero;stroke:#ff0000;stroke-width:1.0000005;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4.0000000;stroke-dasharray:6.0000035 1.0000006 ;stroke-dashoffset:10.000006;stroke-opacity:0.54117650;visibility:visible;display:inline;overflow:visible" />
+      <rect
+         y="225.01067"
+         x="425.69681"
+         height="402.93723"
+         width="402.93820"
+         id="rect1353"
+         style="opacity:1.0000000;color:#000000;fill:none;fill-opacity:1.0000000;fill-rule:nonzero;stroke:#ff0000;stroke-width:1.0000005;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4.0000000;stroke-dasharray:6.0000035 1.0000006 ;stroke-dashoffset:10.000006;stroke-opacity:0.54117650;visibility:visible;display:inline;overflow:visible" />
+    </g>
+  </g>
+</svg>
