@@ -15,7 +15,7 @@
    id="svg12339"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="4 conferences poster.svg"
+   sodipodi:docname="May the Geeko be with you.svg"
    inkscape:export-filename="/home/jospoortvliet/Dropbox/Public/Conference poster after feedback.png"
    inkscape:export-xdpi="30.048368"
    inkscape:export-ydpi="30.048368">
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24510209"
-     inkscape:cx="1510.3702"
-     inkscape:cy="751.67999"
+     inkscape:zoom="0.28028018"
+     inkscape:cx="938.79414"
+     inkscape:cy="1164.6825"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1194,7 +1194,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2316,19 +2316,19 @@
          id="tspan3496"
          x="93.838448"
          y="-746.89062"
-         style="font-size:300px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sandoval;-inkscape-font-specification:Sandoval">May the</tspan></text>
+         style="font-size:300px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FifthLeg;-inkscape-font-specification:FifthLeg">May the</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Quicksand;-inkscape-font-specification:Quicksand"
-       x="61.198242"
+       x="21.198242"
        y="922.07318"
        id="text3494-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3496-8"
-         x="61.198242"
+         x="21.198242"
          y="922.07318"
-         style="font-size:300px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sandoval;-inkscape-font-specification:Sandoval">Be with you</tspan></text>
+         style="font-size:300px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FifthLeg;-inkscape-font-specification:FifthLeg">Be with you</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Quicksand;-inkscape-font-specification:Quicksand"
@@ -2340,7 +2340,7 @@
          id="tspan3496-9"
          x="701.74768"
          y="607.9184"
-         style="font-size:300px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sandoval;-inkscape-font-specification:Sandoval">Geeko</tspan></text>
+         style="font-size:300px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FifthLeg;-inkscape-font-specification:FifthLeg">Geeko</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
