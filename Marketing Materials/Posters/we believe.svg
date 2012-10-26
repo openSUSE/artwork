@@ -2816,9 +2816,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.14542082"
-     inkscape:cx="259.02097"
-     inkscape:cy="1763.22"
+     inkscape:zoom="0.29084164"
+     inkscape:cx="-561.90669"
+     inkscape:cy="1076.7375"
      inkscape:current-layer="layer7"
      showgrid="true"
      inkscape:window-width="1600"
@@ -2833,7 +2833,8 @@
      fit-margin-bottom="3"
      borderlayer="true"
      width="430mm"
-     showguides="true">
+     showguides="true"
+     inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid4782"
@@ -2841,6 +2842,14 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="80,1900"
+       id="guide3834" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="650,4290"
+       id="guide3836" />
   </sodipodi:namedview>
   <metadata
      id="metadata4">
@@ -3863,49 +3872,53 @@
     <g
        style="display:inline;enable-background:new"
        id="g3657-2"
-       transform="translate(3.194527,655.84272)">
-      <text
-         transform="scale(1.0088739,0.9912042)"
-         sodipodi:linespacing="125%"
-         id="text4414-1-3"
-         y="600.09137"
-         x="80.950989"
-         style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Quicksand;-inkscape-font-specification:Quicksand"
-         xml:space="preserve"><tspan
-           style="font-size:41.60322189px;fill:#ffffff"
-           id="tspan4422-6-4"
+       transform="translate(-2.805473,655.84272)">
+      <g
+         id="g3860"
+         transform="translate(1.1361333,0.46220774)">
+        <text
+           xml:space="preserve"
+           style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Quicksand;-inkscape-font-specification:Quicksand"
+           x="80.950989"
            y="600.09137"
-           x="80.950989"
-           sodipodi:role="line">                                                               Our distribution tools,</tspan><tspan
-           style="font-size:41.60322189px;fill:#ffffff"
-           id="tspan4426-3-3"
-           y="652.0954"
-           x="80.950989"
-           sodipodi:role="line">our websites and even our artwork. See github.com/openSUSE</tspan></text>
-      <text
-         transform="scale(1.0088739,0.9912042)"
-         sodipodi:linespacing="125%"
-         id="text4414-7-4-25"
-         y="600.08856"
-         x="80.94693"
-         style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#7cbd46;fill-opacity:1;stroke:none;display:inline;font-family:Quicksand;-inkscape-font-specification:Quicksand"
-         xml:space="preserve"><tspan
-           style="font-size:41.60322189px;fill:#7cbd46;fill-opacity:1"
-           id="tspan4426-2-8-2"
-           y="600.08856"
+           id="text4414-1-3"
+           sodipodi:linespacing="125%"
+           transform="scale(1.0088739,0.9912042)"><tspan
+             sodipodi:role="line"
+             x="80.950989"
+             y="600.09137"
+             id="tspan4422-6-4"
+             style="font-size:41.60322189px;fill:#ffffff">                                                            Our distribution tools,</tspan><tspan
+             sodipodi:role="line"
+             x="80.950989"
+             y="652.0954"
+             id="tspan4426-3-3"
+             style="font-size:41.60322189px;fill:#ffffff">our websites and even our artwork. See github.com/openSUSE</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#7cbd46;fill-opacity:1;stroke:none;display:inline;font-family:Quicksand;-inkscape-font-specification:Quicksand"
            x="80.94693"
-           sodipodi:role="line">That's why everything we do is in git.</tspan></text>
+           y="600.08856"
+           id="text4414-7-4-25"
+           sodipodi:linespacing="125%"
+           transform="scale(1.0088739,0.9912042)"><tspan
+             sodipodi:role="line"
+             x="80.94693"
+             y="600.08856"
+             id="tspan4426-2-8-2"
+             style="font-size:41.60322189px;fill:#7cbd46;fill-opacity:1">That's why everything we do is in git.</tspan></text>
+      </g>
       <text
-         transform="scale(1.0088739,0.9912042)"
+         transform="scale(1.0088739,0.99120416)"
          sodipodi:linespacing="125%"
          id="text3636-8-8"
-         y="518.71863"
-         x="65.582123"
+         y="518.77283"
+         x="63.984596"
          style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#7cbd46;fill-opacity:1;stroke:none;display:inline;font-family:Quicksand;-inkscape-font-specification:Quicksand Light"
          xml:space="preserve"><tspan
            style="font-size:149.77160645px;fill:#7cbd46;fill-opacity:1"
-           y="518.71863"
-           x="65.582123"
+           y="518.77283"
+           x="63.984596"
            id="tspan3638-3-6"
            sodipodi:role="line">In Merging</tspan></text>
       <path
@@ -3917,49 +3930,53 @@
     <g
        style="display:inline;enable-background:new"
        id="g3669-2"
-       transform="translate(2.335037,-217.95708)">
-      <text
-         transform="scale(1.0088739,0.9912042)"
-         sodipodi:linespacing="125%"
-         id="text4414-0-7-7"
-         y="1101.6083"
-         x="78.572464"
-         style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Quicksand;-inkscape-font-specification:Quicksand"
-         xml:space="preserve"><tspan
-           id="tspan4510-9-0"
-           style="font-size:41.60322189px;fill:#ffffff"
+       transform="translate(-3.664963,-217.95708)">
+      <g
+         id="g3853"
+         transform="translate(4,0)">
+        <text
+           xml:space="preserve"
+           style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Quicksand;-inkscape-font-specification:Quicksand"
+           x="78.572464"
            y="1101.6083"
-           x="78.572464"
-           sodipodi:role="line">                                               We port our tools to other</tspan><tspan
-           id="tspan4514-3-15"
-           style="font-size:41.60322189px;fill:#ffffff"
-           y="1153.6123"
-           x="78.572464"
-           sodipodi:role="line">distributions and get our improvements and bugfixes upstream.</tspan></text>
-      <text
-         transform="scale(1.0088739,0.9912042)"
-         sodipodi:linespacing="125%"
-         id="text4414-7-2-0-61"
-         y="1101.6053"
-         x="78.568153"
-         style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#7cbd46;fill-opacity:1;stroke:none;display:inline;font-family:Quicksand;-inkscape-font-specification:Quicksand"
-         xml:space="preserve"><tspan
-           style="font-size:41.60322189px;fill:#7cbd46;fill-opacity:1"
-           id="tspan4426-2-6-3-27"
-           y="1101.6053"
+           id="text4414-0-7-7"
+           sodipodi:linespacing="125%"
+           transform="scale(1.0088739,0.9912042)"><tspan
+             sodipodi:role="line"
+             x="78.572464"
+             y="1101.6083"
+             style="font-size:41.60322189px;fill:#ffffff"
+             id="tspan4510-9-0">                                             We port our tools to other</tspan><tspan
+             sodipodi:role="line"
+             x="78.572464"
+             y="1153.6123"
+             style="font-size:41.60322189px;fill:#ffffff"
+             id="tspan4514-3-15">distributions and get our improvements and bugfixes upstream.</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#7cbd46;fill-opacity:1;stroke:none;display:inline;font-family:Quicksand;-inkscape-font-specification:Quicksand"
            x="78.568153"
-           sodipodi:role="line">So we share what we have.</tspan></text>
+           y="1101.6053"
+           id="text4414-7-2-0-61"
+           sodipodi:linespacing="125%"
+           transform="scale(1.0088739,0.9912042)"><tspan
+             sodipodi:role="line"
+             x="78.568153"
+             y="1101.6053"
+             id="tspan4426-2-6-3-27"
+             style="font-size:41.60322189px;fill:#7cbd46;fill-opacity:1">So we share what we have.</tspan></text>
+      </g>
       <text
-         transform="scale(1.0088739,0.9912042)"
+         transform="scale(1.0088739,0.99120418)"
          sodipodi:linespacing="125%"
          id="text3636-7-9-4"
          y="1020.2357"
-         x="67.36367"
+         x="65.381264"
          style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#7cbd46;fill-opacity:1;stroke:none;display:inline;font-family:Quicksand;-inkscape-font-specification:Quicksand Light"
          xml:space="preserve"><tspan
            style="font-size:149.77160645px;fill:#7cbd46;fill-opacity:1"
            y="1020.2357"
-           x="67.36367"
+           x="65.381264"
            id="tspan3638-8-9-70"
            sodipodi:role="line">In Sharing</tspan></text>
       <path
@@ -3971,49 +3988,53 @@
     <g
        style="display:inline;enable-background:new"
        id="g3645-4"
-       transform="translate(-1599.0342,-432.67448)">
-      <text
-         transform="scale(1.0088739,0.99120418)"
-         sodipodi:linespacing="125%"
-         id="text4414-0-9-9-61"
-         y="935.58636"
-         x="1675.9517"
-         style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Quicksand;-inkscape-font-specification:Quicksand"
-         xml:space="preserve"><tspan
-           id="tspan4514-7-6-68"
-           style="font-size:41.60322189px;fill:#ffffff"
+       transform="translate(-1605.0342,-432.67448)">
+      <g
+         id="g3846"
+         transform="translate(-6,0)">
+        <text
+           xml:space="preserve"
+           style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Quicksand;-inkscape-font-specification:Quicksand"
+           x="1675.9517"
            y="935.58636"
-           x="1675.9517"
-           sodipodi:role="line">                         We  have as little rules, committees, steering</tspan><tspan
-           id="tspan4585-3-4"
-           style="font-size:41.60322189px;fill:#ffffff"
-           y="987.59039"
-           x="1675.9517"
-           sodipodi:role="line">groups, boards, leaders and politics as possible so you can ACT.</tspan></text>
-      <text
-         transform="scale(1.0088739,0.99120418)"
-         sodipodi:linespacing="125%"
-         id="text4414-7-2-5-8-0"
-         y="935.58331"
-         x="1675.9476"
-         style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#7cbd46;fill-opacity:1;stroke:none;display:inline;font-family:Quicksand;-inkscape-font-specification:Quicksand"
-         xml:space="preserve"><tspan
-           style="font-size:41.60322189px;fill:#7cbd46;fill-opacity:1"
-           id="tspan4426-2-6-7-6-4"
-           y="935.58331"
+           id="text4414-0-9-9-61"
+           sodipodi:linespacing="125%"
+           transform="scale(1.0088739,0.99120418)"><tspan
+             sodipodi:role="line"
+             x="1675.9517"
+             y="935.58636"
+             style="font-size:41.60322189px;fill:#ffffff"
+             id="tspan4514-7-6-68">                        We  have as little rules, committees, steering</tspan><tspan
+             sodipodi:role="line"
+             x="1675.9517"
+             y="987.59039"
+             style="font-size:41.60322189px;fill:#ffffff"
+             id="tspan4585-3-4">groups, boards, leaders and politics as possible so you can ACT.</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#7cbd46;fill-opacity:1;stroke:none;display:inline;font-family:Quicksand;-inkscape-font-specification:Quicksand"
            x="1675.9476"
-           sodipodi:role="line">So we let you.</tspan></text>
+           y="935.58331"
+           id="text4414-7-2-5-8-0"
+           sodipodi:linespacing="125%"
+           transform="scale(1.0088739,0.99120418)"><tspan
+             sodipodi:role="line"
+             x="1675.9476"
+             y="935.58331"
+             id="tspan4426-2-6-7-6-4"
+             style="font-size:41.60322189px;fill:#7cbd46;fill-opacity:1">So we let you.</tspan></text>
+      </g>
       <text
-         transform="scale(1.0088739,0.99120418)"
+         transform="scale(1.0088739,0.99120416)"
          sodipodi:linespacing="125%"
          id="text3636-7-7-9-9"
          y="854.21332"
-         x="1662.663"
+         x="1652.7509"
          style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#7cbd46;fill-opacity:1;stroke:none;display:inline;font-family:Quicksand;-inkscape-font-specification:Quicksand Light"
          xml:space="preserve"><tspan
            style="font-size:149.77160645px;fill:#7cbd46;fill-opacity:1"
            y="854.21332"
-           x="1662.663"
+           x="1652.7509"
            id="tspan3638-8-5-1-7"
            sodipodi:role="line">In Doing</tspan></text>
       <path
@@ -4032,55 +4053,6 @@
        inkscape:export-filename="/home/jospoortvliet/Source Code/artwork/Marketing Materials/Posters/we believe NEW 4-3 72dpi.png"
        inkscape:export-xdpi="72.013077"
        inkscape:export-ydpi="72.013077" />
-    <text
-       xml:space="preserve"
-       style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Quicksand;-inkscape-font-specification:Quicksand"
-       x="75.715202"
-       y="1642.4752"
-       id="text4414-0-9-9-61-5"
-       sodipodi:linespacing="125%"
-       transform="scale(1.0088739,0.99120416)"><tspan
-         id="tspan3944"
-         sodipodi:role="line"
-         x="75.715202"
-         y="1642.4752"
-         style="font-size:41.60322189px;fill:#ffffff">So you are in control.  openSUSE gives you the full power of Linux.</tspan><tspan
-         id="tspan3948"
-         sodipodi:role="line"
-         x="75.715202"
-         y="1694.4792"
-         style="font-size:41.60322189px;fill:#ffffff">Our tools allow you to pick different solutions AND make it easy!</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#7cbd46;fill-opacity:1;stroke:none;display:inline;font-family:Quicksand;-inkscape-font-specification:Quicksand"
-       x="75.711174"
-       y="1642.4722"
-       id="text4414-7-2-5-8-0-5"
-       sodipodi:linespacing="125%"
-       transform="scale(1.0088739,0.99120417)"><tspan
-         sodipodi:role="line"
-         x="75.711174"
-         y="1642.4722"
-         id="tspan4426-2-6-7-6-4-6"
-         style="font-size:41.60322189px;fill:#7cbd46;fill-opacity:1">So you are in control.</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#7cbd46;fill-opacity:1;stroke:none;display:inline;font-family:Quicksand;-inkscape-font-specification:Quicksand Light"
-       x="62.426502"
-       y="1561.1022"
-       id="text3636-7-7-9-9-1"
-       sodipodi:linespacing="125%"
-       transform="scale(1.0088739,0.99120417)"><tspan
-         sodipodi:role="line"
-         id="tspan3638-8-5-1-7-2"
-         x="62.426502"
-         y="1561.1022"
-         style="font-size:149.77160645px;fill:#7cbd46;fill-opacity:1">In Choosing</tspan></text>
-    <path
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:3.67422509;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 71.7493,1406.2304 c 1370.0038,0.9319 1370.0038,0.9319 1370.0038,0.9319"
-       id="path3640-8-9-6-9"
-       inkscape:connector-curvature="0" />
     <g
        id="g4335"
        transform="translate(2184.6275,-356.8195)"
@@ -4190,7 +4162,7 @@
          id="g4285" />
       <g
          id="g4295"
-         transform="translate(88,0)">
+         transform="translate(89.999954,-3.3714188e-5)">
         <text
            xml:space="preserve"
            style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Quicksand;-inkscape-font-specification:Quicksand"
@@ -4231,19 +4203,19 @@
       <text
          xml:space="preserve"
          style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#7cbd46;fill-opacity:1;stroke:none;display:inline;font-family:Quicksand;-inkscape-font-specification:Quicksand Light"
-         x="65.582123"
+         x="64.000656"
          y="518.71863"
          id="text3636-8-8-9"
          sodipodi:linespacing="125%"
-         transform="scale(1.0088739,0.9912042)"><tspan
+         transform="scale(1.0088739,0.99120416)"><tspan
            sodipodi:role="line"
            id="tspan3638-3-6-2"
-           x="65.582123"
+           x="64.000656"
            y="518.71863"
            style="font-size:149.77160645px;fill:#7cbd46;fill-opacity:1">In Merging</tspan></text>
       <path
          style="fill:#ffffff;stroke:#ffffff;stroke-width:3.67422485;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-         d="M 82.749251,375.78054 C 1452.7534,375.7323 1452.7534,375.7323 1452.7534,375.7323"
+         d="m 82.74925,377.78051 c 1370.00415,-0.0482 1370.00415,-0.0482 1370.00415,-0.0482"
          id="path3640-8-2-3"
          inkscape:connector-curvature="0" />
     </g>
@@ -4256,7 +4228,7 @@
        inkscape:export-ydpi="72.013077">
       <g
          id="g4303"
-         transform="translate(132,0)">
+         transform="translate(129.99996,2.0001442)">
         <text
            transform="scale(1.0088739,0.99120416)"
            sodipodi:linespacing="125%"
@@ -4297,25 +4269,25 @@
       <text
          xml:space="preserve"
          style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#7cbd46;fill-opacity:1;stroke:none;display:inline;font-family:Quicksand;-inkscape-font-specification:Quicksand Light"
-         x="67.36367"
-         y="1020.2357"
+         x="64.953812"
+         y="1016.2499"
          id="text3636-7-9-4-2"
          sodipodi:linespacing="125%"
-         transform="scale(1.0088739,0.9912042)"><tspan
+         transform="scale(1.0088739,0.99120417)"><tspan
            sodipodi:role="line"
            id="tspan3638-8-9-70-1"
-           x="67.36367"
-           y="1020.2357"
+           x="64.953812"
+           y="1016.2499"
            style="font-size:149.77160645px;fill:#7cbd46;fill-opacity:1">In Sharing</tspan></text>
       <path
          style="fill:#ffffff;stroke:#ffffff;stroke-width:3.67422485;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-         d="M 83.608899,869.09021 C 1453.6127,870.02223 1453.6127,870.02223 1453.6127,870.02223"
+         d="m 83.6089,871.09021 c 1370.0038,0.93202 1370.0038,0.93202 1370.0038,0.93202"
          id="path3640-8-6-4-2"
          inkscape:connector-curvature="0" />
     </g>
     <g
        id="g4311"
-       transform="translate(256,0)"
+       transform="translate(249.99591,3.9959071)"
        inkscape:export-filename="/home/jospoortvliet/Source Code/artwork/Marketing Materials/Posters/we believe NEW 4-3 72dpi.png"
        inkscape:export-xdpi="72.013077"
        inkscape:export-ydpi="72.013077">
@@ -4360,22 +4332,22 @@
        transform="scale(1.0088739,0.99120416)"
        sodipodi:linespacing="125%"
        id="text3636-7-7-9-9-0"
-       y="-1949.8235"
-       x="-296.14465"
+       y="-1953.8667"
+       x="-295.37885"
        style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#7cbd46;fill-opacity:1;stroke:none;display:inline;font-family:Quicksand;-inkscape-font-specification:Quicksand Light"
        xml:space="preserve"
        inkscape:export-filename="/home/jospoortvliet/Source Code/artwork/Marketing Materials/Posters/we believe NEW 4-3 72dpi.png"
        inkscape:export-xdpi="72.013077"
        inkscape:export-ydpi="72.013077"><tspan
          style="font-size:149.77160645px;fill:#7cbd46;fill-opacity:1"
-         y="-1949.8235"
-         x="-296.14465"
+         y="-1953.8667"
+         x="-295.37885"
          id="tspan3638-8-5-1-7-6"
          sodipodi:role="line">In Doing</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path3640-8-9-6-3"
-       d="M -290.0038,-2073.8139 C 1080,-2072.882 1080,-2072.882 1080,-2072.882"
+       d="m -280,-2072.882 c 1370.0038,0.9319 1370.0038,0.9319 1370.0038,0.9319"
        style="fill:#ffffff;stroke:#ffffff;stroke-width:3.67422509;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        inkscape:export-filename="/home/jospoortvliet/Source Code/artwork/Marketing Materials/Posters/we believe NEW 4-3 72dpi.png"
        inkscape:export-xdpi="72.013077"
@@ -4386,59 +4358,63 @@
        inkscape:export-filename="/home/jospoortvliet/Source Code/artwork/Marketing Materials/Posters/we believe NEW 4-3 72dpi.png"
        inkscape:export-xdpi="72.013077"
        inkscape:export-ydpi="72.013077">
-      <text
-         transform="scale(1.0088739,0.99120416)"
-         sodipodi:linespacing="125%"
-         id="text4414-0-9-9-61-5-6"
-         y="-1749.832"
-         x="481.90967"
-         style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Quicksand;-inkscape-font-specification:Quicksand"
-         xml:space="preserve"><tspan
-           style="font-size:41.60322189px;fill:#ffffff"
+      <g
+         id="g3838"
+         transform="translate(9.9999938,-7.6206265e-6)">
+        <text
+           xml:space="preserve"
+           style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Quicksand;-inkscape-font-specification:Quicksand"
+           x="481.90967"
            y="-1749.832"
-           x="481.90967"
-           sodipodi:role="line"
-           id="tspan3944-7">                                   openSUSE gives you</tspan><tspan
-           style="font-size:41.60322189px;fill:#ffffff"
-           y="-1697.828"
-           x="481.90967"
-           sodipodi:role="line"
-           id="tspan3948-5">the full power of Linux. Our tools allow you</tspan><tspan
-           style="font-size:41.60322189px;fill:#ffffff"
-           y="-1645.824"
-           x="481.90967"
-           sodipodi:role="line"
-           id="tspan4283">to pick different solutions AND make it easy!</tspan></text>
-      <text
-         transform="scale(1.0088739,0.99120416)"
-         sodipodi:linespacing="125%"
-         id="text4414-7-2-5-8-0-5-0"
-         y="-1749.8351"
-         x="481.90564"
-         style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#7cbd46;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Quicksand;-inkscape-font-specification:Quicksand"
-         xml:space="preserve"><tspan
-           style="font-size:41.60322189px;fill:#7cbd46;fill-opacity:1"
-           id="tspan4426-2-6-7-6-4-6-5"
-           y="-1749.8351"
+           id="text4414-0-9-9-61-5-6"
+           sodipodi:linespacing="125%"
+           transform="scale(1.0088739,0.99120416)"><tspan
+             id="tspan3944-7"
+             sodipodi:role="line"
+             x="481.90967"
+             y="-1749.832"
+             style="font-size:41.60322189px;fill:#ffffff">                                   openSUSE gives you</tspan><tspan
+             id="tspan3948-5"
+             sodipodi:role="line"
+             x="481.90967"
+             y="-1697.828"
+             style="font-size:41.60322189px;fill:#ffffff">the full power of Linux. Our tools allow you</tspan><tspan
+             id="tspan4283"
+             sodipodi:role="line"
+             x="481.90967"
+             y="-1645.824"
+             style="font-size:41.60322189px;fill:#ffffff">to pick different solutions AND make it easy!</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#7cbd46;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Quicksand;-inkscape-font-specification:Quicksand"
            x="481.90564"
-           sodipodi:role="line">So you are in control.</tspan></text>
+           y="-1749.8351"
+           id="text4414-7-2-5-8-0-5-0"
+           sodipodi:linespacing="125%"
+           transform="scale(1.0088739,0.99120416)"><tspan
+             sodipodi:role="line"
+             x="481.90564"
+             y="-1749.8351"
+             id="tspan4426-2-6-7-6-4-6-5"
+             style="font-size:41.60322189px;fill:#7cbd46;fill-opacity:1">So you are in control.</tspan></text>
+      </g>
       <text
          transform="scale(1.0088739,0.99120416)"
          sodipodi:linespacing="125%"
          id="text3636-7-7-9-9-1-0"
-         y="-1688.1488"
-         x="-438.68979"
+         y="-1690.9849"
+         x="-448.02798"
          style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#7cbd46;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Quicksand;-inkscape-font-specification:Quicksand Light"
          xml:space="preserve"><tspan
            style="font-size:149.77160645px;fill:#7cbd46;fill-opacity:1"
-           y="-1688.1488"
-           x="-438.68979"
+           y="-1690.9849"
+           x="-448.02798"
            id="tspan3638-8-5-1-7-2-8"
            sodipodi:role="line">In Choosing</tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="path3640-8-9-6-9-4"
-         d="m -433.81392,-1814.4408 c 1370.0038,0.9319 1370.0038,0.9319 1370.0038,0.9319"
+         d="m -433.81392,-1812.4408 c 1370.0038,0.9319 1370.0038,0.9319 1370.0038,0.9319"
          style="fill:#ffffff;stroke:#ffffff;stroke-width:3.67422509;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new" />
     </g>
     <text
@@ -4457,5 +4433,63 @@
          x="-197.22168"
          id="tspan3713-4-0-7-7"
          sodipodi:role="line">WE BELIEVE</tspan></text>
+    <g
+       style="display:inline;enable-background:new"
+       id="g3657-2-3"
+       transform="translate(-2.8013782,1019.8455)">
+      <g
+         id="g3860-8"
+         transform="translate(1.1361333,0.46220774)">
+        <text
+           xml:space="preserve"
+           style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Quicksand;-inkscape-font-specification:Quicksand"
+           x="80.950989"
+           y="600.09137"
+           id="text4414-1-3-5"
+           sodipodi:linespacing="125%"
+           transform="scale(1.0088739,0.9912042)"><tspan
+             sodipodi:role="line"
+             x="80.950989"
+             y="600.09137"
+             style="font-size:41.60322189px;fill:#ffffff"
+             id="tspan3964">                                   openSUSE gives you the full power of Linux.</tspan><tspan
+             sodipodi:role="line"
+             x="80.950989"
+             y="652.0954"
+             style="font-size:41.60322189px;fill:#ffffff"
+             id="tspan3974">Our tools allow you to pick different solutions AND make it easy!</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#7cbd46;fill-opacity:1;stroke:none;display:inline;font-family:Quicksand;-inkscape-font-specification:Quicksand"
+           x="80.94693"
+           y="600.08856"
+           id="text4414-7-4-25-2"
+           sodipodi:linespacing="125%"
+           transform="scale(1.0088739,0.9912042)"><tspan
+             sodipodi:role="line"
+             x="80.94693"
+             y="600.08856"
+             id="tspan4426-2-8-2-7"
+             style="font-size:41.60322189px;fill:#7cbd46;fill-opacity:1">So you are in control.</tspan></text>
+      </g>
+      <text
+         transform="scale(1.0088739,0.99120416)"
+         sodipodi:linespacing="125%"
+         id="text3636-8-8-5"
+         y="518.77283"
+         x="63.984596"
+         style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#7cbd46;fill-opacity:1;stroke:none;display:inline;font-family:Quicksand;-inkscape-font-specification:Quicksand Light"
+         xml:space="preserve"><tspan
+           style="font-size:149.77160645px;fill:#7cbd46;fill-opacity:1"
+           y="518.77283"
+           x="63.984596"
+           id="tspan3638-3-6-4"
+           sodipodi:role="line">In Choosing</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path3640-8-2-33"
+         d="M 82.749251,375.78054 C 1452.7534,375.7323 1452.7534,375.7323 1452.7534,375.7323"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:3.67422485;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    </g>
   </g>
 </svg>
