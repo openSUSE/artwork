@@ -1,0 +1,12 @@
+<background>
+ <static>
+  <!-- 100 days -->
+  <duration>8640000.0</duration>
+  <file>
+   <size width="1280" height="1024">/usr/share/wallpapers/openSUSEdefault/contents/images/1280x1024.jpg</size>
+   <size width="1600" height="1200">/usr/share/wallpapers/openSUSEdefault/contents/images/1600x1200.jpg</size>
+   <size width="1920" height="1080">/usr/share/wallpapers/openSUSEdefault/contents/images/1920x1080.jpg</size>
+   <size width="1920" height="1200">/usr/share/wallpapers/openSUSEdefault/contents/images/1920x1200.jpg</size>
+  </file>
+ </static>
+</background>

@@ -1,0 +1,97 @@
+<background>
+  <starttime>
+    <year>2011</year>
+    <month>11</month>
+    <day>11</day>
+    <hour>7</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+
+<!-- This animation will start at 7 AM. -->
+
+<!-- Sunrise, from 7 AM to 9 AM -->
+<static>
+<duration>7200.0</duration>
+<file>
+<size width="1280" height="1024">@PATH_TO_IMAGES@/morning-1280x1024.jpg</size>
+<size width="1600" height="1200">@PATH_TO_IMAGES@/morning-1600x1200.jpg</size>
+<size width="1920" height="1080">@PATH_TO_IMAGES@/morning-1920x1080.jpg</size>
+<size width="1920" height="1200">@PATH_TO_IMAGES@/morning-1920x1200.jpg</size>
+</file>
+</static>
+
+<!-- Transition to day, from 9 AM to 1 PM -->
+<transition type="overlay">
+<duration>14400.0</duration>
+<from>
+<size width="1280" height="1024">@PATH_TO_IMAGES@/morning-1280x1024.jpg</size>
+<size width="1600" height="1200">@PATH_TO_IMAGES@/morning-1600x1200.jpg</size>
+<size width="1920" height="1080">@PATH_TO_IMAGES@/morning-1920x1080.jpg</size>
+<size width="1920" height="1200">@PATH_TO_IMAGES@/morning-1920x1200.jpg</size>
+</from>
+<to>
+<size width="1280" height="1024">@PATH_TO_IMAGES@/day-1280x1024.jpg</size>
+<size width="1600" height="1200">@PATH_TO_IMAGES@/day-1600x1200.jpg</size>
+<size width="1920" height="1080">@PATH_TO_IMAGES@/day-1920x1080.jpg</size>
+<size width="1920" height="1200">@PATH_TO_IMAGES@/day-1920x1200.jpg</size>
+</to>
+</transition>
+
+<!-- Day, from 1 PM to 6 PM -->
+<static>
+<duration>18000.0</duration>
+<file>
+<size width="1280" height="1024">@PATH_TO_IMAGES@/day-1280x1024.jpg</size>
+<size width="1600" height="1200">@PATH_TO_IMAGES@/day-1600x1200.jpg</size>
+<size width="1920" height="1080">@PATH_TO_IMAGES@/day-1920x1080.jpg</size>
+<size width="1920" height="1200">@PATH_TO_IMAGES@/day-1920x1200.jpg</size>
+</file>
+</static>
+
+<!-- Transition to night, from 6 PM to 10 PM -->
+<transition type="overlay">
+<duration>14400.0</duration>
+<from>
+<size width="1280" height="1024">@PATH_TO_IMAGES@/day-1280x1024.jpg</size>
+<size width="1600" height="1200">@PATH_TO_IMAGES@/day-1600x1200.jpg</size>
+<size width="1920" height="1080">@PATH_TO_IMAGES@/day-1920x1080.jpg</size>
+<size width="1920" height="1200">@PATH_TO_IMAGES@/day-1920x1200.jpg</size>
+</from>
+<to>
+<size width="1280" height="1024">@PATH_TO_IMAGES@/night-1280x1024.jpg</size>
+<size width="1600" height="1200">@PATH_TO_IMAGES@/night-1600x1200.jpg</size>
+<size width="1920" height="1080">@PATH_TO_IMAGES@/night-1920x1080.jpg</size>
+<size width="1920" height="1200">@PATH_TO_IMAGES@/night-1920x1200.jpg</size>
+</to>
+</transition>
+
+<!-- Night, from 10 PM to 5 AM -->
+<static>
+<duration>25200.0</duration>
+<file>
+<size width="1280" height="1024">@PATH_TO_IMAGES@/night-1280x1024.jpg</size>
+<size width="1600" height="1200">@PATH_TO_IMAGES@/night-1600x1200.jpg</size>
+<size width="1920" height="1080">@PATH_TO_IMAGES@/night-1920x1080.jpg</size>
+<size width="1920" height="1200">@PATH_TO_IMAGES@/night-1920x1200.jpg</size>
+</file>
+</static>
+
+<!-- Transition to day, from 5 AM to 7 AM -->
+<transition type="overlay">
+<duration>7200.0</duration>
+<from>
+<size width="1280" height="1024">@PATH_TO_IMAGES@/night-1280x1024.jpg</size>
+<size width="1600" height="1200">@PATH_TO_IMAGES@/night-1600x1200.jpg</size>
+<size width="1920" height="1080">@PATH_TO_IMAGES@/night-1920x1080.jpg</size>
+<size width="1920" height="1200">@PATH_TO_IMAGES@/night-1920x1200.jpg</size>
+</from>
+<to>
+<size width="1280" height="1024">@PATH_TO_IMAGES@/morning-1280x1024.jpg</size>
+<size width="1600" height="1200">@PATH_TO_IMAGES@/morning-1600x1200.jpg</size>
+<size width="1920" height="1080">@PATH_TO_IMAGES@/morning-1920x1080.jpg</size>
+<size width="1920" height="1200">@PATH_TO_IMAGES@/morning-1920x1200.jpg</size>
+</to>
+</transition>
+
+</background>
