@@ -16,24 +16,11 @@
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="GoogleCoverSource.svg"
-   inkscape:export-filename="/home/ytoox/Documents/artwork/Marketing Materials/Google+ Release Images/12.3/GoogleCoverFinal.png"
+   inkscape:export-filename="/home/ytoox/Documents/artwork/Marketing Materials/Google+ Release Images/12.3/GoogleCover-ComingSoon.png"
    inkscape:export-xdpi="75"
    inkscape:export-ydpi="75">
   <defs
      id="defs4442">
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter4417"
-       x="-0.1660094"
-       width="1.3320189"
-       y="-0.11984573"
-       height="1.2396915">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="11.759001"
-         id="feGaussianBlur4419" />
-    </filter>
     <clipPath
        id="clipPath442"
        clipPathUnits="userSpaceOnUse">
@@ -71,6 +58,18 @@
          stdDeviation="11.759001"
          id="feGaussianBlur4419-5" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter5621"
+       x="-0.16174951"
+       width="1.323499"
+       y="-0.12216848"
+       height="1.244337">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="11.024"
+         id="feGaussianBlur5623" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -79,9 +78,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="379.24907"
-     inkscape:cy="37.225726"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="151.97278"
+     inkscape:cy="125.50711"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -334,7 +333,7 @@
        d="m 633.45706,630.44153 c 1.5647,4.6435 3.3129,10.9206 -0.1062,14.5532 -3.4202,3.3189 -7.6318,0.9096 -9.3595,-3.0836 -4.9681,4.9005 2.8834,9.7998 7.5438,9.3088 5.1515,-0.8964 6.8067,-5.0417 7.4377,-9.3885 3.6109,7.1228 -0.1243,24.2216 -7.3556,26.9746 -7.2338,2.9884 -9.8457,-6.8585 -4.4083,-11.8882 -0.7456,-1.5864 -2.5299,-2.7277 -4.7003,-1.7879 -1.566,0.5091 -2.9111,3.4239 -2.6782,6.1395 -5.8682,-7.2156 -15.37,-8.5958 -18.8216,-4.0934 5.5243,-0.091 10.1002,2.4237 14.3011,8.0843 -6.849,-3.9197 -11.8146,-0.2956 -15.5859,1.2233 3.4069,5.4736 11.309,-1.4706 17.2218,4.3191 4.5108,4.6833 9.2074,4.1453 14.2527,3.0486 -6.8308,7.6874 -16.8092,9.4946 -24.8971,5.7498 -6.1998,-2.9291 -12.6446,-9.3184 -7.1626,-15.7909 -6.5533,-2.63 -7.5076,2.2536 -6.7572,6.5328 -6.762,-6.6848 -17.2881,-5.6702 -16.0938,0.049 9.2087,-4.2165 11.7169,7.5234 21.0498,11.5395 -13.9584,-2.5853 -13.3696,11.3984 -6.2312,12.4371 -0.6961,-3.5517 -0.9229,-5.447 1.7904,-7.393 2.6215,-1.9544 8.0022,-1.0773 11.268,0.456 -3.8509,0.8928 -6.0019,4.839 -1.806,7.1566 3.068,-4.2659 8.5488,-1.9182 13.0439,-2.7953 8.3715,-1.8712 9.719,-5.7836 12.7967,-6.9527 -2.7387,3.5373 -6.7066,6.2216 -8.4776,10.268 -1.7229,3.4057 -4.0802,5.155 -9.3981,5.5326 3.1294,7.0649 8.8696,1.7965 12.0582,-0.1242 2.0304,2.0087 -2.3778,4.0512 -2.6686,9.0953 -0.117,4.0198 -0.9796,7.2506 -4.9548,8.299 1.7349,5.026 7.0721,2.3839 8.5271,-1.3222 -0.6165,4.3274 -0.1014,12.7109 5.5387,13.0632 -0.4694,-8.6284 0.8251,-15.1974 3.5758,-20.1172 0.7806,3.2972 2.4371,6.9381 7.0758,6.6643 3.9981,0.049 8.165,-3.5927 8.0577,-8.6996 -2.6155,0.8711 -4.4361,2.0654 -7.1903,0.175 -3.0897,-2.203 -0.9,-11.6143 -1.9834,-17.1784 2.5516,0.6141 4.0319,2.957 7.7416,0.7625 2.8448,-1.5346 5.7523,-6.9334 2.0426,-10.5636 -4.8342,6.8875 -9.9784,-6.0719 -5.4374,-19.935 1.2317,-3.8908 1.911,-10.5285 1.1412,-14.1732"
        inkscape:connector-curvature="0" />
     <g
-       transform="matrix(0.59872409,0,0,0.59872409,-299.98908,428.08345)"
+       transform="matrix(0.59872409,0,0,0.59872409,-619.98908,428.08345)"
        id="g4730">
       <g
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4417-3)"
@@ -454,6 +453,130 @@
                x="54.511475"
                id="tspan13249"
                sodipodi:role="line">Out Now!</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g5625"
+       transform="matrix(0.62626036,0,0,0.64858952,372.36898,361.97907)">
+      <g
+         style="fill:#000000;filter:url(#filter5621)"
+         transform="translate(-521.44125,644.65295)"
+         id="g5087">
+        <text
+           sodipodi:linespacing="125%"
+           id="text5089"
+           y="384.45435"
+           x="42.096806"
+           style="font-size:14.26245975px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="384.45435"
+             x="42.096806"
+             id="tspan5091"
+             sodipodi:role="line">software.opensuse.org</tspan></text>
+        <g
+           style="fill:#000000"
+           transform="matrix(0.88611904,0,0,0.88611904,-5.415562,105.39707)"
+           id="g5093">
+          <g
+             id="g5095"
+             transform="matrix(1.1285163,0,0,1.1285163,1055.051,331.6711)"
+             style="fill:#000000">
+            <text
+               sodipodi:linespacing="125%"
+               id="text5097"
+               y="-90.380035"
+               x="-887.08148"
+               style="font-size:39.50251389px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+               xml:space="preserve"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
+                 y="-90.380035"
+                 x="-887.08148"
+                 id="tspan5099"
+                 sodipodi:role="line">openSUSE</tspan></text>
+            <text
+               sodipodi:linespacing="125%"
+               id="text5101"
+               y="-142.24776"
+               x="-891.36713"
+               style="font-size:121.06022644px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+               xml:space="preserve"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
+                 y="-142.24776"
+                 x="-891.36713"
+                 id="tspan5103"
+                 sodipodi:role="line">12.3</tspan></text>
+          </g>
+          <text
+             xml:space="preserve"
+             style="font-size:26.85687447px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+             x="50.967564"
+             y="275.81418"
+             id="text5105"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan5107"
+               x="50.967564"
+               y="275.81418">Coming soon!</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g3439"
+         transform="translate(-521.44125,644.65295)">
+        <text
+           xml:space="preserve"
+           style="font-size:14.26245975px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ccff00;fill-opacity:1;stroke:none;font-family:Sans"
+           x="42.096806"
+           y="384.45435"
+           id="text3419"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3421"
+             x="42.096806"
+             y="384.45435">software.opensuse.org</tspan></text>
+        <g
+           id="g3423"
+           transform="matrix(0.88611904,0,0,0.88611904,-5.415562,105.39707)">
+          <g
+             style="fill:#dee3db"
+             transform="matrix(1.1285163,0,0,1.1285163,1055.051,331.6711)"
+             id="g3425">
+            <text
+               xml:space="preserve"
+               style="font-size:39.50251389px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#dee3db;fill-opacity:1;stroke:none;font-family:Sans"
+               x="-887.08148"
+               y="-90.380035"
+               id="text3427"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan3429"
+                 x="-887.08148"
+                 y="-90.380035"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#dee3db;font-family:FifthLeg;-inkscape-font-specification:FifthLeg">openSUSE</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-size:121.06022644px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#dee3db;fill-opacity:1;stroke:none;font-family:Sans"
+               x="-891.36713"
+               y="-142.24776"
+               id="text3431"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 id="tspan3433"
+                 x="-891.36713"
+                 y="-142.24776"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#dee3db;font-family:FifthLeg;-inkscape-font-specification:FifthLeg">12.3</tspan></text>
+          </g>
+          <text
+             sodipodi:linespacing="125%"
+             id="text3435"
+             y="275.81418"
+             x="50.967564"
+             style="font-size:26.85687447px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ccff00;fill-opacity:1;stroke:none;font-family:Sans"
+             xml:space="preserve"><tspan
+               y="275.81418"
+               x="50.967564"
+               id="tspan3437"
+               sodipodi:role="line">Coming soon!</tspan></text>
         </g>
       </g>
     </g>
