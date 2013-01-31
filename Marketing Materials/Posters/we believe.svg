@@ -11,15 +11,15 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1523.6221"
-   height="2140.1575"
+   width="1488.189"
+   height="2104.7244"
    id="svg3657"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="we believe.svg"
-   inkscape:export-filename="/home/jospoortvliet/Source Code/artwork/Marketing Materials/Posters/we believe NEW 120dpi.png"
-   inkscape:export-xdpi="120.02"
-   inkscape:export-ydpi="120.02"
+   inkscape:export-filename="/home/jospoortvliet/Downloads/FOSDEM stuff/Final/we believe a2 300dpi.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
    style="enable-background:new">
   <title
      id="title18718">openSUSE 'we believe' poster</title>
@@ -2816,15 +2816,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.29084164"
-     inkscape:cx="-561.90669"
-     inkscape:cy="1076.7375"
+     inkscape:zoom="0.47091352"
+     inkscape:cx="1023.8496"
+     inkscape:cy="1408.6774"
      inkscape:current-layer="layer7"
      showgrid="true"
-     inkscape:window-width="1600"
-     inkscape:window-height="840"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
      inkscape:window-x="0"
-     inkscape:window-y="-3"
+     inkscape:window-y="405"
      inkscape:window-maximized="1"
      units="mm"
      fit-margin-top="3"
@@ -2908,7 +2908,7 @@
      id="layer6"
      inkscape:label="Background"
      style="display:inline"
-     transform="translate(0,85.039457)">
+     transform="translate(0,49.606597)">
     <rect
        style="fill:#3e3e3f;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect12362"
@@ -3386,7 +3386,7 @@
      id="layer7"
      inkscape:label="Texts"
      style="display:inline"
-     transform="translate(0,85.039457)">
+     transform="translate(0,49.606597)">
     <text
        xml:space="preserve"
        style="font-size:37.45583344px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'BellBottom.Laser';-inkscape-font-specification:'BellBottom.Laser'"
@@ -3512,7 +3512,7 @@
          id="tspan4518-0-6"
          x="-2896.2986"
          y="1514.4387"
-         style="font-size:44.99999985px;fill:#ffffff">The openSUSE articles of faith.</tspan></text>
+         style="font-size:45px;fill:#ffffff">The openSUSE articles of faith.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:45px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#7cbd46;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Quicksand;-inkscape-font-specification:Quicksand"
@@ -3767,51 +3767,51 @@
        id="rect12362-4-0"
        width="1565.8142"
        height="2177.886"
-       x="-17.814148"
-       y="-98.881989" />
+       x="-41.814148"
+       y="-76.881989" />
     <text
        xml:space="preserve"
        style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Quicksand;-inkscape-font-specification:Quicksand"
-       x="81.765549"
-       y="1978.5856"
+       x="57.976658"
+       y="2039.1169"
        id="text4516-3-0"
        sodipodi:linespacing="125%"
        transform="scale(1.0088739,0.99120416)"><tspan
          sodipodi:role="line"
          id="tspan4518-0-1"
-         x="81.765549"
-         y="1978.5856"
+         x="57.976658"
+         y="2039.1169"
          style="font-size:36.40281677px;fill:#ffffff">The openSUSE articles of faith.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:41.60322189px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#7cbd46;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Quicksand;-inkscape-font-specification:Quicksand"
-       x="656.17914"
-       y="1978.5831"
+       x="632.39008"
+       y="2039.1145"
        id="text4516-7-2-9"
        sodipodi:linespacing="125%"
        transform="scale(1.0088739,0.99120416)"><tspan
          sodipodi:role="line"
          id="tspan4518-5-3-5"
-         x="656.17914"
-         y="1978.5831"
+         x="632.39008"
+         y="2039.1145"
          style="font-size:36.40281677px;fill:#7cbd46;fill-opacity:1">Because we believe.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:38.95708466px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:'BellBottom.Laser';-inkscape-font-specification:'BellBottom.Laser'"
-       x="58.457996"
-       y="108.32172"
+       x="36.182163"
+       y="172.96573"
        id="text3711-4-4"
        sodipodi:linespacing="125%"
        transform="scale(1.0774011,0.92815943)"><tspan
          sodipodi:role="line"
          id="tspan3713-4-0"
-         x="58.457996"
-         y="108.32172"
+         x="36.182163"
+         y="172.96573"
          style="font-size:218.41693115px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#7cbd46;font-family:Quicksand;-inkscape-font-specification:Quicksand Light">WE BELIEVE</tspan></text>
     <g
        id="layer1-7-7-7"
        inkscape:label="Layer 1"
-       transform="matrix(1.463024,0,0,1.3107566,1025.4435,1672.7492)"
+       transform="matrix(1.463024,0,0,1.3107566,1001.4435,1732.7492)"
        style="fill:#7cbd46;fill-opacity:1;display:inline;enable-background:new">
       <path
          style="fill:#7cbd46;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3872,7 +3872,7 @@
     <g
        style="display:inline;enable-background:new"
        id="g3657-2"
-       transform="translate(-2.805473,655.84272)">
+       transform="translate(-26.805473,715.84272)">
       <g
          id="g3860"
          transform="translate(1.1361333,0.46220774)">
@@ -3930,7 +3930,7 @@
     <g
        style="display:inline;enable-background:new"
        id="g3669-2"
-       transform="translate(-3.664963,-217.95708)">
+       transform="translate(-27.664963,-157.95708)">
       <g
          id="g3853"
          transform="translate(4,0)">
@@ -3988,7 +3988,7 @@
     <g
        style="display:inline;enable-background:new"
        id="g3645-4"
-       transform="translate(-1605.0342,-432.67448)">
+       transform="translate(-1629.0342,-372.67448)">
       <g
          id="g3846"
          transform="translate(-6,0)">
@@ -4436,7 +4436,7 @@
     <g
        style="display:inline;enable-background:new"
        id="g3657-2-3"
-       transform="translate(-2.8013782,1019.8455)">
+       transform="translate(-26.801378,1079.8455)">
       <g
          id="g3860-8"
          transform="translate(1.1361333,0.46220774)">
