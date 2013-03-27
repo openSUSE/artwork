@@ -1,33 +1,15 @@
-openSUSE Artwork Repository
-###########################
-This is the repository of the [artwork team](https://en.opensuse.org/openSUSE:Art_team).
+#Artwork Repository
+This is the repository of the openSUSE [artwork team](https://en.opensuse.org/openSUSE:Art_team).
 While a version control system such as git may seem daunting, it is by far the
 best option for collaborative authoring. GitHub is also relatively easy to use.
 
 
-License
--------
+##License
 All content in is licensed under [CC-BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) unless
 otherwise stated.
 
-Contribute
-----------
-Contents
-
-  • 1 Initial setup
-  • 2 Workflow
-      □ 2.1 Getting the latest changes
-      □ 2.2 Adding new files or directories
-      □ 2.3 Committing changes
-      □ 2.4 Pushing changes
-      □ 2.5 Status
-      □ 2.6 Removing files
-      □ 2.7 Renaming or moving files or directories
-      □ 2.8 History
-  • 3 TODO
-
-Initial setup
-
+##Contribute
+###Initial setup
 If you would like to modify or add material to our repository, you need to do
 the following things first:
 
@@ -47,14 +29,14 @@ the following things first:
     git@github.com:openSUSE/artwork.git (which will create a subdirectory
     "artwork")
 
-Workflow
-
-Getting the latest changes
-
+###Workflow
+####Getting the latest changes
 In order to pull the latest changes that have been stored in the repository,
 use the following command:
 
+```shell
 git pull
+```
 
 That will download the latest version of everything that is in the repository
 on github, and store it on your disk.
@@ -62,12 +44,13 @@ on github, and store it on your disk.
 Of course, that command needs to be ran from a shell while being in your local
 artwork directory (e.g. ~/Documents/artwork)
 
-Adding new files or directories
-
+####Adding new files or directories
 When you create a new file or directory, you have to tell git that you would
 like to add it to the repository first, using the following command:
 
+```shell
 git add filename
+```
 
 (where you replace filename with the actual name of the file or directory you
 want to add).
@@ -75,13 +58,14 @@ want to add).
 Note that adding a file does not upload it to the repository yet, it merely
 instructs git that you want to put it under version control.
 
-Committing changes
-
+####Committing changes
 When you change files and you would like to store their state in the repository
 (e.g. when you think it's good enough to be used by others), use the following
 command:
 
+```shell
 git commit -m "some comment about the change I just made" filename
+```
 
 Please use meaningful comments (what's after -m) as that will help everyone to
 keep track of the changes that were made. Also, make sure to put the comment
@@ -95,16 +79,19 @@ as one "action" in the history of the repository.
 
 To do so, just pass several filenames to the git commit command, like this:
 
+```shell
 git commit -m "changed palette to the right colors" filename1 filename2
 filename3
+```
 
 You can also commit all the changes to all the files in your local copy of the
 repository, by using the -a switch, like this:
 
+```shell
 git commit -m "changed palette to Bento colors" -a
+```
 
-Pushing changes
-
+####Pushing changes
 When you commit changes, git will only store them in your local repository on
 your hard disk, and not to the artwork repository on github, which means that
 no one else will be able to see your changes.
@@ -117,14 +104,16 @@ work on the repository just yet.
 Once you want to share your changes with everyone else, you must "push" those
 changes to the repository, with the following command:
 
+```shell
 git push
+```
 
 Note that the very first time you will do a git push, you will have to use this
 command: git push origin master
 
 From then on, you will only need to use git push
 
-Furthermore, when you want to push your changes to gitorious, it is possible
+Furthermore, when you want to push your changes to github, it is possible
 that someone else already pushed other changes there. git will tell you see
 when that happened, and you will just need to make a git pull before the git
 push
@@ -134,18 +123,18 @@ can be done quite easily from there. Configure Dolphin and under Services you
 can enable Git support. It will then automatically detect git folders and let
 you add files you changed, make commits and push and pull changes.
 
-Status
-
+####Status
 With the command git status, you can see whether you have files on your hard
 disk that have changes (or new files, or deleted files) that have not been
 committed yet.
 
-Example:
-
+```shell
 git status
+```
 
 would output something like this:
 
+```shell
 # On branch master
 # Changed but not updated:
 #   (use "git add <file>..." to update what will be committed)
@@ -154,26 +143,30 @@ would output something like this:
 #       modified:   git-mini-howto.txt
 #
 no changes added to commit (use "git add" and/or "git commit -a")
-
+```
 The output above means that the file git-mini-howto.txt is locally modified:
 you have made changes to that file, but those changes are not committed (yet).
 
-Removing files
-
+####Removing files
 If you want to delete a file from the repository, use git rm instead of
 removing it as you would normally do (using rm filename or your favourite file
 browser), like this:
 
+```shell
 git rm filename
+```
 
 Removing a file is just yet another change for git and, hence, to commit the
 change: git commit -m "removed that file, it's obsolete now" filename (or the
 other commit commands as explained above, such as git commit -a -m "...")
 
-To push that change to gitorious, for everyone: git push
+To push that change to github, for everyone:
 
-Renaming or moving files or directories
+```shell
+git push
+```
 
+####Renaming or moving files or directories
 When you want to rename a file or directory, or move it elsewhere, do not use
 the regular command-line or file manager options to do so. If you do that, git
 will consider the renamed/moved file to be a new one and hence will lose the
@@ -181,13 +174,14 @@ history of changes.
 
 The proper way of doing so is by using git mv, like this:
 
+```shell
 git mv old_filename new_filename
+```
 
 As usual, you will need to commit and push for that change to be visible for
 everyone.
 
-History
-
+####History
 One of the most obvious advantages of version control systems such as git is
 the ability to see the history of a file, which is a log of the modifications
 that have been made, with the commit messages (see the -m option for git
@@ -195,26 +189,32 @@ commit), when changes were made and by whom.
 
 To see the history of a file, use the following command:
 
+```shell
 git log filename
+```
 
 That will display something like this:
 
+```shell
 commit bbcf4e3a848d65fc28d1fb6d20d0ce7add040a33
 Author: Pascal Bleser <pascal.bleser@opensuse.org>
 Date:   Tue Feb 15 23:46:11 2011 +0100
 
     add LICENSE
+```
 
 There is only one change on the file above, but it shows
 
-  • whom made the change: Pascal Bleser
-  • when that change was made: Tue Feb 15
-  • what was changed (the commit message): "add LICENSE"
+* whom made the change: Pascal Bleser
+* when that change was made: Tue Feb 15
+* what was changed (the commit message): "add LICENSE"
 
 You can also see the all the changes, of the whole repository (and not just of
 a single file), by using
 
+```shell
 git log
+```
 
 (without passing a file name)
 
@@ -227,14 +227,13 @@ output (with expected keys, such as arrow up, arrow down, page up, page down,
 git log has quite a few more options, which you can read about by typing git
 log --help (also opens in the pager, press "q" to quit.)
 
-TODO
+###TODO
 
-  • document how to retrieve previous revisions of a file (git checkout)
-  • document how to reset your working environment to the state of the
-    repository, to remove all your local changes (git reset --hard)
-  • mention graphical user interfaces (gitk, qgit, ...)
-  • link to other howtos, cheat sheets, etc, such as http://
-    cheat.errtheblog.com/s/git
+* document how to retrieve previous revisions of a file (git checkout)
+* document how to reset your working environment to the state of the
+  repository, to remove all your local changes (git reset --hard)
+* mention graphical user interfaces (gitk, qgit, ...)
+* link to other howtos, cheat sheets, etc, such as http://cheat.errtheblog.com/s/git
 
 
 Mirrors
