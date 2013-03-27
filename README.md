@@ -1,13 +1,13 @@
 openSUSE Artwork Repository
 ###########################
-This is the repository of the (artwork team)[https://en.opensuse.org/openSUSE:Art_team].
+This is the repository of the [artwork team](https://en.opensuse.org/openSUSE:Art_team).
 While a version control system such as git may seem daunting, it is by far the
 best option for collaborative authoring. GitHub is also relatively easy to use.
 
 
 License
 -------
-All content in is licensed under (CC-BY-SA 3.0)[http://creativecommons.org/licenses/by-sa/3.0/] unless
+All content in is licensed under [CC-BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) unless
 otherwise stated.
 
 Contribute
