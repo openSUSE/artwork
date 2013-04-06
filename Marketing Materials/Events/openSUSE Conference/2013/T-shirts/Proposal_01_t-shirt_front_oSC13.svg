@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Proposal_01_t-shirt_front_oSC13.svg"
+   inkscape:export-filename="/data/Imagens/openSUSE/oSC13/template03.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs4">
+    <filter
+       id="filter8109"
+       inkscape:label="Drop Shadow"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood8111"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite8113"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur8115"
+         stdDeviation="2.2"
+         result="blur" />
+      <feOffset
+         id="feOffset8117"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite8119"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix8121" />
+      <feFlood
+         id="feFlood8123"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite8125"
+         in2="fbSourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur8127"
+         stdDeviation="2.2"
+         result="blur" />
+      <feOffset
+         id="feOffset8129"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite8131"
+         in2="offset"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter8133"
+       inkscape:label="Drop Shadow"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood8135"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite8137"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur8139"
+         stdDeviation="2.2"
+         result="blur" />
+      <feOffset
+         id="feOffset8141"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite8143"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix8145" />
+      <feFlood
+         id="feFlood8147"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite8149"
+         in2="fbSourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur8151"
+         stdDeviation="2.2"
+         result="blur" />
+      <feOffset
+         id="feOffset8153"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite8155"
+         in2="offset"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <path
+       sodipodi:type="arc"
+       style="fill:#b3b3b3;stroke:none"
+       id="path3809-3"
+       sodipodi:cx="-583.09698"
+       sodipodi:cy="297.15201"
+       sodipodi:rx="266.55862"
+       sodipodi:ry="266.55862"
+       d="m -316.53836,297.15201 a 266.55862,266.55862 0 1 1 -533.11725,0 266.55862,266.55862 0 1 1 533.11725,0 z"
+       transform="matrix(0,1,-1,0,-162.43321,1102.3616)" />
+    <filter
+       id="filter4152"
+       inkscape:label="Drop Shadow"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4154"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4156"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4158"
+         stdDeviation="2.2"
+         result="blur" />
+      <feOffset
+         id="feOffset4160"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite4162"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4164" />
+      <feFlood
+         id="feFlood4166"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4168"
+         in2="fbSourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4170"
+         stdDeviation="2.2"
+         result="blur" />
+      <feOffset
+         id="feOffset4172"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite4174"
+         in2="offset"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter4188"
+       inkscape:label="Drop Shadow"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4190"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4192"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4194"
+         stdDeviation="2.2"
+         result="blur" />
+      <feOffset
+         id="feOffset4196"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite4198"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter3961"
+       inkscape:label="Drop Shadow"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood3963"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite3965"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3967"
+         stdDeviation="2.2"
+         result="blur" />
+      <feOffset
+         id="feOffset3969"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite3971"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter4153"
+       inkscape:label="Drop Shadow"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4155"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4157"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4159"
+         stdDeviation="2.9"
+         result="blur" />
+      <feOffset
+         id="feOffset4161"
+         dx="5.5"
+         dy="1.6"
+         result="offset" />
+      <feComposite
+         id="feComposite4163"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.25023705"
+     inkscape:cx="958.5737"
+     inkscape:cy="355.99498"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="741"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="25"
+     fit-margin-left="25"
+     fit-margin-right="25"
+     fit-margin-bottom="25"
+     units="mm" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="logo"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-62.425417,-91.708364)">
+    <text
+       xml:space="preserve"
+       style="font-size:11.72840595px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-386.63409"
+       y="526.53107"
+       id="text6219-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         x="-386.63409"
+         y="526.53107"
+         id="tspan6221-5" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4225"
+       style="font-size:54.16192627px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"
+       xml:space="preserve"
+       x="151.35733"
+       y="95.744019"
+       inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3761"
+       y="424.94919"
+       x="420.26318"
+       style="font-size:6.32471323px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.85548687;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         y="424.94919"
+         x="420.26318"
+         id="tspan3763"
+         sodipodi:role="line" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3765"
+       y="421.70215"
+       x="420.82791"
+       style="font-size:9.48707008px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.85548687;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans"
+       xml:space="preserve"
+       inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         id="tspan3773"
+         y="421.70215"
+         x="420.82791"
+         sodipodi:role="line" /></text>
+    <g
+       id="g3085">
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         transform="translate(62.425417,91.708364)"
+         id="path2445"
+         d="M 521.8125 194.8125 C 410.14869 194.8125 319.10393 283.02011 314.5 393.5625 C 317.99683 374.19051 337.22341 369.30432 356.6875 366.09375 C 347.75906 381.64422 335.98371 396.50977 314.46875 394.3125 C 314.36717 396.97942 314.28125 399.65197 314.28125 402.34375 C 314.28125 516.96101 407.20583 609.875 521.8125 609.875 C 636.41918 609.875 729.34372 516.96101 729.34375 402.34375 C 729.34375 287.72649 636.41918 194.8125 521.8125 194.8125 z M 522.8125 223.53125 C 621.56065 223.53125 701.65625 303.60619 701.65625 402.34375 C 701.65625 501.09193 621.55007 581.125 522.8125 581.125 C 469.4923 581.125 421.62883 557.73611 388.875 520.71875 C 402.34258 510.26631 424.87523 512.83677 452.625 516 C 465.92331 517.51286 481.10305 519.24465 496.75 519.59375 C 540.46407 519.8478 587.50136 511.87218 616.53125 499.1875 C 635.2991 490.9567 647.30113 485.5218 654.8125 478.6875 C 657.52085 476.46583 658.95685 472.75717 660.40625 468.90625 L 661.375 466.3125 C 662.59165 463.20215 664.34214 456.49363 665.125 452.84375 C 665.47413 451.24624 665.66325 449.54495 664.53125 448.65625 L 660.46875 449.40625 C 647.73114 457.04456 615.9065 471.59504 586.09375 472.1875 C 549.15049 472.95978 474.70279 435.00959 466.9375 431 L 466.15625 430.0625 C 464.29428 425.61913 453.1717 399.18977 450.8125 393.625 C 504.40775 428.9179 548.81992 448.43248 582.875 451.46875 C 620.73869 454.83302 650.27445 434.17755 662.90625 425.34375 C 665.37127 423.66162 667.25894 422.34814 668.03125 422.0625 L 668.875 420.6875 C 666.78027 407.3786 646.92803 342.96709 631.96875 327.5 C 627.82161 323.25766 624.50929 319.12303 617.8125 315.1875 C 585.24625 296.20641 525.89627 281.81135 482.34375 273.125 C 486.4207 288.9178 487.48891 305.6262 468.09375 315.5625 C 455.89587 299.78483 467.88873 285.85536 481.625 273 C 453.11707 267.33246 431.47318 264.09708 429.09375 263.75 L 428.09375 264.0625 L 427.71875 264.90625 C 427.71875 264.90625 427.2404 291.60028 427.1875 294.5625 C 422.77589 293.10255 409.09305 288.62434 389.5 283.25 C 415.06463 251.61756 454.24697 223.53125 522.8125 223.53125 z M 455.25 296.9375 C 461.50997 312.28319 465.02913 328.93561 446.5625 340.65625 C 432.11663 326.04783 442.87207 311.01821 455.25 296.9375 z M 501.75 307.53125 C 493.18599 323.24246 481.75331 338.33301 460.0625 336.46875 C 462.6846 316.45132 482.08253 311.14018 501.75 307.53125 z M 570.03125 318.1875 C 570.9436 318.1738 571.8628 318.1571 572.78125 318.1875 C 603.11238 319.27718 626.94298 344.81502 625.90625 375.125 C 625.36668 389.78805 619.20637 403.33562 608.5 413.34375 C 597.76186 423.40477 583.81016 428.63232 569.0625 428.15625 C 538.78423 427.02426 514.95362 401.48643 515.9375 371.21875 C 516.45589 356.53453 522.66766 342.91387 533.4375 332.9375 C 543.49454 323.5053 556.34614 318.39288 570.03125 318.1875 z M 438.71875 329.625 C 439.81427 346.21323 437.89161 363.48772 416.875 370.90625 C 407.85455 353.19811 422.68911 340.75252 438.71875 329.625 z M 570.46875 334.34375 C 569.85014 334.34011 569.22473 334.33665 568.59375 334.375 C 559.76016 334.91205 551.43241 338.50613 544.90625 344.625 C 537.46895 351.60741 533.07794 361.0404 532.75 371.28125 C 532.05176 392.44005 548.61235 410.24836 569.75 411.03125 C 580.02259 411.34861 589.7492 407.77373 597.25 400.8125 C 604.72964 393.79835 609.08888 384.26105 609.40625 374.0625 C 610.11506 352.87195 593.49198 335.11556 572.34375 334.375 C 571.70369 334.3512 571.08736 334.34739 570.46875 334.34375 z M 481.46875 342.75 C 469.47802 356.94271 454.85422 370.02968 434.46875 364.40625 C 441.78486 344.88545 461.71471 342.93937 481.46875 342.75 z M 413.5 349.3125 C 410.17005 366.03274 403.82073 382.81582 381.8125 386.1875 C 377.87679 366.83955 395.2715 357.32801 413.5 349.3125 z M 578.6875 353.5625 C 588.08202 353.5625 595.65628 358.65334 595.65625 364.9375 C 595.65625 371.18994 588.08202 376.34374 578.6875 376.34375 C 569.26124 376.34375 561.625 371.17934 561.625 364.9375 C 561.625 358.65334 569.26124 353.56251 578.6875 353.5625 z M 383.5 364.03125 C 377.96735 380.49249 369.43027 396.73662 347.34375 397.96875 C 346.09047 378.15855 364.50076 370.2955 383.5 364.03125 z M 430.25 371.375 C 438.44105 371.41195 446.96226 373.72395 455.28125 376.375 C 445.7817 382.15914 435.66975 387.35381 425.75 388.625 C 418.22535 389.58927 410.79641 388.29085 403.84375 383.3125 C 410.22701 376.03518 417.40386 372.70049 424.9375 371.71875 C 426.16099 371.55931 427.38372 371.44798 428.625 371.40625 C 429.16806 371.38799 429.70393 371.37254 430.25 371.375 z M 392.9375 387.15625 C 395.37172 387.14112 397.72506 387.4181 400 387.9375 C 409.06204 390.00647 416.94721 395.90632 424.375 402.1875 C 414.05803 404.48634 403.50212 406.08465 394.5 404.65625 C 386.54732 403.39436 379.82399 399.78023 375.53125 392.125 C 381.83239 388.66833 387.58222 387.18954 392.9375 387.15625 z M 362.46875 397.5625 C 366.89426 397.51599 370.8965 398.43597 374.59375 400.03125 C 382.22718 403.32492 388.53159 409.50255 394.40625 415.96875 C 383.92601 417.2331 373.30803 417.77471 364.65625 415.40625 C 357.05525 413.32544 350.9768 409.00289 347.84375 400.90625 C 353.20351 398.63218 358.04324 397.60901 362.46875 397.5625 z M 324.46875 397.875 C 330.63674 397.70432 335.69851 399.20983 339.96875 401.78125 C 347.3334 406.21603 352.36528 413.8658 356.875 421.78125 C 345.77091 421.322 334.71548 420.0404 326.75 415.625 C 320.71374 412.279 316.46325 407.1446 315.34375 399.21875 C 318.64293 398.40124 321.66512 397.95258 324.46875 397.875 z "
+         style="font-size:20.48839951px;color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.02583492;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:TrebuchetMS-Bold" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="14.185573"
+         inkscape:transform-center-y="-8.5214489"
+         sodipodi:nodetypes="cssssscsssccc"
+         id="path5202"
+         d="m 325.73241,638.12511 c 0,0 -8.5694,-9.65539 -20.19567,-13.26876 -11.62626,-3.61339 -12.72957,2.2535 -26.16059,0.13274 -12.91757,-2.0397 -14.77853,-5.0141 -26.81801,-15.14535 -11.80614,-9.93487 -14.22752,-14.81913 -24.47419,-22.77103 -10.24665,-7.95192 -7.9896,-6.88721 -15.99314,-10.35083 -8.00353,-3.46362 -16.021,-3.50366 -16.021,-3.50366 0,0 15.47067,-0.18613 31.65442,1.21147 16.18374,1.39759 18.32141,0.22315 33.08058,4.3789 14.75916,4.15576 15.07073,3.36723 25.95607,12.2441 10.88532,8.87685 16.20407,21.6763 20.85306,28.54683 4.649,6.87054 15.16225,12.45357 14.41971,11.79147 3.92199,8.71041 3.69876,6.73412 3.69876,6.73412 z"
+         style="color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.82339406;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csccsscc"
+         id="path2231"
+         d="m 459.2169,241.997 c -100.05338,46.09133 -170.10905,143.58576 -170.10905,260.88166 0,123.19105 76.72176,228.58995 184.9221,271.08779 l 0,-7.29616 C 369.65055,724.56332 295.95204,622.31235 295.95204,502.87866 c 0,-78.50196 31.83067,-149.56999 83.29243,-201.03175 23.7092,-23.7092 52.03408,-43.80478 82.88096,-57.98528 -1.07888,-1.97858 -2.02753,0.21634 -2.90853,-1.86463 z"
+         style="color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.82339406;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cssssscsssccc"
+         id="path3205"
+         d="m 401.71404,730.17166 c 0,0 -6.64125,-13.65148 -4.42749,-28.04086 2.21375,-14.38939 9.77122,-13.05015 14.75835,-28.77877 4.79646,-15.12733 2.31583,-18.4742 -2.95167,-36.15797 -5.16544,-17.34105 -9.59294,-22.13751 -13.28253,-36.89586 -3.68959,-14.75835 -3.68959,-11.80668 -3.32062,-22.13752 0.36896,-10.33084 4.79647,-19.18586 4.79647,-19.18586 0,0 -8.85501,16.9721 -16.23419,35.42003 -7.37918,18.44793 -9.96188,20.29273 -13.28251,38.37171 -3.32062,18.07897 -4.42749,18.07897 0,33.9442 4.4275,15.86522 16.60313,27.30295 22.1375,35.42004 5.53438,8.11708 6.27231,22.13752 5.90336,21.03064 8.11708,8.11709 5.90333,7.01022 5.90333,7.01022 z"
+         style="color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.82339406;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-y="-16.162441"
+         sodipodi:nodetypes="cssssscsssccc"
+         id="path5188"
+         d="m 327.61483,635.54683 c 0,0 -1.19299,-12.86449 4.7768,-23.77461 5.96978,-10.91013 11.5037,-7.66211 20.04287,-18.84936 8.21271,-10.75957 7.25161,-14.15864 8.32247,-29.86377 1.0501,-15.40076 -1.01164,-20.52293 0.43624,-33.42678 1.44786,-12.90387 0.57949,-10.5353 3.90823,-18.71917 3.32875,-8.18387 9.40675,-14.01633 9.40675,-14.01633 0,0 -11.93891,11.07275 -23.15436,23.75423 -11.21549,12.68144 -13.78404,13.41908 -21.7075,26.97161 -7.9235,13.55254 -8.79171,13.23421 -9.98642,27.2385 -1.19471,14.00427 4.99062,26.68389 6.94363,34.78899 1.95299,8.1051 -1.593,19.56801 -1.55675,18.57366 3.97882,8.84786 2.56804,7.32303 2.56804,7.32303 z"
+         style="color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.82339406;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="-8.8679752"
+         inkscape:transform-center-y="-10.917414"
+         sodipodi:nodetypes="cssssscsssccc"
+         id="path5190"
+         d="m 293.98341,510.9887 c 0,0 3.47705,-10.32698 12.19751,-16.47815 8.72048,-6.15118 12.16852,-1.58991 23.10927,-6.99452 10.52248,-5.19801 10.90723,-8.1678 17.24136,-19.83143 6.21136,-11.43759 6.28403,-16.14192 11.95794,-25.51302 5.6739,-9.37114 4.13423,-7.87603 9.72551,-12.91929 5.59124,-5.04326 12.63951,-7.25374 12.63951,-7.25374 0,0 -13.7116,4.04718 -27.38328,9.60021 -13.67167,5.55299 -16.05102,5.16049 -27.3034,12.61184 -11.25239,7.45134 -11.8597,6.88263 -17.7061,17.19357 -5.84641,10.3109 -5.13211,22.36006 -6.3296,29.31504 -1.19749,6.95499 -8.10599,14.43582 -7.73103,13.6856 0.21958,8.28196 -0.41769,6.58389 -0.41769,6.58389 z"
+         style="color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.82339406;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="-10.567078"
+         inkscape:transform-center-y="-7.4156873"
+         sodipodi:nodetypes="cssssscsssccc"
+         id="path5192"
+         d="m 313.1577,401.63661 c 0,0 7.96293,-11.6051 17.21269,-14.88863 9.24977,-3.28354 11.19138,1.5565 22.22881,-0.53313 10.61546,-2.00976 11.68556,-4.52308 20.1695,-13.22396 8.31951,-8.53226 9.53814,-12.64375 16.87361,-19.49257 7.33547,-6.84885 5.60199,-5.91007 11.80233,-8.98027 6.20033,-3.0702 12.999,-3.30055 12.999,-3.30055 0,0 -13.16397,0.22599 -26.66187,1.78337 -13.49792,1.55737 -15.51365,0.63564 -27.32983,4.44615 -11.81617,3.81048 -12.21574,3.16399 -19.93489,10.79588 -7.71914,7.63187 -10.04118,18.38103 -12.81041,24.19512 -2.76923,5.81407 -10.73682,10.70426 -10.21994,10.13672 -1.83693,7.32257 -4.329,9.06187 -4.329,9.06187 z"
+         style="color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.82339406;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="-12.27378"
+         inkscape:transform-center-y="-6.7302517"
+         sodipodi:nodetypes="cssssscsssccc"
+         id="path5194"
+         d="m 361.55215,318.12563 c 0,0 7.74141,-4.86851 17.55113,-5.25828 9.80976,-0.38979 10.28695,3.64191 21.46945,4.53711 10.755,0.86095 12.50026,-0.77133 23.12551,-5.36133 10.41932,-4.50105 12.76429,-7.28931 21.75829,-10.75637 8.99402,-3.46709 7.06306,-3.15344 13.88744,-4.06134 6.82438,-0.9079 13.41005,0.42971 13.41005,0.42971 0,0 -12.68859,-2.75365 -26.07836,-4.59091 -13.38977,-1.83728 -15.05909,-2.97039 -27.48073,-2.75818 -12.42165,0.21219 -12.61985,-0.35745 -22.20582,3.60701 -9.586,3.96446 -14.88813,11.44593 -19.2072,15.15668 -4.31905,3.71075 -13.3589,5.58039 -12.70083,5.27289 -3.85659,5.03992 -3.52893,3.78301 -3.52893,3.78301 z"
+         style="color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.82339406;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="-12.650615"
+         inkscape:transform-center-y="-6.1894491"
+         sodipodi:nodetypes="cssssscsssccc"
+         id="path5196"
+         d="m 427.0923,262.5221 c 0,0 8.50021,-3.37312 18.2162,-1.96513 9.71601,1.40797 9.44901,5.45902 20.28004,8.38103 10.41699,2.81031 12.43096,1.52414 23.71569,-1.04858 11.06602,-2.52286 13.88069,-4.83607 23.35655,-6.60258 9.4759,-1.76654 7.52012,-1.81074 14.39555,-1.45728 6.87543,0.35346 13.10615,2.87109 13.10615,2.87109 0,0 -11.97248,-5.02423 -24.80166,-9.2755 -12.82918,-4.25131 -14.26355,-5.67018 -26.5151,-7.72966 -12.25156,-2.0595 -12.34243,-2.65576 -22.49114,-0.5083 -10.14872,2.14746 -16.72781,8.535 -21.65182,11.39472 -4.92401,2.85973 -14.15326,3.0473 -13.45011,2.86514 -4.71202,4.25099 -4.16035,3.07505 -4.16035,3.07505 z"
+         style="color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.82339406;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cssssscsssccc"
+         id="path5198"
+         d="m 389.49689,721.11635 c 0,0 -13.25303,-7.36271 -27.74439,-5.98889 -14.49134,1.37381 -13.58238,8.94248 -29.5679,12.98936 -15.37437,3.89214 -18.57528,1.24202 -35.93188,-4.98885 -17.02022,-6.11008 -21.55808,-10.77302 -36.08339,-15.27267 -14.52532,-4.49965 -11.57846,-4.33128 -21.91338,-4.55483 -10.33492,-0.22354 -19.42631,3.66065 -19.42631,3.66065 0,0 17.44606,-7.81047 36.28194,-14.07363 18.83589,-6.26318 20.82399,-8.71837 39.06162,-10.97904 18.23765,-2.26066 18.30034,-3.35798 33.88893,1.93636 15.58858,5.29435 26.318,18.01743 34.10837,23.96711 7.79038,5.94968 21.74618,7.48105 20.66199,7.05211 7.64409,8.51013 6.6644,6.25232 6.6644,6.25232 z"
+         style="color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.82339406;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="8.0444123"
+         inkscape:transform-center-y="-9.9397831"
+         sodipodi:nodetypes="cssssscsssccc"
+         id="path5204"
+         d="m 294.03432,524.86781 c 0,0 -3.94677,-9.89341 -11.24464,-15.12915 -7.29787,-5.23573 -9.26247,-0.37341 -18.11386,-4.64965 -8.51301,-4.11275 -9.19032,-7.01866 -15.43873,-17.9547 -6.12729,-10.72408 -6.80086,-15.38026 -12.25617,-24.109 -5.45532,-8.72875 -4.11296,-7.39883 -8.93686,-11.84557 -4.8239,-4.44674 -10.35875,-5.94137 -10.35875,-5.94137 0,0 10.73409,2.6568 21.63676,6.81024 10.90268,4.1534 12.62118,3.52917 21.97393,9.80353 9.35277,6.27433 9.72972,5.65057 15.43711,15.29388 5.70742,9.64329 6.76272,21.65812 8.56951,28.4342 1.80678,6.77604 7.93168,13.50894 7.55392,12.80231 0.92727,8.23153 1.17778,6.48528 1.17778,6.48528 z"
+         style="color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.82339406;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="5.0823181"
+         inkscape:transform-center-y="-10.001867"
+         sodipodi:nodetypes="cssssscsssccc"
+         id="path5206"
+         d="m 305.71546,407.57435 c 0,0 -1.32592,-9.30812 -7.16767,-15.05699 -5.84176,-5.74886 -9.04262,-1.79096 -16.66639,-6.94296 -7.3323,-4.95506 -7.24622,-7.61291 -10.57254,-18.19984 -3.26185,-10.38176 -2.71767,-14.57546 -5.83448,-23.09949 -3.11682,-8.52404 -2.13754,-7.14456 -5.74298,-11.81003 -3.60546,-4.66545 -8.67884,-6.85181 -8.67884,-6.85181 0,0 9.90194,4.02784 19.58163,9.39608 9.67972,5.36825 11.53747,5.09174 19.13721,12.07694 7.59975,6.98517 8.13364,6.49716 11.26176,15.86385 3.12813,9.36668 1.0502,20.08024 1.07383,26.31384 0.0236,6.23358 6.66229,15.19405 6.473,14.51408 -1.22207,7.3723 -2.86453,3.79633 -2.86453,3.79633 z"
+         style="color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.82339406;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="-6.3466375"
+         inkscape:transform-center-y="-11.350647"
+         sodipodi:nodetypes="cssssscsssccc"
+         id="path5210"
+         d="m 343.70948,337.78698 c 0,0 4.20245,-10.48542 3.16488,-19.20675 -1.03756,-8.72136 -5.08513,-8.48906 -7.5897,-18.21372 -2.40881,-9.35291 -1.05115,-11.15788 1.93774,-21.2798 2.93094,-9.92577 5.34237,-12.44741 7.45965,-20.94757 2.11731,-8.50018 2.08775,-6.74506 1.99426,-12.91549 -0.0935,-6.1704 -2.36817,-11.76618 -2.36817,-11.76618 0,0 4.55679,10.75274 8.31097,22.27288 3.7542,11.52013 5.11436,12.80983 6.70581,23.80769 1.59147,10.99785 2.18233,11.08046 -0.33996,20.18371 -2.52228,9.10329 -9.13612,14.99567 -12.17162,19.4092 -3.03552,4.41349 -3.56986,12.6952 -3.36184,12.06454 -4.41415,4.22078 -3.74202,6.59149 -3.74202,6.59149 z"
+         style="color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.82339406;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="-9.8712613"
+         inkscape:transform-center-y="-4.9193104"
+         sodipodi:nodetypes="cssssscsssccc"
+         id="path5212"
+         d="m 458.12219,242.79353 c 0,0 8.59033,-3.76742 15.05004,-9.56389 6.45977,-5.79646 4.35697,-6.78285 10.83006,-14.38434 6.22566,-7.3109 8.41406,-7.1825 18.18184,-10.36845 9.57849,-3.12421 12.91454,-2.51015 20.90465,-5.51732 7.99014,-3.00717 6.56106,-2.04198 11.47828,-5.60198 4.91722,-3.56 8.19057,-8.63802 8.19057,-8.63802 0,0 -6.18945,9.91474 -13.43138,19.58453 -7.24192,9.66983 -7.54369,11.54616 -15.53632,19.0947 -7.99259,7.54857 -7.73913,8.09421 -16.43414,11.09957 -8.69498,3.00534 -17.02058,1.11181 -22.21773,1.03797 -5.19717,-0.0739 -14.9154,5.71171 -14.93931,4.33509 -1.34706,-0.66365 -2.07656,-1.07786 -2.07656,-1.07786 z"
+         style="color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.82339406;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="-5.5278508"
+         inkscape:transform-center-y="-9.7048115"
+         sodipodi:nodetypes="cssssscsssccc"
+         id="path6198"
+         d="m 402.7141,277.52386 c 0,0 7.53956,-7.9516 9.90523,-16.30209 2.36571,-8.3505 -1.40123,-9.85936 0.0117,-19.74303 1.35899,-9.50583 3.27774,-10.56604 9.83437,-18.47618 6.42958,-7.75686 9.57796,-9.01936 14.72716,-15.82896 5.14919,-6.80962 4.45647,-5.23039 6.71244,-10.86628 2.25599,-5.63589 2.31145,-11.67725 2.31145,-11.67725 0,0 0.0623,11.68793 -0.89614,23.73084 -0.95836,12.04294 -0.21142,13.79045 -2.93737,24.44088 -2.7259,10.65046 -2.22022,10.97639 -7.96631,18.16093 -5.7461,7.18451 -13.99282,9.71875 -18.42618,12.43193 -4.43336,2.71317 -8.06092,9.99714 -7.63259,9.51355 -5.61329,1.95267 -5.64382,4.61566 -5.64382,4.61566 z"
+         style="color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.82339406;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="14.185573"
+         inkscape:transform-center-y="-8.5214489"
+         sodipodi:nodetypes="cssssscsssccc"
+         id="path6329"
+         d="m 847.28677,640.3541 c 0,0 8.84656,-9.65539 20.84887,-13.26877 12.00231,-3.61339 13.14131,2.25351 27.00674,0.13274 13.33539,-2.03969 15.25654,-5.01411 27.68542,-15.14535 12.188,-9.93488 14.68774,-14.81912 25.26579,-22.77102 10.57805,-7.95193 8.24801,-6.88722 16.51045,-10.35083 8.26236,-3.46363 16.53916,-3.50366 16.53916,-3.50366 0,0 -15.97103,-0.18613 -32.67827,1.21147 -16.70716,1.39759 -18.91396,0.22315 -34.15054,4.3789 -15.23651,4.15575 -15.55816,3.36721 -26.79558,12.2441 -11.23741,8.87684 -16.72818,21.6763 -21.52755,28.54683 -4.79936,6.87053 -15.65266,12.45357 -14.88609,11.79146 -4.04886,8.71042 -3.8184,6.73413 -3.8184,6.73413 z"
+         style="color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.82339406;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csccsscc"
+         id="path6333"
+         d="m 709.48483,244.22599 c 103.28952,46.09133 175.6111,143.58576 175.6111,260.88166 0,123.19105 -79.20328,228.58995 -190.90328,271.08779 l 0,-7.29616 C 801.94813,726.7923 878.03037,624.54134 878.03037,505.10765 c 0,-78.50196 -32.86021,-149.57 -85.98646,-201.03176 -24.47607,-23.70921 -53.71708,-43.80477 -85.56169,-57.98528 1.11377,-1.97859 2.09311,0.21634 3.00261,-1.86462 z"
+         style="color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.82339406;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cssssscsssccc"
+         id="path6335"
+         d="m 768.84756,732.40064 c 0,0 6.85607,-13.65147 4.57071,-28.04086 -2.28536,-14.38938 -10.08726,-13.05015 -15.23569,-28.77877 -4.95161,-15.12732 -2.39075,-18.47419 3.04714,-36.15796 5.33249,-17.34106 9.9032,-22.13753 13.71213,-36.89587 3.80892,-14.75834 3.80892,-11.80667 3.42803,-22.13752 -0.3809,-10.33085 -4.95161,-19.18586 -4.95161,-19.18586 0,0 9.14142,16.97211 16.75926,35.42004 7.61785,18.44793 10.2841,20.29273 13.71214,38.37171 3.42802,18.07897 4.57069,18.07897 0,33.94419 -4.57072,15.86523 -17.14016,27.30296 -22.85354,35.42004 -5.71339,8.11709 -6.47519,22.13752 -6.09429,21.03063 -8.37963,8.11711 -6.09428,7.01023 -6.09428,7.01023 z"
+         style="color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.82339406;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-y="-16.162441"
+         sodipodi:nodetypes="cssssscsssccc"
+         id="path6337"
+         d="m 845.34347,637.77582 c 0,0 1.23157,-12.86449 -4.9313,-23.77462 -6.16288,-10.91012 -11.87579,-7.66211 -20.69114,-18.84936 -8.47836,-10.75957 -7.48617,-14.15863 -8.59165,-29.86376 -1.08407,-15.40078 1.04435,-20.52293 -0.45036,-33.42679 -1.4947,-12.90387 -0.59822,-10.53529 -4.03464,-18.71917 -3.43642,-8.18386 -9.71101,-14.01632 -9.71101,-14.01632 0,0 12.32506,11.07275 23.90328,23.75421 11.57823,12.68146 14.22986,13.4191 22.40961,26.97163 8.17977,13.55252 9.07607,13.23422 10.30941,27.23849 1.23335,14.00426 -5.15203,26.6839 -7.16821,34.789 -2.01615,8.10509 1.64452,19.568 1.60711,18.57366 -4.10752,8.84785 -2.6511,7.32303 -2.6511,7.32303 z"
+         style="color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.82339406;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="-8.8679752"
+         inkscape:transform-center-y="-10.917414"
+         sodipodi:nodetypes="cssssscsssccc"
+         id="path6339"
+         d="m 880.06267,513.21769 c 0,0 -3.58951,-10.32698 -12.59203,-16.47816 -9.00253,-6.15118 -12.56211,-1.58991 -23.85673,-6.99452 -10.86283,-5.198 -11.26001,-8.16779 -17.79902,-19.83143 -6.41225,-11.43758 -6.48727,-16.14191 -12.3447,-25.51302 -5.85743,-9.37113 -4.26795,-7.87603 -10.04007,-12.91928 -5.7721,-5.04326 -13.04834,-7.25375 -13.04834,-7.25375 0,0 14.15511,4.04719 28.26897,9.60021 14.11387,5.553 16.57019,5.16049 28.18652,12.61185 11.61633,7.45134 12.24329,6.88263 18.27879,17.19355 6.03551,10.31091 5.29811,22.36007 6.53431,29.31506 1.23622,6.95498 8.36818,14.43582 7.9811,13.68559 -0.22668,8.28197 0.4312,6.5839 0.4312,6.5839 z"
+         style="color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.82339406;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="-10.567078"
+         inkscape:transform-center-y="-7.4156873"
+         sodipodi:nodetypes="cssssscsssccc"
+         id="path6341"
+         d="m 860.2682,403.86559 c 0,0 -8.22048,-11.60511 -17.76942,-14.88863 -9.54896,-3.28354 -11.55335,1.5565 -22.94778,-0.53312 -10.95882,-2.00976 -12.06353,-4.52308 -20.82187,-13.22397 -8.5886,-8.53225 -9.84666,-12.64374 -17.41939,-19.49256 -7.57272,-6.84885 -5.78318,-5.91007 -12.18406,-8.98028 -6.40087,-3.0702 -13.41944,-3.30054 -13.41944,-3.30054 0,0 13.58974,0.22599 27.52423,1.78337 13.93449,1.55737 16.01543,0.63564 28.2138,4.44614 12.19835,3.81048 12.61085,3.16399 20.57965,10.79587 7.96882,7.63188 10.36596,18.38104 13.22476,24.19512 2.8588,5.81408 11.0841,10.70427 10.55049,10.13673 1.89635,7.32258 4.46903,9.06187 4.46903,9.06187 z"
+         style="color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.82339406;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="-12.27378"
+         inkscape:transform-center-y="-6.7302517"
+         sodipodi:nodetypes="cssssscsssccc"
+         id="path6343"
+         d="m 810.30845,320.35462 c 0,0 -7.99178,-4.86851 -18.11879,-5.25828 -10.12705,-0.3898 -10.61969,3.6419 -22.16386,4.5371 -11.10286,0.86096 -12.90459,-0.77132 -23.87349,-5.36132 -10.75634,-4.50105 -13.17713,-7.28932 -22.46204,-10.75638 -9.28494,-3.46709 -7.29152,-3.15344 -14.33663,-4.06133 -7.0451,-0.9079 -13.84378,0.42969 -13.84378,0.42969 0,0 13.09898,-2.75364 26.92184,-4.59089 13.82284,-1.83728 15.54617,-2.9704 28.36957,-2.75819 12.82341,0.2122 13.02803,-0.35745 22.92407,3.60702 9.89604,3.96446 15.36967,11.44593 19.82843,15.15667 4.45874,3.71076 13.79098,5.58039 13.11163,5.27289 3.98132,5.03992 3.64305,3.78302 3.64305,3.78302 z"
+         style="color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.82339406;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="-12.650615"
+         inkscape:transform-center-y="-6.1894491"
+         sodipodi:nodetypes="cssssscsssccc"
+         id="path6345"
+         d="m 742.64846,264.75108 c 0,0 -8.77514,-3.37312 -18.80538,-1.96512 -10.03026,1.40797 -9.75464,5.45902 -20.93598,8.38103 -10.75392,2.81029 -12.83303,1.52414 -24.48276,-1.04859 -11.42395,-2.52286 -14.32964,-4.83606 -24.112,-6.60258 -9.78239,-1.76654 -7.76335,-1.81074 -14.86116,-1.45727 -7.0978,0.35345 -13.53005,2.87109 -13.53005,2.87109 0,0 12.35972,-5.02423 25.60385,-9.27551 13.24413,-4.2513 14.72489,-5.67018 27.3727,-7.72965 12.64783,-2.05951 12.74163,-2.65577 23.2186,-0.50831 10.47698,2.14746 17.26885,8.535 22.35214,11.39473 5.08326,2.85973 14.61102,3.04729 13.88515,2.86513 4.8644,4.251 4.29489,3.07505 4.29489,3.07505 z"
+         style="color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.82339406;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cssssscsssccc"
+         id="path6347"
+         d="m 781.45986,723.34534 c 0,0 13.6817,-7.36271 28.64177,-5.9889 14.96007,1.37381 14.0217,8.94249 30.52426,12.98937 15.87165,3.89214 19.17608,1.24201 37.09406,-4.98886 17.57071,-6.11007 22.25538,-10.77302 37.25048,-15.27267 14.9951,-4.49965 11.95292,-4.33128 22.62219,-4.55483 10.66919,-0.22353 20.05458,3.66065 20.05458,3.66065 0,0 -18.01034,-7.81047 -37.45541,-14.07362 -19.44513,-6.26318 -21.49755,-8.71838 -40.32505,-10.97904 -18.82754,-2.26066 -18.89225,-3.35799 -34.98504,1.93634 -16.09279,5.29436 -27.16924,18.01745 -35.21159,23.96713 -8.04234,5.94966 -22.44953,7.48104 -21.33028,7.05211 -7.89133,8.51012 -6.87997,6.25232 -6.87997,6.25232 z"
+         style="color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.82339406;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="8.0444123"
+         inkscape:transform-center-y="-9.9397831"
+         sodipodi:nodetypes="cssssscsssccc"
+         id="path6349"
+         d="m 880.01012,527.0968 c 0,0 4.07441,-9.89342 11.60831,-15.12915 7.53396,-5.23573 9.56208,-0.37341 18.69972,-4.64965 8.78839,-4.11275 9.48765,-7.01865 15.93812,-17.95471 6.32547,-10.72407 7.02082,-15.38025 12.65262,-24.10898 5.63174,-8.72877 4.24596,-7.39884 9.22585,-11.84558 4.97996,-4.44674 10.69386,-5.94137 10.69386,-5.94137 0,0 -11.08133,2.65679 -22.33662,6.81023 -11.25529,4.15342 -13.02941,3.52918 -22.68462,9.80353 -9.65535,6.27433 -10.04444,5.65057 -15.93642,15.29388 -5.89206,9.64328 -6.98151,21.65812 -8.8467,28.43419 -1.86523,6.77606 -8.18823,13.50895 -7.79827,12.80234 -0.95724,8.23152 -1.21585,6.48527 -1.21585,6.48527 z"
+         style="color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.82339406;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="5.0823181"
+         inkscape:transform-center-y="-10.001867"
+         sodipodi:nodetypes="cssssscsssccc"
+         id="path6351"
+         d="m 867.95116,409.80332 c 0,0 1.36881,-9.30811 7.39949,-15.05698 6.03072,-5.74887 9.33511,-1.79095 17.20542,-6.94295 7.56952,-4.95507 7.48066,-7.61292 10.91457,-18.19985 3.36729,-10.38176 2.80556,-14.57545 6.02318,-23.09948 3.21761,-8.52405 2.20665,-7.14457 5.92872,-11.81003 3.72207,-4.66545 8.95956,-6.85181 8.95956,-6.85181 0,0 -10.22224,4.02783 -20.215,9.39607 -9.99283,5.36825 -11.91067,5.09175 -19.75619,12.07694 -7.84556,6.98517 -8.39672,6.49717 -11.62602,15.86386 -3.22929,9.36668 -1.08415,20.08023 -1.10855,26.31382 -0.0244,6.23359 -6.87777,15.19407 -6.68237,14.5141 1.26161,7.37229 2.95719,3.79631 2.95719,3.79631 z"
+         style="color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.82339406;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="-6.3466375"
+         inkscape:transform-center-y="-11.350647"
+         sodipodi:nodetypes="cssssscsssccc"
+         id="path6353"
+         d="m 828.72824,340.01597 c 0,0 -4.33837,-10.48542 -3.26724,-19.20676 1.07112,-8.72136 5.2496,-8.48906 7.83518,-18.21372 2.48673,-9.35291 1.08514,-11.15787 -2.00042,-21.27981 -3.02574,-9.92575 -5.51516,-12.44739 -7.70092,-20.94756 -2.1858,-8.50018 -2.15529,-6.74505 -2.05876,-12.91548 0.0965,-6.17041 2.44477,-11.76618 2.44477,-11.76618 0,0 -4.70418,10.75274 -8.57979,22.27287 -3.87563,11.52013 -5.27977,12.80983 -6.92271,23.80769 -1.64295,10.99785 -2.25291,11.08046 0.35097,20.18372 2.60385,9.10328 9.43161,14.99567 12.56529,19.40918 3.13371,4.41351 3.68532,12.69521 3.47057,12.06456 4.55693,4.22077 3.86306,6.59149 3.86306,6.59149 z"
+         style="color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.82339406;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="-9.8712613"
+         inkscape:transform-center-y="-4.9193104"
+         sodipodi:nodetypes="cssssscsssccc"
+         id="path6355"
+         d="m 710.61494,245.02252 c 0,0 -8.86819,-3.76742 -15.53682,-9.56389 -6.6687,-5.79647 -4.4979,-6.78286 -11.18035,-14.38434 -6.42703,-7.3109 -8.68621,-7.1825 -18.76992,-10.36846 -9.8883,-3.1242 -13.33225,-2.51015 -21.5808,-5.51731 -8.24856,-3.00718 -6.77326,-2.04199 -11.84953,-5.602 -5.07625,-3.55999 -8.45549,-8.638 -8.45549,-8.638 0,0 6.38965,9.91473 13.86581,19.58453 7.47614,9.66982 7.78769,11.54616 16.03882,19.09469 8.25112,7.54858 7.98947,8.09421 16.9657,11.09958 8.97621,3.00534 17.57109,1.11181 22.93635,1.03797 5.36526,-0.0739 15.39783,5.71171 15.42251,4.33508 1.39061,-0.66364 2.14372,-1.07785 2.14372,-1.07785 z"
+         style="color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.82339406;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-x="-5.5278508"
+         inkscape:transform-center-y="-9.7048115"
+         sodipodi:nodetypes="cssssscsssccc"
+         id="path6357"
+         d="m 767.81517,279.75285 c 0,0 -7.78342,-7.95161 -10.22561,-16.30209 -2.44222,-8.35051 1.44654,-9.85936 -0.0121,-19.74303 -1.40295,-9.50584 -3.38377,-10.56604 -10.15246,-18.47618 -6.63754,-7.75686 -9.88776,-9.01936 -15.20351,-15.82897 -5.31574,-6.80961 -4.60061,-5.23038 -6.92954,-10.86628 -2.32895,-5.63589 -2.38622,-11.67725 -2.38622,-11.67725 0,0 -0.0643,11.68794 0.92512,23.73084 0.98938,12.04294 0.21827,13.79046 3.03239,24.44089 2.81407,10.65045 2.29203,10.97639 8.22398,18.16092 5.93194,7.18451 14.4454,9.71875 19.02215,12.43193 4.57676,2.71317 8.32165,9.99713 7.87946,9.51356 5.79483,1.95267 5.82636,4.61566 5.82636,4.61566 z"
+         style="color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.82339406;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         sodipodi:linespacing="81.999999%"
+         id="text3640"
+         y="161.73225"
+         x="218.62216"
+         style="font-size:78.06164551px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:81.99999928%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.14025307;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"
+         xml:space="preserve"><tspan
+           y="161.73225"
+           x="218.62216"
+           id="tspan3642"
+           sodipodi:role="line">openSUSE Conference</tspan></text>
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         xml:space="preserve"
+         style="font-size:166.80255127px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:81.99999928%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.14025307;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"
+         x="841.38995"
+         y="292.25241"
+         id="text3957"
+         sodipodi:linespacing="81.999999%"><tspan
+           sodipodi:role="line"
+           id="tspan3959"
+           x="841.38995"
+           y="292.25241">13</tspan></text>
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+         xml:space="preserve"
+         style="font-size:66.8025589px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:81.99999928%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.14025307;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"
+         x="585.17969"
+         y="765.34375"
+         id="text4165"
+         sodipodi:linespacing="81.999999%"><tspan
+           style="text-align:center;line-height:81.99999928%;text-anchor:middle;color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke-width:4.14025307;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="tspan4173"
+           sodipodi:role="line"
+           x="585.17969"
+           y="765.34375">Greece</tspan><tspan
+           id="tspan4185"
+           style="text-align:center;line-height:81.99999928%;text-anchor:middle;color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke-width:4.14025307;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           sodipodi:role="line"
+           x="585.17969"
+           y="820.12189">Thessaloniki</tspan></text>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4175"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.73621252,0,0,0.73621252,151.35733,242.98652)"
+       inkscape:export-filename="/data/Documentos/openSUSE/oSC13/t-shirt proposals/template04-A4Size.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion4177"><rect
+           id="rect4179"
+           width="398.85315"
+           height="208.09729"
+           x="0"
+           y="931.19714" /></flowRegion><flowPara
+         id="flowPara4181" /></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="text"
+     transform="translate(-62.425417,-91.708364)" />
+</svg>
