@@ -1,0 +1,18 @@
+Linux for open minds
+
+openSUSE® 12.1 is a powerful and free Linux.based operating system for your computer.
+Surf the web, work on documents while listening to music, set up a server or desktop software. The choice is yours and you'll have a lot of fun! The openSUSE project, a worldwide community that promotes the use of Linux everywhere, creates this Linux distribution in an open and transparent way as part of the global Free and Open Source Software movement.
+Learn more about openSUSE and become a part of the community at 
+
+www.opensuse.org
+
+{Screenshots}
+
+{Image Note}
+  System Requirements: This operating system will run in most modern PCs with at least 512 MB of RAM and 4 GB of disk space.
+{End of Image Note}
+
+This DVD includes everything you need to get your desktop, laptop or server up and running with Linux.
+You can also take 12.1 for a test drive before you install it. Just boot your computer from this DVD.
+
+© 2011 Novell, Inc. All rights reserved. Novell, openSUSE logo and the Gecko image are registered trademarks of Novell, Inc. in the United States and other countries. All third-party trademarks are the property of their respective owners.
