@@ -1,0 +1,1953 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   inkscape:export-filename="/Users/josh-andy/Pictures/Wallpapers/VectorAurora.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3937">
+      <stop
+         style="stop-color:#ffff00;stop-opacity:0;"
+         offset="0"
+         id="stop3939" />
+      <stop
+         id="stop3959"
+         offset="0.5"
+         style="stop-color:#ffff00;stop-opacity:1;" />
+      <stop
+         style="stop-color:#00cc19;stop-opacity:1;"
+         offset="1"
+         id="stop3941" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3929">
+      <stop
+         style="stop-color:#ffff45;stop-opacity:0;"
+         offset="0"
+         id="stop3931" />
+      <stop
+         id="stop3945"
+         offset="0.5"
+         style="stop-color:#ffff45;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ff4f0d;stop-opacity:1;"
+         offset="1"
+         id="stop3933" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3919">
+      <stop
+         style="stop-color:#4ebbff;stop-opacity:0;"
+         offset="0"
+         id="stop3921" />
+      <stop
+         id="stop3947"
+         offset="0.5"
+         style="stop-color:#4ebbff;stop-opacity:1;" />
+      <stop
+         style="stop-color:#d6b2e6;stop-opacity:1;"
+         offset="1"
+         id="stop3923" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3907">
+      <stop
+         style="stop-color:#afff76;stop-opacity:0;"
+         offset="0"
+         id="stop3909" />
+      <stop
+         id="stop3949"
+         offset="0.5"
+         style="stop-color:#afff76;stop-opacity:1;" />
+      <stop
+         style="stop-color:#66ffe4;stop-opacity:1;"
+         offset="1"
+         id="stop3911" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3899">
+      <stop
+         style="stop-color:#99fbff;stop-opacity:0;"
+         offset="0"
+         id="stop3901" />
+      <stop
+         id="stop3951"
+         offset="0.5"
+         style="stop-color:#99fbff;stop-opacity:1;" />
+      <stop
+         style="stop-color:#0794ff;stop-opacity:1;"
+         offset="1"
+         id="stop3903" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3891">
+      <stop
+         style="stop-color:#ff8f0d;stop-opacity:1;"
+         offset="0"
+         id="stop3893" />
+      <stop
+         id="stop3953"
+         offset="0.5"
+         style="stop-color:#f7ff99;stop-opacity:1;" />
+      <stop
+         style="stop-color:#f7ff99;stop-opacity:0;"
+         offset="1"
+         id="stop3895" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3881">
+      <stop
+         style="stop-color:#ffe399;stop-opacity:0;"
+         offset="0"
+         id="stop3883" />
+      <stop
+         id="stop3955"
+         offset="0.5"
+         style="stop-color:#ffc800;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ffd55a;stop-opacity:1;"
+         offset="1"
+         id="stop3885" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3873">
+      <stop
+         style="stop-color:#feff99;stop-opacity:0;"
+         offset="0"
+         id="stop3875" />
+      <stop
+         id="stop3957"
+         offset="0.5"
+         style="stop-color:#ffff99;stop-opacity:1;" />
+      <stop
+         style="stop-color:#c1ff99;stop-opacity:1;"
+         offset="1"
+         id="stop3877" />
+    </linearGradient>
+    <filter
+       id="filter4025"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:label="Light eraser"
+       inkscape:menu="Transparency utilities"
+       inkscape:menu-tooltip="Make the lightest parts of the object progressively transparent"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4027"
+         result="result1"
+         flood-opacity="0"
+         flood-color="rgb(128,128,128)" />
+      <feBlend
+         id="feBlend4029"
+         in2="SourceGraphic"
+         mode="normal"
+         result="result2" />
+      <feComposite
+         id="feComposite4031"
+         in2="SourceGraphic"
+         k2="1"
+         operator="arithmetic"
+         result="result3" />
+      <feComposite
+         id="feComposite4033"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4409" />
+      <feColorMatrix
+         id="feColorMatrix4411"
+         result="result14"
+         type="luminanceToAlpha"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4413"
+         in2="result14"
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         operator="out" />
+      <feBlend
+         id="feBlend4415"
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="result15" />
+    </filter>
+    <filter
+       id="filter4035"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:label="Light eraser"
+       inkscape:menu="Transparency utilities"
+       inkscape:menu-tooltip="Make the lightest parts of the object progressively transparent"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4037"
+         result="result1"
+         flood-opacity="0"
+         flood-color="rgb(128,128,128)" />
+      <feBlend
+         id="feBlend4039"
+         in2="SourceGraphic"
+         mode="normal"
+         result="result2" />
+      <feComposite
+         id="feComposite4041"
+         in2="SourceGraphic"
+         k2="1"
+         operator="arithmetic"
+         result="result3" />
+      <feComposite
+         id="feComposite4043"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4417" />
+      <feColorMatrix
+         id="feColorMatrix4419"
+         result="result14"
+         type="luminanceToAlpha"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4421"
+         in2="result14"
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         operator="out" />
+      <feBlend
+         id="feBlend4423"
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="result15" />
+    </filter>
+    <filter
+       id="filter4045"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:label="Light eraser"
+       inkscape:menu="Transparency utilities"
+       inkscape:menu-tooltip="Make the lightest parts of the object progressively transparent"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4047"
+         result="result1"
+         flood-opacity="0"
+         flood-color="rgb(128,128,128)" />
+      <feBlend
+         id="feBlend4049"
+         in2="SourceGraphic"
+         mode="normal"
+         result="result2" />
+      <feComposite
+         id="feComposite4051"
+         in2="SourceGraphic"
+         k2="1"
+         operator="arithmetic"
+         result="result3" />
+      <feComposite
+         id="feComposite4053"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4425" />
+      <feColorMatrix
+         id="feColorMatrix4427"
+         result="result14"
+         type="luminanceToAlpha"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4429"
+         in2="result14"
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         operator="out" />
+      <feBlend
+         id="feBlend4431"
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="result15" />
+    </filter>
+    <filter
+       id="filter4055"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:label="Light eraser"
+       inkscape:menu="Transparency utilities"
+       inkscape:menu-tooltip="Make the lightest parts of the object progressively transparent"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4057"
+         result="result1"
+         flood-opacity="0"
+         flood-color="rgb(128,128,128)" />
+      <feBlend
+         id="feBlend4059"
+         in2="SourceGraphic"
+         mode="normal"
+         result="result2" />
+      <feComposite
+         id="feComposite4061"
+         in2="SourceGraphic"
+         k2="1"
+         operator="arithmetic"
+         result="result3" />
+      <feComposite
+         id="feComposite4063"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4433" />
+      <feColorMatrix
+         id="feColorMatrix4435"
+         result="result14"
+         type="luminanceToAlpha"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4437"
+         in2="result14"
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         operator="out" />
+      <feBlend
+         id="feBlend4439"
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="result15" />
+    </filter>
+    <filter
+       id="filter4065"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:label="Light eraser"
+       inkscape:menu="Transparency utilities"
+       inkscape:menu-tooltip="Make the lightest parts of the object progressively transparent"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4067"
+         result="result1"
+         flood-opacity="0"
+         flood-color="rgb(128,128,128)" />
+      <feBlend
+         id="feBlend4069"
+         in2="SourceGraphic"
+         mode="normal"
+         result="result2" />
+      <feComposite
+         id="feComposite4071"
+         in2="SourceGraphic"
+         k2="1"
+         operator="arithmetic"
+         result="result3" />
+      <feComposite
+         id="feComposite4073"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4441" />
+      <feColorMatrix
+         id="feColorMatrix4443"
+         result="result14"
+         type="luminanceToAlpha"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4445"
+         in2="result14"
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         operator="out" />
+      <feBlend
+         id="feBlend4447"
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="result15" />
+    </filter>
+    <filter
+       id="filter4075"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:label="Colorize"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Blend image or object with a flood color and set lightness and contrast"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4077"
+         result="result1"
+         flood-opacity="0"
+         flood-color="rgb(128,128,128)" />
+      <feBlend
+         id="feBlend4079"
+         in2="SourceGraphic"
+         mode="normal"
+         result="result2" />
+      <feComposite
+         id="feComposite4081"
+         in2="SourceGraphic"
+         k2="1"
+         operator="arithmetic"
+         result="result3" />
+      <feComposite
+         id="feComposite4083"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4449" />
+      <feColorMatrix
+         id="feColorMatrix4451"
+         result="result14"
+         type="luminanceToAlpha"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4453"
+         in2="result14"
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         operator="out" />
+      <feBlend
+         id="feBlend4455"
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5515" />
+      <feColorMatrix
+         id="feColorMatrix5517"
+         values="1"
+         in="fbSourceGraphic"
+         type="saturate"
+         result="result2" />
+      <feFlood
+         id="feFlood5519"
+         flood-color="rgb(254,102,0)"
+         flood-opacity="1"
+         result="result1" />
+      <feBlend
+         id="feBlend5521"
+         in2="result2"
+         mode="multiply"
+         in="result1"
+         result="result3" />
+      <feComposite
+         id="feComposite5523"
+         in2="fbSourceGraphic"
+         operator="in"
+         k2="1"
+         result="result4" />
+    </filter>
+    <filter
+       id="filter4085"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:label="Light eraser"
+       inkscape:menu="Transparency utilities"
+       inkscape:menu-tooltip="Make the lightest parts of the object progressively transparent"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4087"
+         result="result1"
+         flood-opacity="0"
+         flood-color="rgb(128,128,128)" />
+      <feBlend
+         id="feBlend4089"
+         in2="SourceGraphic"
+         mode="normal"
+         result="result2" />
+      <feComposite
+         id="feComposite4091"
+         in2="SourceGraphic"
+         k2="1"
+         operator="arithmetic"
+         result="result3" />
+      <feComposite
+         id="feComposite4093"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4457" />
+      <feColorMatrix
+         id="feColorMatrix4459"
+         result="result14"
+         type="luminanceToAlpha"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4461"
+         in2="result14"
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         operator="out" />
+      <feBlend
+         id="feBlend4463"
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="result15" />
+    </filter>
+    <filter
+       id="filter4095"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:label="Light eraser"
+       inkscape:menu="Transparency utilities"
+       inkscape:menu-tooltip="Make the lightest parts of the object progressively transparent"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4097"
+         result="result1"
+         flood-opacity="0"
+         flood-color="rgb(128,128,128)" />
+      <feBlend
+         id="feBlend4099"
+         in2="SourceGraphic"
+         mode="normal"
+         result="result2" />
+      <feComposite
+         id="feComposite4101"
+         in2="SourceGraphic"
+         k2="1"
+         operator="arithmetic"
+         result="result3" />
+      <feComposite
+         id="feComposite4103"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4465" />
+      <feColorMatrix
+         id="feColorMatrix4467"
+         result="result14"
+         type="luminanceToAlpha"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4469"
+         in2="result14"
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         operator="out" />
+      <feBlend
+         id="feBlend4471"
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="result15" />
+    </filter>
+    <filter
+       id="filter4105"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:label="Light eraser"
+       inkscape:menu="Transparency utilities"
+       inkscape:menu-tooltip="Make the lightest parts of the object progressively transparent"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4107"
+         result="result1"
+         flood-opacity="0"
+         flood-color="rgb(128,128,128)" />
+      <feBlend
+         id="feBlend4109"
+         in2="SourceGraphic"
+         mode="normal"
+         result="result2" />
+      <feComposite
+         id="feComposite4111"
+         in2="SourceGraphic"
+         k2="1"
+         operator="arithmetic"
+         result="result3" />
+      <feComposite
+         id="feComposite4113"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4473" />
+      <feColorMatrix
+         id="feColorMatrix4475"
+         result="result14"
+         type="luminanceToAlpha"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4477"
+         in2="result14"
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         operator="out" />
+      <feBlend
+         id="feBlend4479"
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="result15" />
+    </filter>
+    <filter
+       id="filter4115"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:label="Colorize"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Blend image or object with a flood color and set lightness and contrast"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4117"
+         result="result1"
+         flood-opacity="0"
+         flood-color="rgb(128,128,128)" />
+      <feBlend
+         id="feBlend4119"
+         in2="SourceGraphic"
+         mode="normal"
+         result="result2" />
+      <feComposite
+         id="feComposite4121"
+         in2="SourceGraphic"
+         k2="1"
+         operator="arithmetic"
+         result="result3" />
+      <feComposite
+         id="feComposite4123"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4481" />
+      <feColorMatrix
+         id="feColorMatrix4483"
+         result="result14"
+         type="luminanceToAlpha"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4485"
+         in2="result14"
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         operator="out" />
+      <feBlend
+         id="feBlend4487"
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5525" />
+      <feColorMatrix
+         id="feColorMatrix5527"
+         values="1"
+         in="fbSourceGraphic"
+         type="saturate"
+         result="result2" />
+      <feFlood
+         id="feFlood5529"
+         flood-color="rgb(254,102,0)"
+         flood-opacity="1"
+         result="result1" />
+      <feBlend
+         id="feBlend5531"
+         in2="result2"
+         mode="multiply"
+         in="result1"
+         result="result3" />
+      <feComposite
+         id="feComposite5533"
+         in2="fbSourceGraphic"
+         operator="in"
+         k2="1"
+         result="result4" />
+    </filter>
+    <filter
+       id="filter4125"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:label="Light eraser"
+       inkscape:menu="Transparency utilities"
+       inkscape:menu-tooltip="Make the lightest parts of the object progressively transparent"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4127"
+         result="result1"
+         flood-opacity="0"
+         flood-color="rgb(128,128,128)" />
+      <feBlend
+         id="feBlend4129"
+         in2="SourceGraphic"
+         mode="normal"
+         result="result2" />
+      <feComposite
+         id="feComposite4131"
+         in2="SourceGraphic"
+         k2="1"
+         operator="arithmetic"
+         result="result3" />
+      <feComposite
+         id="feComposite4133"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4489" />
+      <feColorMatrix
+         id="feColorMatrix4491"
+         result="result14"
+         type="luminanceToAlpha"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4493"
+         in2="result14"
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         operator="out" />
+      <feBlend
+         id="feBlend4495"
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="result15" />
+    </filter>
+    <filter
+       id="filter4135"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:label="Light eraser"
+       inkscape:menu="Transparency utilities"
+       inkscape:menu-tooltip="Make the lightest parts of the object progressively transparent"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4137"
+         result="result1"
+         flood-opacity="0"
+         flood-color="rgb(128,128,128)" />
+      <feBlend
+         id="feBlend4139"
+         in2="SourceGraphic"
+         mode="normal"
+         result="result2" />
+      <feComposite
+         id="feComposite4141"
+         in2="SourceGraphic"
+         k2="1"
+         operator="arithmetic"
+         result="result3" />
+      <feComposite
+         id="feComposite4143"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4497" />
+      <feColorMatrix
+         id="feColorMatrix4499"
+         result="result14"
+         type="luminanceToAlpha"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4501"
+         in2="result14"
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         operator="out" />
+      <feBlend
+         id="feBlend4503"
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="result15" />
+    </filter>
+    <filter
+       id="filter4145"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:label="Light eraser"
+       inkscape:menu="Transparency utilities"
+       inkscape:menu-tooltip="Make the lightest parts of the object progressively transparent"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4147"
+         result="result1"
+         flood-opacity="0"
+         flood-color="rgb(128,128,128)" />
+      <feBlend
+         id="feBlend4149"
+         in2="SourceGraphic"
+         mode="normal"
+         result="result2" />
+      <feComposite
+         id="feComposite4151"
+         in2="SourceGraphic"
+         k2="1"
+         operator="arithmetic"
+         result="result3" />
+      <feComposite
+         id="feComposite4153"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4505" />
+      <feColorMatrix
+         id="feColorMatrix4507"
+         result="result14"
+         type="luminanceToAlpha"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4509"
+         in2="result14"
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         operator="out" />
+      <feBlend
+         id="feBlend4511"
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="result15" />
+    </filter>
+    <filter
+       id="filter4155"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:label="Light eraser"
+       inkscape:menu="Transparency utilities"
+       inkscape:menu-tooltip="Make the lightest parts of the object progressively transparent"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4157"
+         result="result1"
+         flood-opacity="0"
+         flood-color="rgb(128,128,128)" />
+      <feBlend
+         id="feBlend4159"
+         in2="SourceGraphic"
+         mode="normal"
+         result="result2" />
+      <feComposite
+         id="feComposite4161"
+         in2="SourceGraphic"
+         k2="1"
+         operator="arithmetic"
+         result="result3" />
+      <feComposite
+         id="feComposite4163"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4513" />
+      <feColorMatrix
+         id="feColorMatrix4515"
+         result="result14"
+         type="luminanceToAlpha"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4517"
+         in2="result14"
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         operator="out" />
+      <feBlend
+         id="feBlend4519"
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="result15" />
+    </filter>
+    <filter
+       id="filter4165"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:label="Light eraser"
+       inkscape:menu="Transparency utilities"
+       inkscape:menu-tooltip="Make the lightest parts of the object progressively transparent"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4167"
+         result="result1"
+         flood-opacity="0"
+         flood-color="rgb(128,128,128)" />
+      <feBlend
+         id="feBlend4169"
+         in2="SourceGraphic"
+         mode="normal"
+         result="result2" />
+      <feComposite
+         id="feComposite4171"
+         in2="SourceGraphic"
+         k2="1"
+         operator="arithmetic"
+         result="result3" />
+      <feComposite
+         id="feComposite4173"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4521" />
+      <feColorMatrix
+         id="feColorMatrix4523"
+         result="result14"
+         type="luminanceToAlpha"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4525"
+         in2="result14"
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         operator="out" />
+      <feBlend
+         id="feBlend4527"
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="result15" />
+    </filter>
+    <filter
+       id="filter4175"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:label="Light eraser"
+       inkscape:menu="Transparency utilities"
+       inkscape:menu-tooltip="Make the lightest parts of the object progressively transparent"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4177"
+         result="result1"
+         flood-opacity="0"
+         flood-color="rgb(128,128,128)" />
+      <feBlend
+         id="feBlend4179"
+         in2="SourceGraphic"
+         mode="normal"
+         result="result2" />
+      <feComposite
+         id="feComposite4181"
+         in2="SourceGraphic"
+         k2="1"
+         operator="arithmetic"
+         result="result3" />
+      <feComposite
+         id="feComposite4183"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4529" />
+      <feColorMatrix
+         id="feColorMatrix4531"
+         result="result14"
+         type="luminanceToAlpha"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4533"
+         in2="result14"
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         operator="out" />
+      <feBlend
+         id="feBlend4535"
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="result15" />
+    </filter>
+    <filter
+       id="filter4185"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:label="Light eraser"
+       inkscape:menu="Transparency utilities"
+       inkscape:menu-tooltip="Make the lightest parts of the object progressively transparent"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4187"
+         result="result1"
+         flood-opacity="0"
+         flood-color="rgb(128,128,128)" />
+      <feBlend
+         id="feBlend4189"
+         in2="SourceGraphic"
+         mode="normal"
+         result="result2" />
+      <feComposite
+         id="feComposite4191"
+         in2="SourceGraphic"
+         k2="1"
+         operator="arithmetic"
+         result="result3" />
+      <feComposite
+         id="feComposite4193"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4537" />
+      <feColorMatrix
+         id="feColorMatrix4539"
+         result="result14"
+         type="luminanceToAlpha"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4541"
+         in2="result14"
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         operator="out" />
+      <feBlend
+         id="feBlend4543"
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="result15" />
+    </filter>
+    <filter
+       id="filter4195"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:label="Light eraser"
+       inkscape:menu="Transparency utilities"
+       inkscape:menu-tooltip="Make the lightest parts of the object progressively transparent"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4197"
+         result="result1"
+         flood-opacity="0"
+         flood-color="rgb(128,128,128)" />
+      <feBlend
+         id="feBlend4199"
+         in2="SourceGraphic"
+         mode="normal"
+         result="result2" />
+      <feComposite
+         id="feComposite4201"
+         in2="SourceGraphic"
+         k2="1"
+         operator="arithmetic"
+         result="result3" />
+      <feComposite
+         id="feComposite4203"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4545" />
+      <feColorMatrix
+         id="feColorMatrix4547"
+         result="result14"
+         type="luminanceToAlpha"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4549"
+         in2="result14"
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         operator="out" />
+      <feBlend
+         id="feBlend4551"
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="result15" />
+    </filter>
+    <filter
+       id="filter4205"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:label="Light eraser"
+       inkscape:menu="Transparency utilities"
+       inkscape:menu-tooltip="Make the lightest parts of the object progressively transparent"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4207"
+         result="result1"
+         flood-opacity="0"
+         flood-color="rgb(128,128,128)" />
+      <feBlend
+         id="feBlend4209"
+         in2="SourceGraphic"
+         mode="normal"
+         result="result2" />
+      <feComposite
+         id="feComposite4211"
+         in2="SourceGraphic"
+         k2="1"
+         operator="arithmetic"
+         result="result3" />
+      <feComposite
+         id="feComposite4213"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4553" />
+      <feColorMatrix
+         id="feColorMatrix4555"
+         result="result14"
+         type="luminanceToAlpha"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4557"
+         in2="result14"
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         operator="out" />
+      <feBlend
+         id="feBlend4559"
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="result15" />
+    </filter>
+    <filter
+       id="filter4215"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:label="Light eraser"
+       inkscape:menu="Transparency utilities"
+       inkscape:menu-tooltip="Make the lightest parts of the object progressively transparent"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4217"
+         result="result1"
+         flood-opacity="0"
+         flood-color="rgb(128,128,128)" />
+      <feBlend
+         id="feBlend4219"
+         in2="SourceGraphic"
+         mode="normal"
+         result="result2" />
+      <feComposite
+         id="feComposite4221"
+         in2="SourceGraphic"
+         k2="1"
+         operator="arithmetic"
+         result="result3" />
+      <feComposite
+         id="feComposite4223"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4561" />
+      <feColorMatrix
+         id="feColorMatrix4563"
+         result="result14"
+         type="luminanceToAlpha"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4565"
+         in2="result14"
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         operator="out" />
+      <feBlend
+         id="feBlend4567"
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="result15" />
+    </filter>
+    <filter
+       id="filter4225"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:label="Light eraser"
+       inkscape:menu="Transparency utilities"
+       inkscape:menu-tooltip="Make the lightest parts of the object progressively transparent"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4227"
+         result="result1"
+         flood-opacity="0"
+         flood-color="rgb(128,128,128)" />
+      <feBlend
+         id="feBlend4229"
+         in2="SourceGraphic"
+         mode="normal"
+         result="result2" />
+      <feComposite
+         id="feComposite4231"
+         in2="SourceGraphic"
+         k2="1"
+         operator="arithmetic"
+         result="result3" />
+      <feComposite
+         id="feComposite4233"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4569" />
+      <feColorMatrix
+         id="feColorMatrix4571"
+         result="result14"
+         type="luminanceToAlpha"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4573"
+         in2="result14"
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         operator="out" />
+      <feBlend
+         id="feBlend4575"
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="result15" />
+    </filter>
+    <filter
+       id="filter4235"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:label="Light eraser"
+       inkscape:menu="Transparency utilities"
+       inkscape:menu-tooltip="Make the lightest parts of the object progressively transparent"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4237"
+         result="result1"
+         flood-opacity="0"
+         flood-color="rgb(128,128,128)" />
+      <feBlend
+         id="feBlend4239"
+         in2="SourceGraphic"
+         mode="normal"
+         result="result2" />
+      <feComposite
+         id="feComposite4241"
+         in2="SourceGraphic"
+         k2="1"
+         operator="arithmetic"
+         result="result3" />
+      <feComposite
+         id="feComposite4243"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4577" />
+      <feColorMatrix
+         id="feColorMatrix4579"
+         result="result14"
+         type="luminanceToAlpha"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4581"
+         in2="result14"
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         operator="out" />
+      <feBlend
+         id="feBlend4583"
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="result15" />
+    </filter>
+    <filter
+       id="filter4245"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:label="Light eraser"
+       inkscape:menu="Transparency utilities"
+       inkscape:menu-tooltip="Make the lightest parts of the object progressively transparent"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4247"
+         result="result1"
+         flood-opacity="0"
+         flood-color="rgb(128,128,128)" />
+      <feBlend
+         id="feBlend4249"
+         in2="SourceGraphic"
+         mode="normal"
+         result="result2" />
+      <feComposite
+         id="feComposite4251"
+         in2="SourceGraphic"
+         k2="1"
+         operator="arithmetic"
+         result="result3" />
+      <feComposite
+         id="feComposite4253"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4585" />
+      <feColorMatrix
+         id="feColorMatrix4587"
+         result="result14"
+         type="luminanceToAlpha"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4589"
+         in2="result14"
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         operator="out" />
+      <feBlend
+         id="feBlend4591"
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="result15" />
+    </filter>
+    <filter
+       id="filter4255"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:label="Light eraser"
+       inkscape:menu="Transparency utilities"
+       inkscape:menu-tooltip="Make the lightest parts of the object progressively transparent"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4257"
+         result="result1"
+         flood-opacity="0"
+         flood-color="rgb(128,128,128)" />
+      <feBlend
+         id="feBlend4259"
+         in2="SourceGraphic"
+         mode="normal"
+         result="result2" />
+      <feComposite
+         id="feComposite4261"
+         in2="SourceGraphic"
+         k2="1"
+         operator="arithmetic"
+         result="result3" />
+      <feComposite
+         id="feComposite4263"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4593" />
+      <feColorMatrix
+         id="feColorMatrix4595"
+         result="result14"
+         type="luminanceToAlpha"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4597"
+         in2="result14"
+         in="fbSourceGraphic"
+         result="fbSourceGraphic"
+         operator="out" />
+      <feBlend
+         id="feBlend4599"
+         in2="fbSourceGraphic"
+         mode="normal"
+         result="result15" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3899"
+       id="linearGradient5449"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(933.20822,-577.14269)"
+       x1="132.75999"
+       y1="629.79272"
+       x2="132.75999"
+       y2="1622.3872" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3907"
+       id="linearGradient5451"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1429.5521,-577.14284)"
+       x1="-575.71802"
+       y1="655.14673"
+       x2="-575.71802"
+       y2="1604.5712" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3919"
+       id="linearGradient5453"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(2599.7841,-577.14281)"
+       x1="-997.87939"
+       y1="635.54431"
+       x2="-997.87939"
+       y2="1622.3719" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3929"
+       id="linearGradient5457"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(3233.4923,-648.57155)"
+       x1="-1155.1069"
+       y1="725.1767"
+       x2="-1155.1069"
+       y2="1731.1166" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3881"
+       id="linearGradient5459"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.30935251,0,0,1,1897.5109,-577.14294)"
+       x1="1475.6443"
+       y1="608.56781"
+       x2="1475.6443"
+       y2="1613.8412" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3899"
+       id="linearGradient5465"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.30935251,0,0,1,2213.499,-577.14278)"
+       x1="132.75999"
+       y1="629.79272"
+       x2="132.75999"
+       y2="1622.3872" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3919"
+       id="linearGradient5469"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3165468,0,0,1,2417.5844,-577.14275)"
+       x1="-997.87939"
+       y1="635.54431"
+       x2="-997.87939"
+       y2="1622.3719" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3881"
+       id="linearGradient5475"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.91366906,0,0,1,302.28968,-577.14279)"
+       x1="1475.6443"
+       y1="608.56781"
+       x2="1475.6443"
+       y2="1613.8412" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3873"
+       id="linearGradient5477"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.16546764,0,0,1,1368.9504,-562.85719)"
+       x1="1873.5876"
+       y1="537.09717"
+       x2="1873.5876"
+       y2="1617.1566" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3899"
+       id="linearGradient5481"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.74100719,0,0,1,1561.0114,-577.14285)"
+       x1="132.75999"
+       y1="629.79272"
+       x2="132.75999"
+       y2="1622.3872" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3937"
+       id="linearGradient5487"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2589927,0,0,1,2634.4588,528.5714)"
+       x1="-991.42841"
+       y1="-459.56387"
+       x2="-991.42841"
+       y2="525.82654" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3929"
+       id="linearGradient5489"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.79856116,0,0,1,2713.7764,-648.57161)"
+       x1="-1155.1069"
+       y1="725.1767"
+       x2="-1155.1069"
+       y2="1731.1166" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3919"
+       id="linearGradient5535"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.22302153,0,0,1,-310.87307,-577.14288)"
+       x1="-997.87939"
+       y1="635.54431"
+       x2="-997.87939"
+       y2="1622.3719" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3907"
+       id="linearGradient5537"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.45323739,0,0,1,-18.97334,-577.14278)"
+       x1="-575.71802"
+       y1="655.14673"
+       x2="-575.71802"
+       y2="1604.5712" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3891"
+       id="linearGradient5539"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.16546759,0,0,1,205.41837,-574.28554)"
+       x1="922.03265"
+       y1="1659.3547"
+       x2="922.03265"
+       y2="572.86304" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3929"
+       id="linearGradient5541"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.39568345,0,0,1,452.14525,-648.57153)"
+       x1="-1155.1069"
+       y1="725.1767"
+       x2="-1155.1069"
+       y2="1731.1166" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3937"
+       id="linearGradient5543"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.28057553,0,0,1,848.2549,528.57134)"
+       x1="-991.42841"
+       y1="-459.56387"
+       x2="-991.42841"
+       y2="525.82654" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3907"
+       id="linearGradient5545"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2589928,0,0,1,695.56192,-577.1429)"
+       x1="-575.71802"
+       y1="655.14673"
+       x2="-575.71802"
+       y2="1604.5712" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3891"
+       id="linearGradient5547"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.82733813,0,0,1,-1375.8421,-574.28567)"
+       x1="922.03265"
+       y1="1659.3547"
+       x2="922.03265"
+       y2="572.86304" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3873"
+       id="linearGradient5549"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3741007,0,0,1,-2396.1265,-562.85717)"
+       x1="1873.5876"
+       y1="537.09717"
+       x2="1873.5876"
+       y2="1617.1566" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3937"
+       id="linearGradient5551"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1209.9433,528.57144)"
+       x1="-991.42841"
+       y1="-459.56387"
+       x2="-991.42841"
+       y2="525.82654" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3891"
+       id="linearGradient5553"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1226.1028,-574.28588)"
+       x1="922.03265"
+       y1="1659.3547"
+       x2="922.03265"
+       y2="572.86304" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3873"
+       id="linearGradient5555"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1299.0031,-562.85717)"
+       x1="1873.5876"
+       y1="537.09717"
+       x2="1873.5876"
+       y2="1617.1566" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3881"
+       id="linearGradient5557"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1673.7439,-577.14289)"
+       x1="1475.6443"
+       y1="608.56781"
+       x2="1475.6443"
+       y2="1613.8412" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.12668997"
+     inkscape:cx="786.33731"
+     inkscape:cy="366.64724"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="985"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,27.637817)">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="Background"
+       width="1920"
+       height="1080"
+       x="0"
+       y="-27.637817"
+       sodipodi:insensitive="true"
+       inkscape:label="#rect2985" />
+    <g
+       id="g5559">
+      <rect
+         transform="matrix(0.7251226,-0.05619851,-0.27801799,1.3353182,726.15013,-103.73702)"
+         y="66.647888"
+         x="-453.74384"
+         height="985.71429"
+         width="397.14285"
+         id="rect3857"
+         style="opacity:0.87383183;fill:url(#linearGradient5557);fill-opacity:1;stroke:none;filter:url(#filter4255)" />
+      <rect
+         transform="matrix(0.7251226,-0.05619851,-0.27801799,1.3353182,626.15013,-103.73702)"
+         style="opacity:0.87383183;fill:url(#linearGradient5555);fill-opacity:1;stroke:none;filter:url(#filter4245)"
+         id="rect3859"
+         width="397.14285"
+         height="985.71429"
+         x="443.85394"
+         y="66.647888" />
+      <rect
+         transform="matrix(0.7251226,-0.05619851,-0.27801799,1.3353182,726.15013,-103.73702)"
+         y="66.647888"
+         x="-560.38855"
+         height="985.71429"
+         width="397.14285"
+         id="rect3861"
+         style="opacity:0.87383183;fill:url(#linearGradient5553);fill-opacity:1;stroke:none;filter:url(#filter4235)" />
+      <rect
+         transform="matrix(0.7251226,-0.05619851,-0.27801799,1.3353182,486.15013,-103.73702)"
+         style="opacity:0.87383178;fill:url(#linearGradient5449);fill-opacity:1;stroke:none;filter:url(#filter4225)"
+         id="rect3863"
+         width="397.14285"
+         height="985.71429"
+         x="804.6369"
+         y="66.647888" />
+      <rect
+         transform="matrix(0.7251226,-0.05619851,-0.27801799,1.3353182,486.15013,-103.73702)"
+         y="66.647888"
+         x="729.55219"
+         height="985.71429"
+         width="397.14285"
+         id="rect3865"
+         style="opacity:0.87383178;fill:url(#linearGradient5451);fill-opacity:1;stroke:none;filter:url(#filter4215)" />
+      <rect
+         transform="matrix(0.7251226,-0.05619851,-0.27801799,1.3353182,486.15013,-103.73702)"
+         style="opacity:0.87383178;fill:url(#linearGradient5453);fill-opacity:1;stroke:none;filter:url(#filter4205)"
+         id="rect3867"
+         width="397.14285"
+         height="985.71429"
+         x="1342.6414"
+         y="66.647888" />
+      <rect
+         transform="matrix(0.7251226,-0.05619851,-0.27801799,1.3353182,726.15013,-103.73702)"
+         y="66.647888"
+         x="-47.199432"
+         height="985.71429"
+         width="397.14285"
+         id="rect3869"
+         style="opacity:0.87383183;fill:url(#linearGradient5551);fill-opacity:1;stroke:none;filter:url(#filter4195)" />
+      <rect
+         transform="matrix(0.7251226,-0.05619851,-0.27801799,1.3353182,486.15013,-103.73702)"
+         style="opacity:0.87383178;fill:url(#linearGradient5457);fill-opacity:1;stroke:none;filter:url(#filter4185)"
+         id="rect3871"
+         width="397.14285"
+         height="985.71429"
+         x="1810.6351"
+         y="66.647888" />
+      <rect
+         transform="matrix(0.7251226,-0.05619851,-0.27801799,1.3353182,486.15013,-103.73702)"
+         style="opacity:0.87383178;fill:url(#linearGradient5459);fill-opacity:1;stroke:none;filter:url(#filter4175)"
+         id="rect3961"
+         width="122.85714"
+         height="985.71429"
+         x="2274.9211"
+         y="66.647888" />
+      <rect
+         transform="matrix(0.7251226,-0.05619851,-0.27801799,1.3353182,626.15013,-103.73702)"
+         y="66.647888"
+         x="-1.2656174"
+         height="985.71429"
+         width="545.71429"
+         id="rect3963"
+         style="opacity:0.87383183;fill:url(#linearGradient5549);fill-opacity:1;stroke:none;filter:url(#filter4165)" />
+      <rect
+         transform="matrix(0.7251226,-0.05619851,-0.27801799,1.3353182,726.15013,-103.73702)"
+         style="opacity:0.87383183;fill:url(#linearGradient5547);fill-opacity:1;stroke:none;filter:url(#filter4155)"
+         id="rect3965"
+         width="328.57141"
+         height="985.71429"
+         x="-825.07129"
+         y="66.647888" />
+      <rect
+         transform="matrix(0.7251226,-0.05619851,-0.27801799,1.3353182,486.15013,-103.73702)"
+         y="66.647888"
+         x="2173.7251"
+         height="985.71429"
+         width="122.85714"
+         id="rect3967"
+         style="opacity:0.87383178;fill:url(#linearGradient5465);fill-opacity:1;stroke:none;filter:url(#filter4145)" />
+      <rect
+         transform="matrix(0.7251226,-0.05619851,-0.27801799,1.3353182,726.15013,-103.73702)"
+         style="opacity:0.87383183;fill:url(#linearGradient5545);fill-opacity:1;stroke:none;filter:url(#filter4135)"
+         id="rect3969"
+         width="500"
+         height="985.71429"
+         x="-185.73309"
+         y="66.647888" />
+      <rect
+         transform="matrix(0.7251226,-0.05619851,-0.27801799,1.3353182,486.15013,-103.73702)"
+         y="66.647888"
+         x="762.49719"
+         height="985.71429"
+         width="522.85712"
+         id="rect3971"
+         style="opacity:0.87383178;fill:url(#linearGradient5469);fill-opacity:1;stroke:none;filter:url(#filter4125)" />
+      <rect
+         transform="matrix(0.7251226,-0.05619851,-0.27801799,1.3353182,626.15013,-103.73702)"
+         style="opacity:0.87383183;fill:url(#linearGradient5543);fill-opacity:1;stroke:none;filter:url(#filter4115)"
+         id="rect3973"
+         width="111.42857"
+         height="985.71429"
+         x="495.53137"
+         y="66.647888" />
+      <rect
+         transform="matrix(0.7251226,-0.05619851,-0.27801799,1.3353182,726.15013,-103.73702)"
+         y="66.647888"
+         x="-110.85577"
+         height="985.71429"
+         width="157.14285"
+         id="rect3975"
+         style="opacity:0.87383183;fill:url(#linearGradient5541);fill-opacity:1;stroke:none;filter:url(#filter4105)" />
+      <rect
+         transform="matrix(0.7251226,-0.05619851,-0.27801799,1.3353182,486.15013,-103.73702)"
+         y="66.647888"
+         x="1416.9659"
+         height="985.71429"
+         width="362.85715"
+         id="rect3993"
+         style="opacity:0.87383178;fill:url(#linearGradient5475);fill-opacity:1;stroke:none;filter:url(#filter4095)" />
+      <rect
+         transform="matrix(0.7251226,-0.05619851,-0.27801799,1.3353182,486.15013,-103.73702)"
+         style="opacity:0.87383178;fill:url(#linearGradient5477);fill-opacity:1;stroke:none;filter:url(#filter4085)"
+         id="rect3995"
+         width="65.714294"
+         height="985.71429"
+         x="1657.3368"
+         y="66.647888" />
+      <rect
+         transform="matrix(0.7251226,-0.05619851,-0.27801799,1.3353182,726.15013,-103.73702)"
+         y="66.647888"
+         x="315.57251"
+         height="985.71429"
+         width="65.714272"
+         id="rect3997"
+         style="opacity:0.88317757;fill:url(#linearGradient5539);fill-opacity:1;stroke:none;filter:url(#filter4075)" />
+      <rect
+         transform="matrix(0.7251226,-0.05619851,-0.27801799,1.3353182,486.15013,-103.73702)"
+         style="opacity:0.87383178;fill:url(#linearGradient5481);fill-opacity:1;stroke:none;filter:url(#filter4065)"
+         id="rect3999"
+         width="294.28571"
+         height="985.71429"
+         x="1465.7393"
+         y="66.647888" />
+      <rect
+         transform="matrix(0.7251226,-0.05619851,-0.27801799,1.3353182,726.15013,-103.73702)"
+         y="66.647888"
+         x="-336.2395"
+         height="985.71429"
+         width="180"
+         id="rect4001"
+         style="opacity:0.87383183;fill:url(#linearGradient5537);fill-opacity:1;stroke:none;filter:url(#filter4055)" />
+      <rect
+         transform="matrix(0.7251226,-0.05619851,-0.27801799,1.3353182,726.15013,-103.73702)"
+         style="opacity:0.87383183;fill:url(#linearGradient5535);fill-opacity:1;stroke:none;filter:url(#filter4045)"
+         id="rect4003"
+         width="88.571404"
+         height="985.71429"
+         x="-591.24298"
+         y="66.647888" />
+      <rect
+         transform="matrix(0.7251226,-0.05619851,-0.27801799,1.3353182,486.15013,-103.73702)"
+         y="66.647888"
+         x="1051.7256"
+         height="985.71429"
+         width="500"
+         id="rect4005"
+         style="opacity:0.87383178;fill:url(#linearGradient5487);fill-opacity:1;stroke:none;filter:url(#filter4035)" />
+      <rect
+         transform="matrix(0.7251226,-0.05619851,-0.27801799,1.3353182,486.15013,-103.73702)"
+         style="opacity:0.87383178;fill:url(#linearGradient5489);fill-opacity:1;stroke:none;filter:url(#filter4025)"
+         id="rect4007"
+         width="317.14285"
+         height="985.71429"
+         x="1577.5378"
+         y="66.647888" />
+    </g>
+  </g>
+</svg>
