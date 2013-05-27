@@ -15,7 +15,7 @@
    height="2104.7244"
    id="svg3657"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="we believe.svg"
    inkscape:export-filename="/home/jospoortvliet/Downloads/FOSDEM stuff/Final/we believe a2 300dpi.png"
    inkscape:export-xdpi="300"
@@ -2816,15 +2816,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.47091352"
-     inkscape:cx="1023.8496"
-     inkscape:cy="1408.6774"
+     inkscape:zoom="0.66597229"
+     inkscape:cx="842.76692"
+     inkscape:cy="1308.8501"
      inkscape:current-layer="layer7"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1025"
      inkscape:window-x="0"
-     inkscape:window-y="405"
+     inkscape:window-y="397"
      inkscape:window-maximized="1"
      units="mm"
      fit-margin-top="3"
@@ -3888,7 +3888,7 @@
              x="80.950989"
              y="600.09137"
              id="tspan4422-6-4"
-             style="font-size:41.60322189px;fill:#ffffff">                                                            Our distribution tools,</tspan><tspan
+             style="font-size:41.60322189px;fill:#ffffff">                                                               Our distribution tools,</tspan><tspan
              sodipodi:role="line"
              x="80.950989"
              y="652.0954"
@@ -3946,7 +3946,7 @@
              x="78.572464"
              y="1101.6083"
              style="font-size:41.60322189px;fill:#ffffff"
-             id="tspan4510-9-0">                                             We port our tools to other</tspan><tspan
+             id="tspan4510-9-0">                                                We port our tools to other</tspan><tspan
              sodipodi:role="line"
              x="78.572464"
              y="1153.6123"
@@ -4004,7 +4004,7 @@
              x="1675.9517"
              y="935.58636"
              style="font-size:41.60322189px;fill:#ffffff"
-             id="tspan4514-7-6-68">                        We  have as little rules, committees, steering</tspan><tspan
+             id="tspan4514-7-6-68">                         We  have as little rules, committees, steering</tspan><tspan
              sodipodi:role="line"
              x="1675.9517"
              y="987.59039"
@@ -4452,7 +4452,7 @@
              x="80.950989"
              y="600.09137"
              style="font-size:41.60322189px;fill:#ffffff"
-             id="tspan3964">                                   openSUSE gives you the full power of Linux.</tspan><tspan
+             id="tspan3964">                                     openSUSE gives you the full power of Linux.</tspan><tspan
              sodipodi:role="line"
              x="80.950989"
              y="652.0954"
