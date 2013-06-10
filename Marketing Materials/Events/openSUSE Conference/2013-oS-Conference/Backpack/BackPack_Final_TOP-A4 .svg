@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.2"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2">
+  <defs
+     id="defs4">
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4153">
+      <feFlood
+         id="feFlood4155"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="flood"
+         result="composite1"
+         id="feComposite4157" />
+      <feGaussianBlur
+         id="feGaussianBlur4159"
+         stdDeviation="2.9"
+         result="blur" />
+      <feOffset
+         id="feOffset4161"
+         dx="5.5"
+         dy="1.6"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         operator="over"
+         in="SourceGraphic"
+         result="composite2"
+         id="feComposite4163" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3961">
+      <feFlood
+         id="feFlood3963"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="flood"
+         result="composite1"
+         id="feComposite3965" />
+      <feGaussianBlur
+         id="feGaussianBlur3967"
+         stdDeviation="2.2"
+         result="blur" />
+      <feOffset
+         id="feOffset3969"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         operator="over"
+         in="SourceGraphic"
+         result="composite2"
+         id="feComposite3971" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4188">
+      <feFlood
+         id="feFlood4190"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="flood"
+         result="composite1"
+         id="feComposite4192" />
+      <feGaussianBlur
+         id="feGaussianBlur4194"
+         stdDeviation="2.2"
+         result="blur" />
+      <feOffset
+         id="feOffset4196"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         operator="over"
+         in="SourceGraphic"
+         result="composite2"
+         id="feComposite4198" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter4152">
+      <feFlood
+         id="feFlood4154"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="flood"
+         result="composite1"
+         id="feComposite4156" />
+      <feGaussianBlur
+         id="feGaussianBlur4158"
+         stdDeviation="2.2"
+         result="blur" />
+      <feOffset
+         id="feOffset4160"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         operator="over"
+         in="SourceGraphic"
+         result="fbSourceGraphic"
+         id="feComposite4162" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4164" />
+      <feFlood
+         id="feFlood4166"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         operator="in"
+         in="flood"
+         result="composite1"
+         id="feComposite4168" />
+      <feGaussianBlur
+         id="feGaussianBlur4170"
+         stdDeviation="2.2"
+         result="blur" />
+      <feOffset
+         id="feOffset4172"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         operator="over"
+         in="fbSourceGraphic"
+         result="composite2"
+         id="feComposite4174" />
+    </filter>
+    <path
+       d="m -316.53836,297.15201 a 266.55862,266.55862 0 1 1 -533.11725,0 266.55862,266.55862 0 1 1 533.11725,0 z"
+       transform="matrix(0,1,-1,0,-162.43321,1102.3616)"
+       id="path3809-3"
+       style="fill:#b3b3b3;stroke:none" />
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter8133">
+      <feFlood
+         id="feFlood8135"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="flood"
+         result="composite1"
+         id="feComposite8137" />
+      <feGaussianBlur
+         id="feGaussianBlur8139"
+         stdDeviation="2.2"
+         result="blur" />
+      <feOffset
+         id="feOffset8141"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         operator="over"
+         in="SourceGraphic"
+         result="fbSourceGraphic"
+         id="feComposite8143" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix8145" />
+      <feFlood
+         id="feFlood8147"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         operator="in"
+         in="flood"
+         result="composite1"
+         id="feComposite8149" />
+      <feGaussianBlur
+         id="feGaussianBlur8151"
+         stdDeviation="2.2"
+         result="blur" />
+      <feOffset
+         id="feOffset8153"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         operator="over"
+         in="fbSourceGraphic"
+         result="composite2"
+         id="feComposite8155" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter8109">
+      <feFlood
+         id="feFlood8111"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         in="flood"
+         result="composite1"
+         id="feComposite8113" />
+      <feGaussianBlur
+         id="feGaussianBlur8115"
+         stdDeviation="2.2"
+         result="blur" />
+      <feOffset
+         id="feOffset8117"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         operator="over"
+         in="SourceGraphic"
+         result="fbSourceGraphic"
+         id="feComposite8119" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix8121" />
+      <feFlood
+         id="feFlood8123"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         operator="in"
+         in="flood"
+         result="composite1"
+         id="feComposite8125" />
+      <feGaussianBlur
+         id="feGaussianBlur8127"
+         stdDeviation="2.2"
+         result="blur" />
+      <feOffset
+         id="feOffset8129"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         operator="over"
+         in="fbSourceGraphic"
+         result="composite2"
+         id="feComposite8131" />
+    </filter>
+    <path
+       d="m 956.18286,315.63318 a 71.767273,72.838425 0 1 1 -143.53454,0 71.767273,72.838425 0 1 1 143.53454,0 z"
+       transform="matrix(-0.03231966,1.2034638,-1.2034638,-0.03231966,1278.5202,-427.89601)"
+       id="path7423-4"
+       style="color:#000000;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 956.18286,315.63318 a 71.767273,72.838425 0 1 1 -143.53454,0 71.767273,72.838425 0 1 1 143.53454,0 z"
+       transform="matrix(-0.03231966,1.2034638,-1.2034638,-0.03231966,1278.5202,-427.89601)"
+       id="path7423-4-1"
+       style="color:#000000;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-308.2677)"
+     id="layer1">
+    <text
+       x="265.52112"
+       y="172.77527"
+       id="text6219-3"
+       xml:space="preserve"
+       style="font-size:3.75638127px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+         x="265.52112"
+         y="172.77527"
+         id="tspan6221-5" /></text>
+    <text
+       x="437.82938"
+       y="34.802441"
+       id="text4225"
+       xml:space="preserve"
+       style="font-size:17.34701538px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold" />
+    <text
+       x="523.95459"
+       y="140.2406"
+       id="text3761"
+       xml:space="preserve"
+       style="font-size:2.02568316px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.85548687;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans"><tspan
+         x="523.95459"
+         y="140.2406"
+         id="tspan3763" /></text>
+    <text
+       x="524.13562"
+       y="139.20067"
+       id="text3765"
+       xml:space="preserve"
+       style="font-size:3.0385251px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.85548687;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans"><tspan
+         x="524.13562"
+         y="139.20067"
+         id="tspan3773" /></text>
+    <flowRoot
+       transform="matrix(0.23579462,0,0,0.23579462,437.82932,81.961512)"
+       id="flowRoot4175"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion4177"><rect
+           width="398.85315"
+           height="208.09729"
+           x="0"
+           y="931.19714"
+           id="rect4179" /></flowRegion><flowPara
+         id="flowPara4181" /></flowRoot>    <g
+       transform="matrix(3.2139578,0,0,3.2139578,-3104.5841,141.86333)"
+       id="layer3" />
+    <text
+       x="-755.10413"
+       y="1234.9044"
+       id="text4587"
+       xml:space="preserve"
+       style="font-size:154.08792114px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+         x="-755.10413"
+         y="1234.9044"
+         id="tspan4591" /></text>
+    <text
+       x="265.52112"
+       y="1734.567"
+       id="text4796"
+       xml:space="preserve"
+       style="font-size:3.75638127px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+         x="265.52112"
+         y="1734.567"
+         id="tspan4798" /></text>
+    <text
+       x="437.82938"
+       y="1596.5944"
+       id="text4800"
+       xml:space="preserve"
+       style="font-size:17.34701538px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold" />
+    <text
+       x="523.95459"
+       y="1702.0322"
+       id="text4802"
+       xml:space="preserve"
+       style="font-size:2.02568316px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.85548687;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans"><tspan
+         x="523.95459"
+         y="1702.0322"
+         id="tspan4804" /></text>
+    <text
+       x="524.13562"
+       y="1700.9926"
+       id="text4806"
+       xml:space="preserve"
+       style="font-size:3.0385251px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.85548687;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans"><tspan
+         x="524.13562"
+         y="1700.9926"
+         id="tspan4808" /></text>
+    <flowRoot
+       transform="matrix(0.23579462,0,0,0.23579462,437.82932,1643.7531)"
+       id="flowRoot4810"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion4812"><rect
+           width="398.85315"
+           height="208.09729"
+           x="0"
+           y="931.19714"
+           id="rect4814" /></flowRegion><flowPara
+         id="flowPara4816" /></flowRoot>    <g
+       transform="matrix(3.2139578,0,0,3.2139578,-3104.5841,1703.655)"
+       id="g4818" />
+    <text
+       x="-755.10413"
+       y="2796.6958"
+       id="text4820"
+       xml:space="preserve"
+       style="font-size:154.08792114px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+         x="-755.10413"
+         y="2796.6958"
+         id="tspan4822" /></text>
+    <text
+       x="1515.0105"
+       y="131.51854"
+       id="text4641"
+       xml:space="preserve"
+       style="font-size:3.75638127px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+         x="1515.0105"
+         y="131.51854"
+         id="tspan4643" /></text>
+    <text
+       x="1687.3187"
+       y="-6.4542832"
+       id="text4645"
+       xml:space="preserve"
+       style="font-size:17.34701538px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold" />
+    <text
+       x="1773.444"
+       y="98.983879"
+       id="text4647"
+       xml:space="preserve"
+       style="font-size:2.02568316px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.85548687;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans"><tspan
+         x="1773.444"
+         y="98.983879"
+         id="tspan4649" /></text>
+    <text
+       x="1773.625"
+       y="97.943947"
+       id="text4651"
+       xml:space="preserve"
+       style="font-size:3.0385251px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.85548687;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans"><tspan
+         x="1773.625"
+         y="97.943947"
+         id="tspan4653" /></text>
+    <flowRoot
+       transform="matrix(0.23579462,0,0,0.23579462,1687.3187,40.704788)"
+       id="flowRoot4655"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion4657"><rect
+           width="398.85315"
+           height="208.09729"
+           x="0"
+           y="931.19714"
+           id="rect4659" /></flowRegion><flowPara
+         id="flowPara4661" /></flowRoot>    <g
+       transform="matrix(3.2139578,0,0,3.2139578,-1855.0947,100.60661)"
+       id="g4663" />
+    <text
+       x="494.38522"
+       y="1193.6477"
+       id="text4665"
+       xml:space="preserve"
+       style="font-size:154.08792114px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+         x="494.38522"
+         y="1193.6477"
+         id="tspan4667" /></text>
+    <text
+       x="1515.0105"
+       y="1693.3103"
+       id="text4671"
+       xml:space="preserve"
+       style="font-size:3.75638127px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+         x="1515.0105"
+         y="1693.3103"
+         id="tspan4673" /></text>
+    <text
+       x="1687.3187"
+       y="1555.3376"
+       id="text4675"
+       xml:space="preserve"
+       style="font-size:17.34701538px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold" />
+    <text
+       x="1773.444"
+       y="1660.7755"
+       id="text4677"
+       xml:space="preserve"
+       style="font-size:2.02568316px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.85548687;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans"><tspan
+         x="1773.444"
+         y="1660.7755"
+         id="tspan4679" /></text>
+    <text
+       x="1773.625"
+       y="1659.7358"
+       id="text4681"
+       xml:space="preserve"
+       style="font-size:3.0385251px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#6eb927;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.85548687;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans"><tspan
+         x="1773.625"
+         y="1659.7358"
+         id="tspan4683" /></text>
+    <flowRoot
+       transform="matrix(0.23579462,0,0,0.23579462,1687.3187,1602.4964)"
+       id="flowRoot4685"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion4687"><rect
+           width="398.85315"
+           height="208.09729"
+           x="0"
+           y="931.19714"
+           id="rect4689" /></flowRegion><flowPara
+         id="flowPara4691" /></flowRoot>    <g
+       transform="matrix(3.2139578,0,0,3.2139578,-1855.0947,1662.3983)"
+       id="g4693" />
+    <text
+       x="494.38522"
+       y="2755.439"
+       id="text4695"
+       xml:space="preserve"
+       style="font-size:154.08792114px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+         x="494.38522"
+         y="2755.439"
+         id="tspan4697" /></text>
+    <g
+       transform="matrix(0.01857315,5.4687009,-5.4687009,0.01857315,-146.83041,-2629.3596)"
+       id="g4905"
+       style="fill:#000000">
+      <g
+         id="g4907"
+         style="fill:#000000">
+        <g
+           id="g4957">
+          <text
+             x="32.201111"
+             y="618.95898"
+             transform="matrix(0,-1,1,0,0,0)"
+             id="text4909"
+             xml:space="preserve"
+             style="font-size:15.5155592px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:81.99999928%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.14025307;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"><tspan
+               x="32.201111"
+               y="618.95898"
+               id="tspan4911">openSUSE Conference 2013</tspan></text>
+        </g>
+      </g>
+    </g>
+    <text
+       x="532.78827"
+       y="822.05414"
+       transform="matrix(0.99999423,-0.00339624,0.00339624,0.99999423,0,0)"
+       id="text4913"
+       xml:space="preserve"
+       style="font-size:48.27951431px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:81.99999928%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.14025307;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"><tspan
+         x="532.78827"
+         y="822.05414"
+         id="tspan4915"
+         style="text-align:center;text-anchor:middle;fill:#000000">18-22 July @ Thessaloniki, Greece</tspan></text>
+    <path
+       d="m 506.7249,610.98231 0.44943,-0.0458 0.0751,-0.5317 c -0.11702,-0.41694 -0.38495,-0.7927 -0.80436,-5.96879 -0.35538,-4.58103 -1.07502,-17.14371 5.24794,-23.3735 2.45311,-2.43124 6.19832,-4.59143 9.15237,-5.29022 12.11438,-2.95324 27.83944,-0.90797 41.26867,14.61933 6.92944,8.02375 10.33099,11.68637 12.03171,13.32467 l 0.58373,0.54242 0.70963,0.51179 c 0.55224,0.31247 23.08085,10.6851 23.08085,10.6851 l 0.45909,-0.11442 0.0193,-0.48891 c -0.14476,-0.16638 -14.27373,-18.41823 -11.77059,-33.45405 1.98275,-11.97884 11.51938,-10.90411 24.69911,-9.40201 4.30939,0.49043 9.21389,1.05399 14.28522,1.16887 14.15888,0.0833 29.41541,-2.51449 38.81739,-6.62598 6.08335,-2.66062 9.96458,-4.41422 12.39641,-6.62642 0.87555,-0.71962 1.33442,-1.90903 1.80466,-3.16148 l 0.32457,-0.84473 c 0.39643,-1.01252 0.96937,-3.18268 1.22103,-4.3621 0.11702,-0.52099 0.16661,-1.08538 -0.20026,-1.36656 l -1.30371,0.2397 c -4.1213,2.47321 -14.44239,7.18965 -24.10389,7.37774 -11.96848,0.24963 -36.09341,-12.0423 -38.60815,-13.34681 l -0.24063,-0.28126 c -0.60637,-1.44059 -4.22649,-10.00744 -4.98877,-11.81201 17.36437,11.43596 31.7632,17.75992 42.79278,18.74071 12.27177,1.09523 21.8407,-5.60323 25.93118,-8.46324 0.80254,-0.5424 1.40879,-0.98083 1.65864,-1.07422 l 0.26042,-0.42864 c -0.67903,-4.30927 -7.0965,-25.17873 -11.93754,-30.18784 -1.34579,-1.37715 -2.4208,-2.71249 -4.59165,-3.98591 C 647.90382,496.73041 606.25884,490.5524 604.3085,490.2713 l -0.33377,0.094 -0.12498,0.29169 c 0,0 -0.1566,8.63985 -0.17843,9.60048 -4.25754,-1.41943 -35.17385,-11.40575 -64.16313,-12.41758 -24.57231,-0.86593 -58.14131,-2.03485 -105.57748,27.11942 l -1.39845,0.87629 c -22.30901,13.9198 -37.71064,31.07483 -45.76627,51.02578 -2.52509,6.27111 -5.92641,20.43153 -2.56728,33.75631 1.46087,5.83342 4.16348,11.67648 7.81647,16.9151 8.23315,11.83227 22.0586,19.69074 36.94848,21.01529 21.01553,1.87752 36.93904,-7.56496 42.60491,-25.24206 3.8918,-12.19789 0,-30.09307 -14.92184,-39.22344 -12.13553,-7.44007 -25.19983,-5.73934 -32.76486,-0.74104 -6.57372,4.36123 -10.29869,11.12285 -10.2258,18.5631 0.14477,13.17882 11.50983,20.19087 19.66986,20.20148 2.3785,0 4.75757,-0.40653 7.44995,-1.28307 0.95015,-0.29253 1.8572,-0.64706 2.84851,-1.26301 l 0.30341,-0.19811 0.19834,-0.11442 -0.0773,0.0301 c 1.86766,-1.25243 2.99442,-3.31797 2.99442,-5.53041 0,-0.60577 -0.0933,-1.2208 -0.26134,-1.83677 -0.95947,-3.32863 -4.25753,-5.35278 -7.67989,-4.72696 l -0.45932,0.094 -0.62548,0.20844 -0.90784,0.30425 c -1.87835,0.46902 -3.29783,0.50114 -3.58976,0.51106 -0.95959,-0.0613 -5.66644,-1.47049 -5.66644,-6.62547 l 0,-0.0613 c 0.0193,-1.88878 0.77263,-3.21413 1.19011,-3.93405 1.45018,-2.29565 5.45741,-4.54936 10.87241,-4.06953 7.09639,0.60501 12.20923,4.2471 15.6002,11.11321 3.15181,6.38551 2.32744,14.23274 -2.11831,19.99234 -4.4139,5.70864 -12.27086,8.12919 -22.7266,6.99102 -10.53932,-1.15766 -19.44992,-7.22051 -24.43789,-16.66378 -4.88335,-9.22443 -5.15503,-20.17064 -0.69905,-28.58028 10.67477,-20.13909 30.82362,-19.93071 41.87424,-18.02077 16.36146,2.8275 31.21017,15.92273 37.81516,33.33887 1.05398,2.77572 1.59621,4.97737 2.06554,6.98058 l 0.70974,3.01561 18.47873,9.0257 0.25224,0.17728 4.5e-4,-1.1e-4 z m 131.35184,-98.29469 c -3.48434,3.23434 -5.47846,7.64834 -5.64563,12.40691 -0.32252,9.80802 7.37864,18.07262 17.18616,18.43834 4.77941,0.15647 9.30749,-1.5241 12.78205,-4.77965 3.47455,-3.24501 5.46879,-7.64841 5.64562,-12.39654 0.33355,-9.81851 -7.36727,-18.0936 -17.1956,-18.44792 -4.75859,-0.15647 -9.29827,1.52325 -12.7726,4.77886 m 12.21093,25.51288 c -6.97777,-0.25571 -12.45566,-6.13856 -12.22253,-13.12669 0.1069,-3.38308 1.55379,-6.51041 4.01144,-8.81921 2.46754,-2.30825 5.69043,-3.50968 9.07378,-3.38245 6.9879,0.24539 12.46715,6.11702 12.23243,13.1157 -0.10463,3.37266 -1.53218,6.49967 -4.00007,8.81855 -2.47903,2.29819 -5.70192,3.49984 -9.09517,3.3941 l 1.2e-4,0 z m 2.93699,-11.47867 c 3.10564,0 5.62595,-1.68017 5.62595,-3.74358 0,-2.07432 -2.52042,-3.75529 -5.62595,-3.75529 -3.10712,0 -5.61788,1.68097 -5.61788,3.75529 0,2.06341 2.51076,3.74358 5.61788,3.74358"
+       id="path4917"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  </g>
+</svg>
