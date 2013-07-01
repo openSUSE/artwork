@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="6023.6221"
+   height="3543.3069"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="oSC13-Board-2.svg"
+   inkscape:export-filename="/home/hvogel/oSC13-Board-1.png"
+   inkscape:export-xdpi="29.997402"
+   inkscape:export-ydpi="29.997402">
+  <defs
+     id="defs4">
+    <filter
+       id="filter11084"
+       inkscape:label="Inkblot"
+       inkscape:menu="Textures"
+       inkscape:menu-tooltip="Inkblot on tissue or rough paper"
+       height="1.3"
+       y="-0.15"
+       width="1.3"
+       x="-0.15"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur11086"
+         result="result1"
+         in="SourceGraphic"
+         stdDeviation="4" />
+      <feTurbulence
+         id="feTurbulence11088"
+         result="result0"
+         numOctaves="4"
+         baseFrequency="0.05"
+         type="fractalNoise" />
+      <feDisplacementMap
+         id="feDisplacementMap11090"
+         in2="result0"
+         result="result2"
+         scale="20"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="result1" />
+      <feGaussianBlur
+         id="feGaussianBlur11092"
+         result="result4"
+         in="SourceGraphic"
+         stdDeviation="3" />
+      <feComposite
+         id="feComposite11094"
+         in2="result2"
+         in="result4"
+         operator="arithmetic"
+         k2="-0.25"
+         k3="0.5"
+         k1="1.5"
+         result="result5" />
+    </filter>
+    <filter
+       id="filter11168"
+       inkscape:label="Inkblot"
+       inkscape:menu="Textures"
+       inkscape:menu-tooltip="Inkblot on tissue or rough paper"
+       height="1.3"
+       y="-0.15"
+       width="1.3"
+       x="-0.15"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur11170"
+         result="result1"
+         in="SourceGraphic"
+         stdDeviation="4" />
+      <feTurbulence
+         id="feTurbulence11172"
+         result="result0"
+         numOctaves="4"
+         baseFrequency="0.05"
+         type="fractalNoise" />
+      <feDisplacementMap
+         id="feDisplacementMap11174"
+         in2="result0"
+         result="result2"
+         scale="20"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="result1" />
+      <feGaussianBlur
+         id="feGaussianBlur11176"
+         result="result4"
+         in="SourceGraphic"
+         stdDeviation="3" />
+      <feComposite
+         id="feComposite11178"
+         in2="result2"
+         in="result4"
+         operator="arithmetic"
+         k2="-0.25"
+         k3="0.5"
+         k1="1.5"
+         result="result5" />
+    </filter>
+    <filter
+       id="filter11180"
+       inkscape:label="Inkblot"
+       inkscape:menu="Textures"
+       inkscape:menu-tooltip="Inkblot on tissue or rough paper"
+       height="1.3"
+       y="-0.15"
+       width="1.3"
+       x="-0.15"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur11182"
+         result="result1"
+         in="SourceGraphic"
+         stdDeviation="4" />
+      <feTurbulence
+         id="feTurbulence11184"
+         result="result0"
+         numOctaves="4"
+         baseFrequency="0.05"
+         type="fractalNoise" />
+      <feDisplacementMap
+         id="feDisplacementMap11186"
+         in2="result0"
+         result="result2"
+         scale="20"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="result1" />
+      <feGaussianBlur
+         id="feGaussianBlur11188"
+         result="result4"
+         in="SourceGraphic"
+         stdDeviation="3" />
+      <feComposite
+         id="feComposite11190"
+         in2="result2"
+         in="result4"
+         operator="arithmetic"
+         k2="-0.25"
+         k3="0.5"
+         k1="1.5"
+         result="result5" />
+    </filter>
+    <filter
+       id="filter11192"
+       inkscape:label="Inkblot"
+       inkscape:menu="Textures"
+       inkscape:menu-tooltip="Inkblot on tissue or rough paper"
+       height="1.3"
+       y="-0.15"
+       width="1.3"
+       x="-0.15"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur11194"
+         result="result1"
+         in="SourceGraphic"
+         stdDeviation="4" />
+      <feTurbulence
+         id="feTurbulence11196"
+         result="result0"
+         numOctaves="4"
+         baseFrequency="0.05"
+         type="fractalNoise" />
+      <feDisplacementMap
+         id="feDisplacementMap11198"
+         in2="result0"
+         result="result2"
+         scale="20"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="result1" />
+      <feGaussianBlur
+         id="feGaussianBlur11200"
+         result="result4"
+         in="SourceGraphic"
+         stdDeviation="3" />
+      <feComposite
+         id="feComposite11202"
+         in2="result2"
+         in="result4"
+         operator="arithmetic"
+         k2="-0.25"
+         k3="0.5"
+         k1="1.5"
+         result="result5" />
+    </filter>
+    <filter
+       id="filter11204"
+       inkscape:label="Inkblot"
+       inkscape:menu="Textures"
+       inkscape:menu-tooltip="Inkblot on tissue or rough paper"
+       height="1.3"
+       y="-0.15"
+       width="1.3"
+       x="-0.15"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur11206"
+         result="result1"
+         in="SourceGraphic"
+         stdDeviation="4" />
+      <feTurbulence
+         id="feTurbulence11208"
+         result="result0"
+         numOctaves="4"
+         baseFrequency="0.05"
+         type="fractalNoise" />
+      <feDisplacementMap
+         id="feDisplacementMap11210"
+         in2="result0"
+         result="result2"
+         scale="20"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="result1" />
+      <feGaussianBlur
+         id="feGaussianBlur11212"
+         result="result4"
+         in="SourceGraphic"
+         stdDeviation="3" />
+      <feComposite
+         id="feComposite11214"
+         in2="result2"
+         in="result4"
+         operator="arithmetic"
+         k2="-0.25"
+         k3="0.5"
+         k1="1.5"
+         result="result5" />
+    </filter>
+    <filter
+       id="filter11216"
+       inkscape:label="Inkblot"
+       inkscape:menu="Textures"
+       inkscape:menu-tooltip="Inkblot on tissue or rough paper"
+       height="1.3"
+       y="-0.15"
+       width="1.3"
+       x="-0.15"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur11218"
+         result="result1"
+         in="SourceGraphic"
+         stdDeviation="4" />
+      <feTurbulence
+         id="feTurbulence11220"
+         result="result0"
+         numOctaves="4"
+         baseFrequency="0.05"
+         type="fractalNoise" />
+      <feDisplacementMap
+         id="feDisplacementMap11222"
+         in2="result0"
+         result="result2"
+         scale="20"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="result1" />
+      <feGaussianBlur
+         id="feGaussianBlur11224"
+         result="result4"
+         in="SourceGraphic"
+         stdDeviation="3" />
+      <feComposite
+         id="feComposite11226"
+         in2="result2"
+         in="result4"
+         operator="arithmetic"
+         k2="-0.25"
+         k3="0.5"
+         k1="1.5"
+         result="result5" />
+    </filter>
+    <filter
+       id="filter11228"
+       inkscape:label="Inkblot"
+       inkscape:menu="Textures"
+       inkscape:menu-tooltip="Inkblot on tissue or rough paper"
+       height="1.3"
+       y="-0.15"
+       width="1.3"
+       x="-0.15"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur11230"
+         result="result1"
+         in="SourceGraphic"
+         stdDeviation="4" />
+      <feTurbulence
+         id="feTurbulence11232"
+         result="result0"
+         numOctaves="4"
+         baseFrequency="0.05"
+         type="fractalNoise" />
+      <feDisplacementMap
+         id="feDisplacementMap11234"
+         in2="result0"
+         result="result2"
+         scale="20"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="result1" />
+      <feGaussianBlur
+         id="feGaussianBlur11236"
+         result="result4"
+         in="SourceGraphic"
+         stdDeviation="3" />
+      <feComposite
+         id="feComposite11238"
+         in2="result2"
+         in="result4"
+         operator="arithmetic"
+         k2="-0.25"
+         k3="0.5"
+         k1="1.5"
+         result="result5" />
+    </filter>
+    <filter
+       id="filter11240"
+       inkscape:label="Inkblot"
+       inkscape:menu="Textures"
+       inkscape:menu-tooltip="Inkblot on tissue or rough paper"
+       height="1.3"
+       y="-0.15"
+       width="1.3"
+       x="-0.15"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur11242"
+         result="result1"
+         in="SourceGraphic"
+         stdDeviation="4" />
+      <feTurbulence
+         id="feTurbulence11244"
+         result="result0"
+         numOctaves="4"
+         baseFrequency="0.05"
+         type="fractalNoise" />
+      <feDisplacementMap
+         id="feDisplacementMap11246"
+         in2="result0"
+         result="result2"
+         scale="20"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="result1" />
+      <feGaussianBlur
+         id="feGaussianBlur11248"
+         result="result4"
+         in="SourceGraphic"
+         stdDeviation="3" />
+      <feComposite
+         id="feComposite11250"
+         in2="result2"
+         in="result4"
+         operator="arithmetic"
+         k2="-0.25"
+         k3="0.5"
+         k1="1.5"
+         result="result5" />
+    </filter>
+    <filter
+       id="filter11252"
+       inkscape:label="Inkblot"
+       inkscape:menu="Textures"
+       inkscape:menu-tooltip="Inkblot on tissue or rough paper"
+       height="1.3"
+       y="-0.15"
+       width="1.3"
+       x="-0.15"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur11254"
+         result="result1"
+         in="SourceGraphic"
+         stdDeviation="4" />
+      <feTurbulence
+         id="feTurbulence11256"
+         result="result0"
+         numOctaves="4"
+         baseFrequency="0.05"
+         type="fractalNoise" />
+      <feDisplacementMap
+         id="feDisplacementMap11258"
+         in2="result0"
+         result="result2"
+         scale="20"
+         yChannelSelector="G"
+         xChannelSelector="R"
+         in="result1" />
+      <feGaussianBlur
+         id="feGaussianBlur11260"
+         result="result4"
+         in="SourceGraphic"
+         stdDeviation="3" />
+      <feComposite
+         id="feComposite11262"
+         in2="result2"
+         in="result4"
+         operator="arithmetic"
+         k2="-0.25"
+         k3="0.5"
+         k1="1.5"
+         result="result5" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.15039617"
+     inkscape:cx="2713.4471"
+     inkscape:cy="1396.9503"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="m"
+     showborder="true"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="991"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,2490.957)">
+    <rect
+       style="fill:#c83737;fill-opacity:1"
+       id="rect9462"
+       width="6023.6221"
+       height="3543.3071"
+       x="9.4032555"
+       y="-1.7203683"
+       transform="translate(0,-2490.957)"
+       sodipodi:insensitive="true" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot9468"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Courier;font-style:normal;font-weight:normal;font-size:12px;line-height:100%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Courier;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
+         id="flowRegion9470"><rect
+           id="rect9472"
+           width="103.43581"
+           height="28.209766"
+           x="4410.127"
+           y="4427.2129" /></flowRegion><flowPara
+         id="flowPara9474"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:1168.17224121000003834px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Ballpark;-inkscape-font-specification:Ballpark;filter:url(#filter11240)"
+       x="2630.0398"
+       y="-1373.3212"
+       id="text9452"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan9454"
+         x="2630.0398"
+         y="-1373.3212"
+         style="font-size:1168.17224121px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#f9f9f9;font-family:Ballpark;-inkscape-font-specification:Ballpark">earn</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2200.07006835999982286px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;font-family:Courier;-inkscape-font-specification:Courier;filter:url(#filter11252)"
+       x="1060.6418"
+       y="-898.72253"
+       id="text9458"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan9460"
+         x="1060.6418"
+         y="-898.72253"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#f2f2f2;font-family:Ballpark;-inkscape-font-specification:Ballpark">L</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:1965.57299805000002380px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;font-family:'Arnold 2.1';-inkscape-font-specification:'Arnold 2.1,';filter:url(#filter11084)"
+       x="1980.9238"
+       y="914.69196"
+       id="text9464"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan9466"
+         x="1980.9238"
+         y="914.69196"
+         style="font-size:1965.57299805px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;font-family:'Arnold 2.1';-inkscape-font-specification:'Arnold 2.1,'">GO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:720.33917236000002049px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ac9d93;fill-opacity:1;stroke:none;font-family:Courier;-inkscape-font-specification:Courier;filter:url(#filter11216)"
+       x="2527.4785"
+       y="-1069.6815"
+       id="text9476"
+       sodipodi:linespacing="100%"
+       transform="matrix(0.99195572,0.12658535,-0.12658535,0.99195572,0,0)"
+       inkscape:transform-center-x="-84.629298"
+       inkscape:transform-center-y="47.016277"><tspan
+         sodipodi:role="line"
+         id="tspan9478"
+         x="2527.4785"
+         y="-1069.6815"
+         style="fill:#ac9d93;font-family:'Arnold 2.1';-inkscape-font-specification:'Arnold 2.1'">A<tspan
+   style="font-size:500px;fill:#ac9d93"
+   id="tspan9486" /></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:540.66229248000001917px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ac9d93;fill-opacity:1;stroke:none;font-family:Courier;-inkscape-font-specification:Courier;filter:url(#filter11204)"
+       x="2697.7305"
+       y="-1601.1768"
+       id="text9488"
+       sodipodi:linespacing="100%"
+       transform="matrix(0.97211641,0.2344988,-0.2344988,0.97211641,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan9490"
+         x="2697.7305"
+         y="-1601.1768"
+         style="fill:#ac9d93;font-family:'Arnold 2.1';-inkscape-font-specification:'Arnold 2.1'">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:953.02972412000008262px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ac9d93;fill-opacity:1;stroke:none;font-family:Courier;-inkscape-font-specification:Courier;filter:url(#filter11228)"
+       x="3087.553"
+       y="-351.931"
+       id="text9492"
+       sodipodi:linespacing="100%"
+       transform="matrix(0.99861962,0.05252488,-0.05252488,0.99861962,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan9494"
+         x="3087.553"
+         y="-351.931"
+         style="fill:#ac9d93;font-family:'Arnold 2.1';-inkscape-font-specification:'Arnold 2.1'">y</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:391.60232544000001553px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ac9d93;fill-opacity:1;stroke:none;font-family:Courier;-inkscape-font-specification:Courier;filter:url(#filter11192)"
+       x="3877.2908"
+       y="-171.31837"
+       id="text9500"
+       sodipodi:linespacing="100%"
+       transform="matrix(0.99173959,-0.12826763,0.12826763,0.99173959,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan9502"
+         x="3877.2908"
+         y="-171.31837"
+         style="font-family:'Arnold 2.1';-inkscape-font-specification:'Arnold 2.1';fill:#ac9d93">ou</tspan></text>
+    <path
+       style="fill:#333333;fill-opacity:1;filter:url(#filter11168)"
+       d="m 2148.0132,-600.51269 386.6194,-303.58524 50.2678,226.16762 -436.8649,77.16364 z"
+       id="rect9504"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#333333;fill-opacity:1;filter:url(#filter11180)"
+       d="m 3812.8862,-1252.5485 -400.7848,284.62267 -39.3226,-228.32517 440.0729,-56.045 z"
+       id="rect9504-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:184.51828003px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:Courier;-inkscape-font-specification:Courier"
+       x="4822.3657"
+       y="740.39124"
+       id="text11264-6"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan11266-4"
+         x="4822.3657"
+         y="740.39124"
+         style="fill:#e6e6e6;font-family:ChollaWideUltraBoldOS;-inkscape-font-specification:ChollaWideUltraBoldOS"><tspan
+           style="font-size:77.04436493px"
+           id="tspan11305">Twitter: </tspan><tspan
+           style="font-size:173.349823px"
+           id="tspan11303">#osc13</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="4822.3657"
+         y="913.74109"
+         style="fill:#e6e6e6;font-family:ChollaWideUltraBoldOS;-inkscape-font-specification:ChollaWideUltraBoldOS"
+         id="tspan11289"><tspan
+           style="font-size:77.04436493px"
+           id="tspan11295">Wirelss: </tspan><tspan
+           style="font-size:173.349823px"
+           id="tspan11301">opensuse</tspan></tspan></text>
+  </g>
+</svg>
