@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Big_Banner_02(Partners)_A4_Final.svg"
+   sodipodi:docname="Big_Banner_02(Partners)_A4_Final.pdf"
    inkscape:export-filename="/home/CarlosRibeiro/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2013-oS-Conference/Banners/Final/Big_Banner_01(Sponsors)_A4_Final.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
@@ -1057,19 +1057,6 @@
          x="-14350.394"
          y="-13120.729" />
     </clipPath>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter11001"
-       x="-0.052144926"
-       width="1.1042899"
-       y="-0.21588001"
-       height="1.43176">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="8.0955001"
-         id="feGaussianBlur11003" />
-    </filter>
     <linearGradient
        id="linearGradient11141-3-9">
       <stop
@@ -1203,16 +1190,6 @@
        y1="835.33984"
        x2="178.93874"
        y2="898.76337" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient11141-3-9"
-       id="linearGradient7610"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.8862622,0,0,1.8862253,20.636658,1427.4778)"
-       x1="178.93874"
-       y1="835.33984"
-       x2="178.93874"
-       y2="898.76337" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath5543-7">
@@ -1286,7 +1263,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.73911574"
      inkscape:cx="133.67646"
-     inkscape:cy="276.42441"
+     inkscape:cy="384.66185"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2180,7 +2157,7 @@
     <path
        id="rect7736"
        d="m 20.636588,2952.4206 702.821302,0 0,169.7601 -702.821302,0 z"
-       style="color:#000000;fill:url(#linearGradient7610);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:connector-curvature="0" />
     <path
        inkscape:export-ydpi="72"
