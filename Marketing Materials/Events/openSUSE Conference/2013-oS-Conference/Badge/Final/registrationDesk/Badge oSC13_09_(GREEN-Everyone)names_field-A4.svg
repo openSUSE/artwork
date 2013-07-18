@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448"
+   height="1052.3622"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Badge oSC13_09_(GREEN-Everyone)names_field-A4.svg"
+   inkscape:export-filename="/home/CarlosRibeiro/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2013-oS-Conference/Badge/Badge oSC13_09_(Blue-PRESS).png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0452675"
+     inkscape:cx="396.08499"
+     inkscape:cy="254.28134"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="cm"
+     inkscape:window-width="1280"
+     inkscape:window-height="753"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient11141">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop11143" />
+      <stop
+         style="stop-color:#e7e7e7;stop-opacity:1;"
+         offset="1"
+         id="stop11145" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8064">
+      <stop
+         style="stop-color:#ddff55;stop-opacity:1;"
+         offset="0"
+         id="stop8066" />
+      <stop
+         style="stop-color:#ddff55;stop-opacity:0;"
+         offset="1"
+         id="stop8068" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16">
+      <path
+         d="M 0,792 1224,792 1224,0 0,0 0,792 z"
+         id="path18"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8064"
+       id="linearGradient8070"
+       x1="-337.98929"
+       y1="813.58734"
+       x2="516.95288"
+       y2="813.58734"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       id="filter11001"
+       x="-0.052144926"
+       width="1.1042899"
+       y="-0.21588001"
+       height="1.43176"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="8.0955001"
+         id="feGaussianBlur11003" />
+    </filter>
+    <path
+       transform="matrix(-1,0,0,-1,1236.1913,210.5532)"
+       d="m 567.54987,105.2766 a 59.454872,59.454872 0 1 1 -118.90974,0 59.454872,59.454872 0 1 1 118.90974,0 z"
+       sodipodi:ry="59.454872"
+       sodipodi:rx="59.454872"
+       sodipodi:cy="105.2766"
+       sodipodi:cx="508.095"
+       id="path3048"
+       style="opacity:0;fill:#999999;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       sodipodi:type="arc" />
+    <path
+       transform="matrix(0,-1,1,0,622.83064,613.38133)"
+       d="m 508.09375,33.6875 c -39.39808,0 -71.59375,32.195673 -71.59375,71.59375 0,39.39808 32.20337,71.5625 71.59375,71.5625 39.39038,0 71.59375,-32.16442 71.59375,-71.5625 0,-39.398077 -32.19567,-71.59375 -71.59375,-71.59375 z"
+       id="path3883"
+       style="opacity:0;fill:#999999;fill-opacity:1;stroke:none"
+       inkscape:original="M 508.09375 45.8125 C 475.25773 45.8125 448.625 72.445231 448.625 105.28125 C 448.625 138.11727 475.25773 164.71875 508.09375 164.71875 C 540.92977 164.71875 567.5625 138.11727 567.5625 105.28125 C 567.5625 72.445231 540.92977 45.8125 508.09375 45.8125 z "
+       inkscape:radius="12.135736"
+       sodipodi:type="inkscape:offset" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4342"
+       sodipodi:cx="607.81238"
+       sodipodi:cy="304.80777"
+       sodipodi:rx="27.219366"
+       sodipodi:ry="27.219366"
+       d="m 635.03174,304.80777 a 27.219366,27.219366 0 1 1 -54.43873,0 27.219366,27.219366 0 1 1 54.43873,0 z"
+       transform="matrix(-1.1177078,0,0,-1.1177078,1256.9567,951.59946)" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4342-5"
+       sodipodi:cx="607.81238"
+       sodipodi:cy="304.80777"
+       sodipodi:rx="27.219366"
+       sodipodi:ry="27.219366"
+       d="m 635.03174,304.80777 a 27.219366,27.219366 0 1 1 -54.43873,0 27.219366,27.219366 0 1 1 54.43873,0 z"
+       transform="matrix(-1.1177078,0,0,-1.1177078,1256.9567,951.59946)" />
+    <linearGradient
+       id="linearGradient11141-7">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop11143-2" />
+      <stop
+         style="stop-color:#e7e7e7;stop-opacity:1;"
+         offset="1"
+         id="stop11145-5" />
+    </linearGradient>
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4342-5-0"
+       sodipodi:cx="607.81238"
+       sodipodi:cy="304.80777"
+       sodipodi:rx="27.219366"
+       sodipodi:ry="27.219366"
+       d="m 635.03174,304.80777 a 27.219366,27.219366 0 1 1 -54.43873,0 27.219366,27.219366 0 1 1 54.43873,0 z"
+       transform="matrix(-1.1177078,0,0,-1.1177078,1256.9567,951.59946)" />
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:none;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4342-5-9"
+       sodipodi:cx="607.81238"
+       sodipodi:cy="304.80777"
+       sodipodi:rx="27.219366"
+       sodipodi:ry="27.219366"
+       d="m 635.03174,304.80777 a 27.219366,27.219366 0 1 1 -54.43873,0 27.219366,27.219366 0 1 1 54.43873,0 z"
+       transform="matrix(-1.1177078,0,0,-1.1177078,1256.9567,951.59946)" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15524">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect15526"
+         width="354.33072"
+         height="212.59842"
+         x="-1.5258789e-05"
+         y="839.76349" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11141"
+       id="linearGradient18330"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.95096804,0,0,0.27978244,-0.00244019,800.99633)"
+       x1="178.93874"
+       y1="835.33984"
+       x2="178.93874"
+       y2="898.76337" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,2.8230253e-4)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Backgroung">
+    <g
+       id="g15556"
+       transform="translate(40.745999,-153.82201)">
+      <g
+         id="g15528"
+         transform="translate(-44.418137,135.24049)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.34269676px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 14.407428,956.14377 -17.3760967,0"
+           id="path7546"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path7548"
+           d="m 14.407428,743.5465 -17.3760967,0"
+           style="fill:none;stroke:#000000;stroke-width:0.34269676px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       transform="translate(780.746,-153.82201)"
+       id="g18334">
+      <g
+         transform="translate(-44.418137,135.24049)"
+         id="g18336">
+        <path
+           inkscape:connector-curvature="0"
+           id="path18338"
+           d="m 14.407428,956.14377 -17.3760967,0"
+           style="fill:none;stroke:#000000;stroke-width:0.34269676px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.34269676px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 14.407428,743.5465 -17.3760967,0"
+           id="path18340"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       id="g18408"
+       transform="translate(20.745999,-114.96988)">
+      <g
+         transform="translate(192.64485,101.8532)"
+         id="g15582">
+        <path
+           inkscape:connector-curvature="0"
+           id="path7541"
+           d="m -192.64486,954.84877 0,17.6074"
+           style="fill:none;stroke:#000000;stroke-width:0.34497014px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <g
+         id="g18384"
+         transform="translate(546.80306,101.8532)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.34497014px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -192.64486,954.84877 0,17.6074"
+           id="path18386"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="translate(901.1338,101.8532)"
+         id="g18388">
+        <path
+           inkscape:connector-curvature="0"
+           id="path18390"
+           d="m -192.64486,954.84877 0,17.6074"
+           style="fill:none;stroke:#000000;stroke-width:0.34497014px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g15941"
+       transform="translate(-3.672138,-231.0336)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.34269676px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 14.407428,956.14377 -17.3760967,0"
+         id="path15943"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path15945"
+         d="m 14.407428,743.5465 -17.3760967,0"
+         style="fill:none;stroke:#000000;stroke-width:0.34269676px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g18342"
+       transform="translate(780.746,-366.27409)">
+      <g
+         id="g18344"
+         transform="translate(-44.418137,135.24049)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.34269676px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 14.407428,956.14377 -17.3760967,0"
+           id="path18346"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path18348"
+           d="m 14.407428,743.5465 -17.3760967,0"
+           style="fill:none;stroke:#000000;stroke-width:0.34269676px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       transform="translate(40.745999,-578.8953)"
+       id="g16171">
+      <g
+         transform="translate(-44.418137,135.24049)"
+         id="g16173">
+        <path
+           inkscape:connector-curvature="0"
+           id="path16175"
+           d="m 14.407428,956.14377 -17.3760967,0"
+           style="fill:none;stroke:#000000;stroke-width:0.34269676px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.34269676px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 14.407428,743.5465 -17.3760967,0"
+           id="path16177"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       id="g18350"
+       transform="translate(780.746,-578.8953)">
+      <g
+         id="g18352"
+         transform="translate(-44.418137,135.24049)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.34269676px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 14.407428,956.14377 -17.3760967,0"
+           id="path18354"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path18356"
+           d="m 14.407428,743.5465 -17.3760967,0"
+           style="fill:none;stroke:#000000;stroke-width:0.34269676px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g16399"
+       transform="translate(40.745999,-791.68562)">
+      <g
+         id="g16401"
+         transform="translate(-44.418137,135.24049)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.34269676px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 14.407428,956.14377 -17.3760967,0"
+           id="path16403"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path16405"
+           d="m 14.407428,743.5465 -17.3760967,0"
+           style="fill:none;stroke:#000000;stroke-width:0.34269676px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       transform="translate(780.746,-791.68562)"
+       id="g18358">
+      <g
+         transform="translate(-44.418137,135.24049)"
+         id="g18360">
+        <path
+           inkscape:connector-curvature="0"
+           id="path18362"
+           d="m 14.407428,956.14377 -17.3760967,0"
+           style="fill:none;stroke:#000000;stroke-width:0.34269676px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.34269676px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 14.407428,743.5465 -17.3760967,0"
+           id="path18364"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       id="g18416"
+       transform="translate(20.745999,-1002.7468)">
+      <g
+         id="g18418"
+         transform="translate(192.64485,101.8532)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.34497014px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -192.64486,954.84877 0,17.6074"
+           id="path18420"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="translate(546.80306,101.8532)"
+         id="g18422">
+        <path
+           inkscape:connector-curvature="0"
+           id="path18424"
+           d="m -192.64486,954.84877 0,17.6074"
+           style="fill:none;stroke:#000000;stroke-width:0.34497014px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <g
+         id="g18426"
+         transform="translate(901.1338,101.8532)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.34497014px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -192.64486,954.84877 0,17.6074"
+           id="path18428"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       transform="translate(21.009532,-752.76213)"
+       id="g16157"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:36.06430054px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="12.823838"
+         y="885.8092"
+         id="text16159"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan16161"
+           x="12.823838"
+           y="885.8092"
+           style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold">Name</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text16163"
+         y="881.91992"
+         x="340.13843"
+         style="font-size:20.64888763px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"
+         xml:space="preserve"><tspan
+           y="881.91992"
+           x="340.13843"
+           id="tspan16165"
+           sodipodi:role="line"
+           style="font-size:20px;font-weight:normal;text-align:end;text-anchor:end;-inkscape-font-specification:FifthLeg"> (Nickname)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:17.27612877px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"
+         x="17.793488"
+         y="904.1424"
+         id="text16167"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:16px;font-weight:normal;-inkscape-font-specification:FifthLeg"
+           sodipodi:role="line"
+           id="tspan16169"
+           x="17.793488"
+           y="904.1424">Affiliation</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g19474"
+       transform="translate(375.34268,-752.76213)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text19476"
+         y="885.8092"
+         x="12.823838"
+         style="font-size:36.06430054px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"
+           y="885.8092"
+           x="12.823838"
+           id="tspan19478"
+           sodipodi:role="line">Name</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:20.64888763px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"
+         x="340.13843"
+         y="881.91992"
+         id="text19480"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:20px;font-weight:normal;text-align:end;text-anchor:end;-inkscape-font-specification:FifthLeg"
+           sodipodi:role="line"
+           id="tspan19482"
+           x="340.13843"
+           y="881.91992"> (Nickname)</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text19484"
+         y="904.1424"
+         x="17.793488"
+         style="font-size:17.27612877px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"
+         xml:space="preserve"><tspan
+           y="904.1424"
+           x="17.793488"
+           id="tspan19486"
+           sodipodi:role="line"
+           style="font-size:16px;font-weight:normal;-inkscape-font-specification:FifthLeg">Affiliation</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g19488"
+       transform="translate(21.009532,-537.50623)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text19490"
+         y="885.8092"
+         x="12.823838"
+         style="font-size:36.06430054px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"
+           y="885.8092"
+           x="12.823838"
+           id="tspan19492"
+           sodipodi:role="line">Name</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:20.64888763px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"
+         x="340.13843"
+         y="881.91992"
+         id="text19494"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:20px;font-weight:normal;text-align:end;text-anchor:end;-inkscape-font-specification:FifthLeg"
+           sodipodi:role="line"
+           id="tspan19496"
+           x="340.13843"
+           y="881.91992"> (Nickname)</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text19498"
+         y="904.1424"
+         x="17.793488"
+         style="font-size:17.27612877px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"
+         xml:space="preserve"><tspan
+           y="904.1424"
+           x="17.793488"
+           id="tspan19500"
+           sodipodi:role="line"
+           style="font-size:16px;font-weight:normal;-inkscape-font-specification:FifthLeg">Affiliation</tspan></text>
+    </g>
+    <g
+       transform="translate(375.34268,-537.50623)"
+       id="g19502"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:36.06430054px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="12.823838"
+         y="885.8092"
+         id="text19504"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan19506"
+           x="12.823838"
+           y="885.8092"
+           style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold">Name</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text19508"
+         y="881.91992"
+         x="340.13843"
+         style="font-size:20.64888763px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"
+         xml:space="preserve"><tspan
+           y="881.91992"
+           x="340.13843"
+           id="tspan19510"
+           sodipodi:role="line"
+           style="font-size:20px;font-weight:normal;text-align:end;text-anchor:end;-inkscape-font-specification:FifthLeg"> (Nickname)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:17.27612877px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"
+         x="17.793488"
+         y="904.1424"
+         id="text19512"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:16px;font-weight:normal;-inkscape-font-specification:FifthLeg"
+           sodipodi:role="line"
+           id="tspan19514"
+           x="17.793488"
+           y="904.1424">Affiliation</tspan></text>
+    </g>
+    <g
+       transform="translate(21.009532,-326.0771)"
+       id="g19516"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:36.06430054px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="12.823838"
+         y="885.8092"
+         id="text19518"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan19520"
+           x="12.823838"
+           y="885.8092"
+           style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold">Name</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text19522"
+         y="881.91992"
+         x="340.13843"
+         style="font-size:20.64888763px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"
+         xml:space="preserve"><tspan
+           y="881.91992"
+           x="340.13843"
+           id="tspan19524"
+           sodipodi:role="line"
+           style="font-size:20px;font-weight:normal;text-align:end;text-anchor:end;-inkscape-font-specification:FifthLeg"> (Nickname)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:17.27612877px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"
+         x="17.793488"
+         y="904.1424"
+         id="text19526"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:16px;font-weight:normal;-inkscape-font-specification:FifthLeg"
+           sodipodi:role="line"
+           id="tspan19528"
+           x="17.793488"
+           y="904.1424">Affiliation</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g19530"
+       transform="translate(375.34268,-326.0771)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text19532"
+         y="885.8092"
+         x="12.823838"
+         style="font-size:36.06430054px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"
+           y="885.8092"
+           x="12.823838"
+           id="tspan19534"
+           sodipodi:role="line">Name</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:20.64888763px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"
+         x="340.13843"
+         y="881.91992"
+         id="text19536"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:20px;font-weight:normal;text-align:end;text-anchor:end;-inkscape-font-specification:FifthLeg"
+           sodipodi:role="line"
+           id="tspan19538"
+           x="340.13843"
+           y="881.91992"> (Nickname)</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text19540"
+         y="904.1424"
+         x="17.793488"
+         style="font-size:17.27612877px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"
+         xml:space="preserve"><tspan
+           y="904.1424"
+           x="17.793488"
+           id="tspan19542"
+           sodipodi:role="line"
+           style="font-size:16px;font-weight:normal;-inkscape-font-specification:FifthLeg">Affiliation</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g19544"
+       transform="translate(21.009532,-113.69128)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text19546"
+         y="885.8092"
+         x="12.823838"
+         style="font-size:36.06430054px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"
+           y="885.8092"
+           x="12.823838"
+           id="tspan19548"
+           sodipodi:role="line">Name</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:20.64888763px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"
+         x="340.13843"
+         y="881.91992"
+         id="text19550"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:20px;font-weight:normal;text-align:end;text-anchor:end;-inkscape-font-specification:FifthLeg"
+           sodipodi:role="line"
+           id="tspan19552"
+           x="340.13843"
+           y="881.91992"> (Nickname)</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text19554"
+         y="904.1424"
+         x="17.793488"
+         style="font-size:17.27612877px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"
+         xml:space="preserve"><tspan
+           y="904.1424"
+           x="17.793488"
+           id="tspan19556"
+           sodipodi:role="line"
+           style="font-size:16px;font-weight:normal;-inkscape-font-specification:FifthLeg">Affiliation</tspan></text>
+    </g>
+    <g
+       transform="translate(375.34268,-113.69128)"
+       id="g19558"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-size:36.06430054px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="12.823838"
+         y="885.8092"
+         id="text19560"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan19562"
+           x="12.823838"
+           y="885.8092"
+           style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold">Name</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text19564"
+         y="881.91992"
+         x="340.13843"
+         style="font-size:20.64888763px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"
+         xml:space="preserve"><tspan
+           y="881.91992"
+           x="340.13843"
+           id="tspan19566"
+           sodipodi:role="line"
+           style="font-size:20px;font-weight:normal;text-align:end;text-anchor:end;-inkscape-font-specification:FifthLeg"> (Nickname)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:17.27612877px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"
+         x="17.793488"
+         y="904.1424"
+         id="text19568"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:16px;font-weight:normal;-inkscape-font-specification:FifthLeg"
+           sodipodi:role="line"
+           id="tspan19570"
+           x="17.793488"
+           y="904.1424">Affiliation</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Name Field" />
+</svg>
