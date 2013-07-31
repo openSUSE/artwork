@@ -18,7 +18,7 @@
    version="1.0"
    sodipodi:docname="News_Paper_oSC13_02.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/home/CarlosRibeiro/Documents/openSUSE/oSC13/newspaper/News_Paper_oSC13_01.png"
+   inkscape:export-filename="/home/CarlosRibeiro/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2013-oS-Conference/oSC13 Gazette/News_Paper_oSC13_02.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -394,16 +394,16 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0868405"
-     inkscape:cx="794.23351"
-     inkscape:cy="410.57871"
+     inkscape:zoom="0.69077249"
+     inkscape:cx="526.18109"
+     inkscape:cy="372.04724"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
-     inkscape:window-height="753"
-     inkscape:window-x="-2"
-     inkscape:window-y="-3"
+     inkscape:window-height="742"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true" />
@@ -974,7 +974,7 @@
             <dc:title>Open Clip Art Library</dc:title>
           </cc:Agent>
         </dc:publisher>
-        <dc:title />
+        <dc:title></dc:title>
         <dc:date>2009-03-31T16:11:58</dc:date>
         <dc:description>This is a news paper done in inkscape.</dc:description>
         <dc:source>http://openclipart.org/detail/23539/news-paper-by-baroquon</dc:source>
