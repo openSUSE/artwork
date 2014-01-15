@@ -15,7 +15,7 @@
    inkscape:version="0.48.4 r9939"
    width="1052.3622"
    height="744.09448"
-   sodipodi:docname="GeekoMoney_04.pdf">
+   sodipodi:docname="GeekoMoney_04.svg">
   <metadata
      id="metadata3434">
     <rdf:RDF>
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -460,9 +460,9 @@
      inkscape:window-height="744"
      id="namedview3430"
      showgrid="false"
-     inkscape:zoom="0.98196201"
-     inkscape:cx="565.53698"
-     inkscape:cy="358.32838"
+     inkscape:zoom="1.388704"
+     inkscape:cx="438.312"
+     inkscape:cy="388.12121"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -1831,7 +1831,7 @@
            xlink:href="#path5087">            Croatia - Dubrovnik</textPath></text>
       <text
          xml:space="preserve"
-         style="font-size:24.49547195px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-size:24.49547194999999888px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e2e3db;fill-opacity:1;stroke:none;font-family:Sans"
          id="text5089"
          sodipodi:linespacing="125%"
          transform="translate(0.3572998,-2)"
@@ -1840,7 +1840,7 @@
          inkscape:export-ydpi="149"><textPath
            xlink:href="#path5087"
            id="textPath5096"
-           style="font-size:20px;font-weight:bold;-inkscape-font-specification:Sans Bold">            Croatia - Dubrovnik</textPath></text>
+           style="font-size:20px;font-weight:bold;-inkscape-font-specification:Sans Bold;fill:#e2e3db">            Croatia - Dubrovnik</textPath></text>
       <text
          inkscape:export-ydpi="149"
          inkscape:export-xdpi="149"
@@ -1849,15 +1849,15 @@
          id="text6026"
          y="303.91495"
          x="2193.1626"
-         style="font-size:15.86758995px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cuprum;-inkscape-font-specification:Cuprum"
+         style="font-size:15.86758994999999928px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e2e3db;fill-opacity:1;stroke:none;font-family:Cuprum;-inkscape-font-specification:Cuprum"
          xml:space="preserve"><tspan
            y="303.91495"
            x="2193.1626"
            id="tspan6028"
            sodipodi:role="line"
-           style="font-weight:bold;fill:#ffffff;stroke:none;-inkscape-font-specification:FifthLeg Bold"><tspan
+           style="font-weight:bold;fill:#e2e3db;stroke:none;-inkscape-font-specification:FifthLeg Bold"><tspan
              id="tspan6030"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold">openSUSE Conference</tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#e2e3db;fill-opacity:1;stroke:none;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold">openSUSE Conference</tspan></tspan></text>
       <g
          transform="translate(-86.808152,-199.40939)"
          id="g6226">
