@@ -10,13 +10,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1381.4645"
-   height="1104.7677"
+   width="1488.189"
+   height="1052.3622"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Folding Tux  oSC14_01.svg"
-   inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14.png"
+   sodipodi:docname="Folding Tux  oSC14_Final.svg"
+   inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Final/Folding Tux  oSC14_Final.png"
    inkscape:export-xdpi="300.03592"
    inkscape:export-ydpi="300.03592">
   <defs
@@ -1180,9 +1180,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.72709702"
-     inkscape:cx="527.80624"
-     inkscape:cy="568.95945"
+     inkscape:zoom="0.51413523"
+     inkscape:cx="617.11309"
+     inkscape:cy="591.56938"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1352,7 +1352,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1360,10 +1360,10 @@
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(213.73172,-1060.2755)">
+     transform="translate(213.73172,-1112.6811)">
     <g
        id="g13810"
-       transform="matrix(0,-0.7708069,1,0,-244.64564,1972.5181)"
+       transform="matrix(0,-0.7708069,1,0,-269.93082,2003.6383)"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -1400,7 +1400,7 @@
     </g>
     <g
        id="g14849"
-       transform="translate(27.960019,1020.4325)"
+       transform="translate(2.6748427,1051.5527)"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -1516,8 +1516,8 @@
     <text
        xml:space="preserve"
        style="font-size:47.24786758px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"
-       x="-1622.0942"
-       y="-102.20599"
+       x="-1653.2145"
+       y="-127.49117"
        id="text6789"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"
@@ -1526,92 +1526,92 @@
        inkscape:export-ydpi="300"><tspan
          sodipodi:role="line"
          id="tspan6791"
-         x="-1622.0942"
-         y="-102.20599"
+         x="-1653.2145"
+         y="-127.49117"
          style="font-family:FifthLeg;-inkscape-font-specification:FifthLeg">Linux for open minds</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:19.04314995px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="-47.174671"
-       y="1770.3478"
+       x="-72.459846"
+       y="1801.468"
        id="text4226"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><tspan
          sodipodi:role="line"
          id="tspan4228"
-         x="-47.174671"
-         y="1770.3478"
+         x="-72.459846"
+         y="1801.468"
          style="font-family:WallaWalla;-inkscape-font-specification:WallaWalla">Carefully cut out the shape</tspan><tspan
          sodipodi:role="line"
-         x="-47.174671"
-         y="1794.1517"
+         x="-72.459846"
+         y="1825.272"
          id="tspan4230"
          style="font-family:WallaWalla;-inkscape-font-specification:WallaWalla">on this page. Use a hobby</tspan><tspan
          sodipodi:role="line"
-         x="-47.174671"
-         y="1817.9557"
+         x="-72.459846"
+         y="1849.0759"
          id="tspan4232"
          style="font-family:WallaWalla;-inkscape-font-specification:WallaWalla">knife to slit the correct lines</tspan><tspan
          sodipodi:role="line"
-         x="-47.174671"
-         y="1841.7596"
+         x="-72.459846"
+         y="1872.8799"
          id="tspan4234"
          style="font-family:WallaWalla;-inkscape-font-specification:WallaWalla">labeled with letters as well as</tspan><tspan
          sodipodi:role="line"
-         x="-47.174671"
-         y="1865.5636"
+         x="-72.459846"
+         y="1896.6837"
          id="tspan4236"
          style="font-family:WallaWalla;-inkscape-font-specification:WallaWalla">the black lines on either side</tspan><tspan
          sodipodi:role="line"
-         x="-47.174671"
-         y="1889.3676"
+         x="-72.459846"
+         y="1920.4877"
          id="tspan4238"
          style="font-family:WallaWalla;-inkscape-font-specification:WallaWalla">where you will insert the hands.</tspan><tspan
          sodipodi:role="line"
-         x="-47.174671"
-         y="1913.1714"
+         x="-72.459846"
+         y="1944.2916"
          id="tspan4240"
          style="font-family:WallaWalla;-inkscape-font-specification:WallaWalla">Tape and glue are not necessary.</tspan><tspan
          sodipodi:role="line"
-         x="-47.174671"
-         y="1936.9753"
+         x="-72.459846"
+         y="1968.0956"
          id="tspan4242"
          style="font-family:WallaWalla;-inkscape-font-specification:WallaWalla">Thicker paper is recommended.</tspan><tspan
          sodipodi:role="line"
-         x="-47.174671"
-         y="1960.7793"
+         x="-72.459846"
+         y="1991.8995"
          style="font-family:WallaWalla;-inkscape-font-specification:WallaWalla"
          id="tspan15742" /><tspan
          sodipodi:role="line"
-         x="-47.174671"
-         y="1984.5833"
+         x="-72.459846"
+         y="2015.7035"
          style="font-family:WallaWalla;-inkscape-font-specification:WallaWalla"
          id="tspan3478">&quot;Thanks to cubeecraft.com for</tspan><tspan
          sodipodi:role="line"
-         x="-47.174671"
-         y="2008.3872"
+         x="-72.459846"
+         y="2039.5074"
          style="font-family:WallaWalla;-inkscape-font-specification:WallaWalla"
          id="tspan3480">sharing the tux paper matrix&quot; </tspan><tspan
          sodipodi:role="line"
-         x="-47.174671"
-         y="2032.1912"
+         x="-72.459846"
+         y="2063.3113"
          id="tspan4248"
          style="font-family:WallaWalla;-inkscape-font-specification:WallaWalla" /><tspan
          sodipodi:role="line"
-         x="-47.174671"
-         y="2055.9951"
+         x="-72.459846"
+         y="2087.1152"
          style="font-family:WallaWalla;-inkscape-font-specification:WallaWalla"
          id="tspan15744">This openSUSE tux model</tspan><tspan
          sodipodi:role="line"
-         x="-47.174671"
-         y="2079.7991"
+         x="-72.459846"
+         y="2110.9192"
          id="tspan4252"
          style="font-family:WallaWalla;-inkscape-font-specification:WallaWalla">was designed by CarlosRibeiro  </tspan></text>
     <path
        inkscape:connector-curvature="0"
-       style="fill:#3c3c3c;fill-opacity:1;stroke:#000000;stroke-width:1.77165353000000003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 507.87337,1756.9895 0,310.2702 311.09314,0 0,-310.2702 298.33669,-82.2997 -163.37234,-385.9016 -193.37566,53.2863 0,-196.7065 -195.10721,0 0,196.7065 -192.44181,-51.7087 -167.99597,-100.8332 -259.030531,327.1416 264.791511,158.0156 297.10218,82.2997 z"
+       style="fill:#3c3c3c;fill-opacity:1;stroke:#000000;stroke-width:1.77165353;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 482.58819,1788.1097 0,310.2702 311.09314,0 0,-310.2702 298.33667,-82.2997 -163.37232,-385.9016 -193.37566,53.2863 0,-196.7065 -195.10721,0 0,196.7065 L 347.721,1321.486 179.72503,1220.6528 -79.305497,1547.7944 185.48601,1705.81 l 297.10218,82.2997 z"
        id="path2859"
        sodipodi:nodetypes="ccccccccccccccc"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
@@ -1622,24 +1622,24 @@
        id="rect2851"
        width="175.71288"
        height="188.11613"
-       x="576.21136"
-       y="1147.8341"
+       x="550.92621"
+       y="1178.9543"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <rect
-       style="opacity:1;fill:#3c3c3c;fill-opacity:1;stroke:#3c3c3c;stroke-width:1.07007873000000009;stroke-miterlimit:1;stroke-dasharray:3.21023622000000008, 1.07007874000000003;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#3c3c3c;fill-opacity:1;stroke:#3c3c3c;stroke-width:1.07007873;stroke-miterlimit:1;stroke-opacity:1;stroke-dasharray:3.21023622, 1.07007874;stroke-dashoffset:0"
        id="rect2899"
        width="174.67084"
        height="187.20825"
-       x="576.61096"
-       y="1148.6819"
+       x="551.32581"
+       y="1179.8021"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <g
        id="g3686"
-       transform="translate(111.76378,1027.4139)"
+       transform="translate(86.478604,1058.5341)"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -1667,7 +1667,7 @@
     </g>
     <g
        id="g3692"
-       transform="matrix(0,-1,1,0,447.15669,1794.8248)"
+       transform="matrix(0,-1,1,0,421.87151,1825.945)"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -1695,7 +1695,7 @@
     </g>
     <g
        id="g3762"
-       transform="translate(111.76378,1027.4139)"
+       transform="translate(86.478604,1058.5341)"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -1721,7 +1721,7 @@
     <path
        inkscape:connector-curvature="0"
        style="fill:#000000;stroke:none"
-       d="m 892.51474,1254.2292 61.41612,34.559 -55.33943,15.9209 -0.7814,-4.4281 -82.89779,23.1121 0.26047,4.428 -52.89405,14.2534 34.90327,-60.4957 z"
+       d="m 867.22956,1285.3494 61.41612,34.559 -55.33943,15.9209 -0.7814,-4.4281 -82.89779,23.1121 0.26047,4.428 -52.89405,14.2534 34.90327,-60.4957 z"
        id="path3722"
        sodipodi:nodetypes="ccccccccc"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
@@ -1730,21 +1730,21 @@
     <text
        transform="scale(-1,-1)"
        id="text3731"
-       y="-1281.2828"
-       x="-856.07306"
+       y="-1312.4031"
+       x="-830.7879"
        style="font-size:22.73748589px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        xml:space="preserve"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><tspan
          style="text-align:center;text-anchor:middle;fill:#ffffff;font-family:WallaWalla;-inkscape-font-specification:WallaWalla"
-         y="-1281.2828"
-         x="-856.07306"
+         y="-1312.4031"
+         x="-830.7879"
          id="tspan3733"
          sodipodi:role="line">E</tspan></text>
     <g
        id="g3741"
-       transform="translate(111.76378,1027.4139)"
+       transform="translate(86.478604,1058.5341)"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -1769,7 +1769,7 @@
     </g>
     <g
        id="g3757"
-       transform="translate(111.76378,1027.4139)"
+       transform="translate(86.478604,1058.5341)"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -1794,7 +1794,7 @@
     </g>
     <g
        id="g3784"
-       transform="translate(111.76378,1027.4139)"
+       transform="translate(86.478604,1058.5341)"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -1820,7 +1820,7 @@
     <path
        inkscape:connector-curvature="0"
        style="fill:#000000;stroke:none"
-       d="m 447.0168,1942.6479 0,-62.7354 57.28018,-33.0725 0,20.7982 3.62887,0 0,86.9431 -3.62887,0 0,20.7982 -57.28018,-32.7316 z"
+       d="m 421.73162,1973.7681 0,-62.7354 57.28018,-33.0725 0,20.7982 3.62887,0 0,86.9431 -3.62887,0 0,20.7982 -57.28018,-32.7316 z"
        id="path3791"
        sodipodi:nodetypes="ccccccccc"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
@@ -1829,8 +1829,8 @@
     <text
        xml:space="preserve"
        style="font-size:22.73748589px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="-478.51233"
-       y="-1903.4131"
+       x="-453.22714"
+       y="-1934.5333"
        id="text3793"
        transform="scale(-1,-1)"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
@@ -1838,12 +1838,12 @@
        inkscape:export-ydpi="300"><tspan
          sodipodi:role="line"
          id="tspan3795"
-         x="-478.51233"
-         y="-1903.4131"
+         x="-453.22714"
+         y="-1934.5333"
          style="text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;font-family:WallaWalla;-inkscape-font-specification:WallaWalla">C</tspan></text>
     <g
        id="g3799"
-       transform="matrix(-1.3169399,0,0,-1.3169399,1382.7646,2222.5909)"
+       transform="matrix(-1.3169399,0,0,-1.3169399,1357.4794,2253.7111)"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -1871,87 +1871,87 @@
     <text
        xml:space="preserve"
        style="font-size:11.78383827px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
-       x="665.42633"
-       y="1822.3411"
+       x="640.14117"
+       y="1853.4613"
        id="text3815"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><tspan
          sodipodi:role="line"
-         x="665.42633"
-         y="1822.3411"
+         x="640.14117"
+         y="1853.4613"
          style="font-size:11.78383827px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
          id="tspan3827">Carefully cut out the shape</tspan><tspan
          sodipodi:role="line"
-         x="665.42633"
-         y="1837.0709"
+         x="640.14117"
+         y="1868.1912"
          style="font-size:11.78383827px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
          id="tspan4954">on this page. Use a hobby</tspan><tspan
          sodipodi:role="line"
-         x="665.42633"
-         y="1851.8007"
+         x="640.14117"
+         y="1882.9209"
          style="font-size:11.78383827px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
          id="tspan4956">knife to slit the correct lines</tspan><tspan
          sodipodi:role="line"
-         x="665.42633"
-         y="1866.5305"
+         x="640.14117"
+         y="1897.6508"
          style="font-size:11.78383827px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
          id="tspan4958">labeled with letters as well as</tspan><tspan
          sodipodi:role="line"
-         x="665.42633"
-         y="1881.2603"
+         x="640.14117"
+         y="1912.3805"
          style="font-size:11.78383827px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
          id="tspan4960">the black lines on either side</tspan><tspan
          sodipodi:role="line"
-         x="665.42633"
-         y="1895.9901"
+         x="640.14117"
+         y="1927.1104"
          style="font-size:11.78383827px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
          id="tspan4962">where you will insert the hands.</tspan><tspan
          sodipodi:role="line"
-         x="665.42633"
-         y="1910.7198"
+         x="640.14117"
+         y="1941.8401"
          style="font-size:11.78383827px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
          id="tspan4964">Tape and glue are not necessary.</tspan><tspan
          sodipodi:role="line"
-         x="665.42633"
-         y="1925.4497"
+         x="640.14117"
+         y="1956.5699"
          style="font-size:11.78383827px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
          id="tspan4966">Thicker paper is recommended.</tspan><tspan
          sodipodi:role="line"
-         x="665.42633"
-         y="1940.1794"
+         x="640.14117"
+         y="1971.2997"
          style="font-size:11.78383827px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
          id="tspan4968" /><tspan
          sodipodi:role="line"
-         x="665.42633"
-         y="1954.9093"
+         x="640.14117"
+         y="1986.0295"
          style="font-size:11.78383827px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
          id="tspan4970">&quot;Thanks to cubeecraft.com for</tspan><tspan
          sodipodi:role="line"
-         x="666.94531"
-         y="1969.639"
+         x="641.66016"
+         y="2000.7593"
          style="font-size:11.78383827px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
          id="tspan4972">sharing the tux paper matrix&quot; </tspan><tspan
          sodipodi:role="line"
-         x="665.42633"
-         y="1984.3689"
+         x="640.14117"
+         y="2015.4891"
          style="font-size:11.78383827px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
          id="tspan4974" /><tspan
          sodipodi:role="line"
-         x="665.42633"
-         y="1999.0986"
+         x="640.14117"
+         y="2030.2189"
          style="font-size:11.78383827px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
          id="tspan4976">This openSUSE tux model</tspan><tspan
          sodipodi:role="line"
-         x="666.94531"
-         y="2013.8285"
+         x="641.66016"
+         y="2044.9487"
          style="font-size:11.78383827px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
          id="tspan4978">was designed by CarlosRibeiro  </tspan></text>
     <path
        inkscape:connector-curvature="0"
        style="fill:#000000;stroke:none"
-       d="m 186.76718,1660.2021 -87.418591,23.0796 -111.06922,-65.994 -22.99187,-88.5753 63.705795,36.4606 -1.97183,5.3551 88.746046,52.3378 2.12546,-4.2171 z"
+       d="m 161.482,1691.3223 -87.418587,23.0796 -111.06922,-65.994 -22.99187,-88.5753 63.7057947,36.4606 -1.97183,5.3551 88.7460463,52.3378 2.12546,-4.2171 z"
        id="path3801"
        sodipodi:nodetypes="ccccccccc"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
@@ -1960,7 +1960,7 @@
     <path
        inkscape:connector-curvature="0"
        style="fill:#000000;stroke:none"
-       d="m -5.416121,1355.9479 41.52063,-50.4538 63.49066,10.7933 -12.45838,14.6152 3.05952,2.9124 -54.55704,69.3809 -3.05952,-2.9124 -12.15559,16.432 -25.84028,-60.7676 z"
+       d="m -30.701297,1387.0681 41.52063,-50.4538 63.49066,10.7933 -12.45838,14.6152 3.05952,2.9124 -54.55704,69.3809 -3.0595203,-2.9124 -12.15559,16.432 -25.8402797,-60.7676 z"
        id="path3807"
        sodipodi:nodetypes="ccccccccc"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
@@ -1969,8 +1969,8 @@
     <text
        xml:space="preserve"
        style="font-size:22.73748589px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="-40.891682"
-       y="-1341.4746"
+       x="-15.606505"
+       y="-1372.5948"
        id="text3809"
        transform="scale(-1,-1)"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
@@ -1978,12 +1978,12 @@
        inkscape:export-ydpi="300"><tspan
          sodipodi:role="line"
          id="tspan3811"
-         x="-40.891682"
-         y="-1341.4746"
+         x="-15.606505"
+         y="-1372.5948"
          style="text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;font-family:WallaWalla;-inkscape-font-specification:WallaWalla">D</tspan></text>
     <g
        id="g3926"
-       transform="translate(111.76378,1027.4139)"
+       transform="translate(86.478604,1058.5341)"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -2010,8 +2010,8 @@
     <text
        xml:space="preserve"
        style="font-size:22.73748589px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="-58.790012"
-       y="-1611.9966"
+       x="-33.504837"
+       y="-1643.1168"
        id="text3820"
        transform="scale(-1,-1)"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
@@ -2019,14 +2019,14 @@
        inkscape:export-ydpi="300"><tspan
          sodipodi:role="line"
          id="tspan3822"
-         x="-58.790012"
-         y="-1611.9966"
+         x="-33.504837"
+         y="-1643.1168"
          style="text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;font-family:WallaWalla;-inkscape-font-specification:WallaWalla">B</tspan></text>
     <path
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc"
        id="path3824"
-       d="m 186.76718,1662.38 -87.418591,20.9017 -111.06922,-65.994 -22.99187,-86.8238 50.0907,29.1668 -1.97183,3.6036 121.811281,72.2742 2.12546,-4.2171 49.42407,31.0886 z"
+       d="m 161.482,1693.5002 -87.418587,20.9017 -111.06922,-65.994 -22.99187,-86.8238 50.0906997,29.1668 -1.9718297,3.6036 121.811277,72.2742 2.12546,-4.2171 49.42407,31.0886 z"
        style="fill:none;stroke:none"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
@@ -2034,14 +2034,14 @@
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#000000;stroke-width:2.83464575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 210.77119,1674.6898 162.23499,-384.324"
+       d="M 185.48601,1705.81 347.721,1321.486"
        id="path3834"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <g
        id="g3898"
-       transform="translate(111.76378,1027.4139)"
+       transform="translate(86.478604,1058.5341)"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -2062,7 +2062,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path3902"
-       d="m 507.87337,1756.9895 311.09314,0"
+       d="m 482.58819,1788.1097 311.09314,0"
        style="fill:none;stroke:#000000;stroke-width:2.83464575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
@@ -2071,7 +2071,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path3865"
-       d="M 818.96651,1756.9895 760.5552,1342.0745"
+       d="m 793.68133,1788.1097 -58.41131,-414.915"
        style="fill:none;stroke:#000000;stroke-width:2.83464575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
@@ -2080,7 +2080,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path3836"
-       d="m 507.87337,1756.9895 57.57462,-414.915"
+       d="m 482.58819,1788.1097 57.57462,-414.915"
        style="fill:none;stroke:#000000;stroke-width:2.83464575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
@@ -2088,7 +2088,7 @@
        inkscape:export-ydpi="300" />
     <g
        id="g3716"
-       transform="translate(111.76378,1027.4139)"
+       transform="translate(86.478604,1058.5341)"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -2190,7 +2190,7 @@
     </g>
     <g
        id="g3759"
-       transform="translate(111.76378,1027.4139)"
+       transform="translate(86.478604,1058.5341)"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -2244,7 +2244,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc"
        id="path3915"
-       d="m 204.66671,1189.1891 47.30328,27.5487 1.41573,-2.704 75.07968,44.3012 -2.50306,4.2317 47.04384,27.7991 -14.41613,-69.5366 -86.37608,-50.6467 z"
+       d="m 179.38153,1220.3093 47.30328,27.5487 1.41573,-2.704 75.07968,44.3012 -2.50306,4.2317 47.04384,27.7991 -14.41613,-69.5366 -86.37608,-50.6467 z"
        style="fill:#000000;stroke:none"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
@@ -2252,8 +2252,8 @@
     <text
        xml:space="preserve"
        style="font-size:22.73748589px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="-302.45532"
-       y="-1207.3467"
+       x="-277.17014"
+       y="-1238.4669"
        id="text3922"
        transform="scale(-1,-1)"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
@@ -2261,13 +2261,13 @@
        inkscape:export-ydpi="300"><tspan
          sodipodi:role="line"
          id="tspan3924"
-         x="-302.45532"
-         y="-1207.3467"
+         x="-277.17014"
+         y="-1238.4669"
          style="text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;font-family:WallaWalla;-inkscape-font-specification:WallaWalla">F</tspan></text>
     <path
        inkscape:connector-curvature="0"
        style="fill:#000000;stroke:none"
-       d="m 373.63079,1290.5455 51.51954,13.8086 0.68541,-2.9743 84.62581,22.8015 -0.90786,3.0771 54.50396,14.2691 -33.21986,-60.8462 -95.22246,-26.5623 z"
+       d="m 348.34561,1321.6657 51.51954,13.8086 0.68541,-2.9743 84.62581,22.8015 -0.90786,3.0771 54.50396,14.2691 -33.21986,-60.8462 -95.22246,-26.5623 z"
        id="path3931"
        sodipodi:nodetypes="ccccccccc"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
@@ -2276,21 +2276,21 @@
     <text
        transform="scale(-1,-1)"
        id="text3933"
-       y="-1278.8682"
-       x="-477.93631"
+       y="-1309.9884"
+       x="-452.65112"
        style="font-size:22.73748589px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        xml:space="preserve"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><tspan
          style="text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;font-family:WallaWalla;-inkscape-font-specification:WallaWalla"
-         y="-1278.8682"
-         x="-477.93631"
+         y="-1309.9884"
+         x="-452.65112"
          id="tspan3935"
          sodipodi:role="line">G</tspan></text>
     <g
        id="g15785"
-       transform="translate(27.960024,998.95982)"
+       transform="translate(2.6748477,1030.08)"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -2341,7 +2341,7 @@
     </g>
     <g
        id="g6602"
-       transform="matrix(1.5190498,0,0,1.5190498,-311.67828,1010.6803)"
+       transform="matrix(1.5190498,0,0,1.5190498,-336.96346,1041.8005)"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -2396,7 +2396,7 @@
     </g>
     <g
        id="g4630"
-       transform="matrix(0.19975211,0,0,0.19975211,-156.9261,1133.0073)"
+       transform="matrix(0.19975211,0,0,0.19975211,-182.21128,1164.1275)"
        style="fill:#ffffff"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
@@ -2420,8 +2420,8 @@
     <text
        xml:space="preserve"
        style="font-size:23.46266556px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffcc00;fill-opacity:1;stroke:none;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS"
-       x="-901.67139"
-       y="1439.979"
+       x="-938.62659"
+       y="1455.5392"
        id="text14869"
        transform="matrix(0.88235452,-0.47058527,0.47058527,0.88235452,0,0)"
        sodipodi:linespacing="125%"
@@ -2429,18 +2429,18 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><tspan
          sodipodi:role="line"
-         x="-901.67139"
-         y="1439.979"
+         x="-938.62659"
+         y="1455.5392"
          id="tspan14873"
          style="font-size:23.46266556px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffcc00;fill-opacity:1;font-family:Cinzel Decorative;-inkscape-font-specification:Cinzel Decorative Bold">paper</tspan><tspan
          sodipodi:role="line"
-         x="-901.67139"
-         y="1469.3073"
+         x="-938.62659"
+         y="1484.8676"
          style="font-size:23.46266556px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffcc00;fill-opacity:1;font-family:Cinzel Decorative;-inkscape-font-specification:Cinzel Decorative Bold"
          id="tspan14877">tux</tspan></text>
     <g
        id="g14901"
-       transform="matrix(0.30613226,0.15322288,-0.15322288,0.30613226,368.51987,1451.2803)"
+       transform="matrix(0.30613226,0.15322288,-0.15322288,0.30613226,343.23469,1482.4005)"
        style="fill:#ffffff"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
@@ -2458,7 +2458,7 @@
     </g>
     <g
        id="g15207"
-       transform="matrix(0.99761703,-0.06899476,0.06899476,0.99761703,-117.67217,1103.5945)"
+       transform="matrix(0.99761703,-0.06899476,0.06899476,0.99761703,-142.95735,1134.7147)"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -2472,14 +2472,14 @@
            sodipodi:role="line"
            x="321.19043"
            y="231.77287"
-           style="font-size:83.85092163px;font-weight:bold;fill:#ffffff;fill-opacity:1;font-family:ChunkFive;-inkscape-font-specification:ChunkFive"
+           style="font-size:83.85092163px;font-weight:normal;fill:#ffffff;fill-opacity:1;font-family:ChunkFive;-inkscape-font-specification:ChunkFive"
            id="tspan10954">2014</tspan></text>
     </g>
     <text
        xml:space="preserve"
        style="font-size:30.4774971px;font-style:normal;font-weight:normal;fill:#6eb927;fill-opacity:1;stroke:none;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
-       x="753.60266"
-       y="1302.434"
+       x="748.02246"
+       y="1342.1412"
        id="text15203"
        transform="matrix(0.85631892,0.51644739,-0.51644739,0.85631892,0,0)"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
@@ -2487,14 +2487,14 @@
        inkscape:export-ydpi="300"><tspan
          sodipodi:role="line"
          id="tspan15205"
-         x="753.60266"
-         y="1302.434"
-         style="font-size:22.56035423px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#6eb927;font-family:ChunkFive;-inkscape-font-specification:ChunkFive Bold">conference.opensuse.org</tspan></text>
+         x="748.02246"
+         y="1342.1412"
+         style="font-size:22.56035423px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#6eb927;font-family:ChunkFive;-inkscape-font-specification:ChunkFive">conference.opensuse.org</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text15213"
-       y="943.55914"
-       x="898.54944"
+       y="983.35095"
+       x="893.6076"
        style="font-size:22.7387352px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
        xml:space="preserve"
        transform="matrix(0.84791462,0.53013281,-0.53013281,0.84791462,0,0)"
@@ -2502,17 +2502,17 @@
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffcc00;font-family:Cinzel Decorative;-inkscape-font-specification:Cinzel Decorative Bold"
-         y="943.55914"
-         x="898.54944"
+         y="983.35095"
+         x="893.6076"
          id="tspan15215"
          sodipodi:role="line" /><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#37abc8;font-family:ChunkFive;-inkscape-font-specification:ChunkFive Bold"
-         y="972.72058"
-         x="898.54944"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#37abc8;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+         y="1013.5035"
+         x="893.6076"
          sodipodi:role="line"
          id="tspan10950">CONFERENCE</tspan></text>
     <g
-       transform="matrix(0,1,-1,0,1229.0181,1301.9369)"
+       transform="matrix(0,1,-1,0,1203.7329,1333.0571)"
        id="g15794"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
@@ -2564,7 +2564,7 @@
     </g>
     <g
        id="g15810"
-       transform="matrix(-1,0,0,-1,926.04099,2226.3589)"
+       transform="matrix(-1,0,0,-1,900.75581,2257.4791)"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -2614,7 +2614,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0,-1,1,0,-202.90921,2216.7201)"
+       transform="matrix(0,-1,1,0,-228.19439,2247.8403)"
        id="g15830"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
@@ -2645,7 +2645,7 @@
     </g>
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m -187.18335,2164.878 0,-17.233"
+       d="m -212.46853,2195.9982 0,-17.233"
        id="path15838"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
@@ -2653,7 +2653,7 @@
        inkscape:export-ydpi="300" />
     <path
        id="path15840"
-       d="m -195.06869,2137.2907 -17.23301,0"
+       d="m -220.35387,2168.4109 -17.23301,0"
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
@@ -2661,7 +2661,7 @@
        inkscape:export-ydpi="300" />
     <g
        id="g15855"
-       transform="matrix(0,-1,1,0,476.39375,2216.7201)"
+       transform="matrix(0,-1,1,0,451.10857,2247.8403)"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -2691,7 +2691,7 @@
     </g>
     <g
        id="g15863"
-       transform="matrix(0,-1,1,0,-202.90921,1676.6154)"
+       transform="matrix(0,-1,1,0,-228.19439,1707.7356)"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -2720,7 +2720,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(0,-1,1,0,1157.6967,1676.6154)"
+       transform="matrix(0,-1,1,0,1132.4115,1707.7356)"
        id="g15871"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
@@ -2750,7 +2750,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(0,-1,1,0,476.39375,1133.6305)"
+       transform="matrix(0,-1,1,0,451.10857,1164.7507)"
        id="g15879"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
@@ -2783,7 +2783,7 @@
        inkscape:export-ydpi="300"
        inkscape:export-xdpi="300"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
-       transform="matrix(-1.5190498,0,0,-1.5190498,1265.6793,2219.2319)"
+       transform="matrix(-1.5190498,0,0,-1.5190498,1240.3941,2250.3521)"
        id="g15887">
       <g
          id="g15889"
@@ -2837,44 +2837,44 @@
     <text
        xml:space="preserve"
        style="font-size:13.58862686px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-545.53058"
-       y="585.18958"
+       x="-570.81573"
+       y="616.30981"
        id="text6219-3"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><tspan
          sodipodi:role="line"
-         x="-545.53058"
-         y="585.18958"
+         x="-570.81573"
+         y="616.30981"
          id="tspan6221-5" /></text>
     <text
        sodipodi:linespacing="125%"
        id="text4225"
        style="font-size:62.75244522px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FifthLeg;-inkscape-font-specification:FifthLeg Bold"
        xml:space="preserve"
-       x="77.790634"
-       y="86.07618"
+       x="52.505459"
+       y="117.1964"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="686.49438"
-       y="1645.91"
+       x="661.20923"
+       y="1677.0303"
        id="text10960"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><tspan
-         y="1645.91"
-         x="686.49438"
+         y="1677.0303"
+         x="661.20923"
          sodipodi:role="line"
          id="tspan10962" /></text>
     <g
        id="g7108"
-       transform="translate(2,28)"
+       transform="translate(-23.285176,59.120217)"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -2885,13 +2885,13 @@
          x="664.82953"
          style="font-size:29.62594414px;font-style:normal;font-weight:normal;line-height:81.99999928%;letter-spacing:0px;word-spacing:0px;fill:#6eb927;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:81.99999928%;text-anchor:middle;fill:#6eb927;font-family:ChunkFive;-inkscape-font-specification:ChunkFive Bold"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:81.99999928%;text-anchor:middle;fill:#6eb927;font-family:ChunkFive;-inkscape-font-specification:ChunkFive"
            y="1554.0137"
            x="664.82953"
            id="tspan10946"
            sodipodi:role="line">oSC</tspan><tspan
            id="tspan10970"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:81.99999928%;text-anchor:middle;fill:#6eb927;font-family:ChunkFive;-inkscape-font-specification:ChunkFive Bold"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:81.99999928%;text-anchor:middle;fill:#6eb927;font-family:ChunkFive;-inkscape-font-specification:ChunkFive"
            y="1578.307"
            x="664.82953"
            sodipodi:role="line">14</tspan></text>
@@ -2911,12 +2911,12 @@
            sodipodi:role="line"
            x="664.90912"
            y="1616.884"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:81.99999928%;text-anchor:middle;color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.7115652;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:ChunkFive;-inkscape-font-specification:ChunkFive Bold">24-28</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:81.99999928%;text-anchor:middle;color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.7115652;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:ChunkFive;-inkscape-font-specification:Cinzel Decorative">24-28</tspan><tspan
            id="tspan10991"
            sodipodi:role="line"
            x="664.90912"
            y="1641.1772"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:81.99999928%;text-anchor:middle;color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.7115652;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:ChunkFive;-inkscape-font-specification:ChunkFive Bold">APRIL</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:81.99999928%;text-anchor:middle;color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.7115652;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:ChunkFive;-inkscape-font-specification:Cinzel Decorative">APRIL</tspan></text>
       <rect
          y="1587.96"
          x="622.55585"
@@ -2932,42 +2932,42 @@
          x="622.55585"
          y="1653.96" />
       <text
-         sodipodi:linespacing="130%"
+         sodipodi:linespacing="100%"
          id="text11697"
          y="1676.3966"
          x="664.73938"
-         style="font-size:18.8767643px;font-style:normal;font-weight:normal;line-height:129.99999523%;letter-spacing:0px;word-spacing:0px;fill:#37abc8;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-size:18.8767643px;font-style:normal;font-weight:normal;line-height:100%;letter-spacing:0px;word-spacing:0px;fill:#37abc8;fill-opacity:1;stroke:none;font-family:Sans"
          xml:space="preserve"><tspan
            id="tspan11710"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:129.99999523%;text-anchor:middle;fill:#37abc8;font-family:ChunkFive;-inkscape-font-specification:ChunkFive Bold"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;text-anchor:middle;fill:#37abc8;font-family:ChunkFive;-inkscape-font-specification:ChunkFive"
            y="1676.3966"
            x="664.73938"
            sodipodi:role="line">Dubrovnik</tspan><tspan
            id="tspan3984"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:129.99999523%;text-anchor:middle;fill:#37abc8;font-family:ChunkFive;-inkscape-font-specification:ChunkFive Bold"
-           y="1700.9364"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;text-anchor:middle;fill:#37abc8;font-family:ChunkFive;-inkscape-font-specification:ChunkFive"
+           y="1695.2733"
            x="664.73938"
            sodipodi:role="line">Croatia</tspan></text>
     </g>
     <text
        xml:space="preserve"
        style="font-size:5px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:FifthLeg;-inkscape-font-specification:Sans Bold"
-       x="-82.809151"
-       y="1969.7994"
+       x="-108.09433"
+       y="2000.9197"
        id="text3469"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><tspan
-         y="1969.7994"
-         x="-82.809151"
+         y="2000.9197"
+         x="-108.09433"
          sodipodi:role="line"
          id="tspan3471" /></text>
     <text
        xml:space="preserve"
-       style="font-size:41.05978774999999814px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6eb927;fill-opacity:1;stroke:none;font-family:Cuprum;-inkscape-font-specification:Cuprum"
-       x="806.59436"
-       y="951.64062"
+       style="font-size:41.05978775px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6eb927;fill-opacity:1;stroke:none;font-family:Cuprum;-inkscape-font-specification:Cuprum"
+       x="801.28687"
+       y="991.38531"
        id="text5845"
        sodipodi:linespacing="125%"
        transform="matrix(0.85275312,0.5223142,-0.5223142,0.85275312,0,0)"
@@ -2976,15 +2976,15 @@
        inkscape:export-ydpi="300"><tspan
          sodipodi:role="line"
          id="tspan5847"
-         x="806.59436"
-         y="951.64062"><tspan
+         x="801.28687"
+         y="991.38531"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#6eb927;fill-opacity:1;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
            id="tspan5855">openSUSE </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans;fill:#6eb927"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#6eb927;font-family:Open Sans;-inkscape-font-specification:Open Sans"
            id="tspan5857" /></tspan></text>
     <g
        id="g5970"
-       transform="matrix(0.3768602,0.22988842,-0.22988842,0.3768602,133.04804,1179.5243)"
+       transform="matrix(0.3768602,0.22988842,-0.22988842,0.3768602,107.76286,1210.6445)"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -3133,20 +3133,20 @@
     <text
        transform="matrix(0.85631892,0.51644739,-0.51644739,0.85631892,0,0)"
        id="text4813"
-       y="1269.943"
-       x="757.08875"
+       y="1309.6503"
+       x="751.50854"
        style="font-size:29.86704826px;font-style:normal;font-weight:normal;fill:#37abc8;fill-opacity:1;stroke:none;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
        xml:space="preserve"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300"><tspan
-         style="font-size:22.10848236px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#37abc8;font-family:ChunkFive;-inkscape-font-specification:ChunkFive Bold"
-         y="1269.943"
-         x="757.08875"
+         style="font-size:22.10848236px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#37abc8;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
+         y="1309.6503"
+         x="751.50854"
          id="tspan4815"
          sodipodi:role="line">The Strength To Change</tspan></text>
     <g
-       transform="matrix(0.21646628,-0.08861162,0.08861162,0.21646628,814.56602,1496.9257)"
+       transform="matrix(0.21646628,-0.08861162,0.08861162,0.21646628,789.28084,1528.0459)"
        id="g6487"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
@@ -3295,7 +3295,7 @@
     </g>
     <g
        id="g6596"
-       transform="matrix(0.66884238,-0.74340424,0.74340424,0.66884238,-988.88394,1004.9207)"
+       transform="matrix(0.66884238,-0.74340424,0.74340424,0.66884238,-1014.1691,1036.0409)"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">

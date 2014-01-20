@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Folding Tux  oSC14.svg"
+   sodipodi:docname="Folding Tux  oSC14.pdf"
    inkscape:export-filename="/home/jospoortvliet/Downloads/FOSDEM stuff/folding_tux.png"
    inkscape:export-xdpi="900.00665"
    inkscape:export-ydpi="900.00665">
@@ -1352,7 +1352,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2347,7 +2347,7 @@
          x="898.54944"
          id="tspan15215"
          sodipodi:role="line" /><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#37abc8;font-family:ChunkFive;-inkscape-font-specification:ChunkFive Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#37abc8;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
          y="972.72058"
          x="898.54944"
          sodipodi:role="line"
@@ -2923,10 +2923,10 @@
        transform="matrix(0.85631892,0.51644739,-0.51644739,0.85631892,0,0)"
        id="text4813"
        y="1261.0267"
-       x="756.38245"
+       x="886.85809"
        style="font-size:29.86704826px;font-style:normal;font-weight:normal;fill:#37abc8;fill-opacity:1;stroke:none;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
        xml:space="preserve"><tspan
-         style="font-size:22.10848236px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#37abc8;font-family:ChunkFive;-inkscape-font-specification:ChunkFive Bold"
+         style="font-size:22.10848236000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#37abc8;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold;text-anchor:middle;text-align:center"
          y="1261.0267"
          x="756.38245"
          id="tspan4815"
