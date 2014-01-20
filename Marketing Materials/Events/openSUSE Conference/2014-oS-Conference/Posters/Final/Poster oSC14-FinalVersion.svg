@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Poster oSC14-FinalVersion.pdf"
+   sodipodi:docname="Poster oSC14-FinalVersion.svg"
    inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Posters/Proposal_07 - Poster oSC14.png"
    inkscape:export-xdpi="300.02237"
    inkscape:export-ydpi="300.02237">
@@ -476,8 +476,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.54309168"
-     inkscape:cx="453.99851"
-     inkscape:cy="1113.2616"
+     inkscape:cx="341.67862"
+     inkscape:cy="671.34726"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -777,132 +777,125 @@
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
     <g
-       id="g9513"
-       transform="translate(0,-38.496968)"
-       inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Posters/Final/Poster oSC14-FinalVersion-PREVIEW-LOW_RESOLUTION.png"
-       inkscape:export-xdpi="72.002228"
-       inkscape:export-ydpi="72.002228">
-      <g
-         id="g12301"
-         transform="matrix(3.2325045,0,0,-3.2325045,-445.7556,1704.7596)"
-         style="fill:#ffffff">
-        <text
-           xml:space="preserve"
-           style="font-size:21.10900497px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cuprum;-inkscape-font-specification:Cuprum"
-           x="158.54619"
+       style="fill:#ffffff"
+       transform="matrix(3.2325045,0,0,-3.2325045,-357.87043,1666.2626)"
+       id="g12301">
+      <text
+         transform="scale(1,-1)"
+         sodipodi:linespacing="125%"
+         id="text3974"
+         y="-356.6062"
+         x="281.57727"
+         style="font-size:21.10900497px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Cuprum;-inkscape-font-specification:Cuprum"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
            y="-356.6062"
-           id="text3974"
-           sodipodi:linespacing="125%"
-           transform="scale(1,-1)"><tspan
-             sodipodi:role="line"
-             id="tspan3976"
-             x="158.54619"
-             y="-356.6062"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold">The Strength to Change</tspan></text>
-      </g>
-      <g
-         transform="translate(65.097416,1247.3699)"
-         id="g13128">
-        <text
-           inkscape:export-ydpi="71.993477"
-           inkscape:export-xdpi="71.993477"
-           inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/PromoCube/Folding Cube oSC14_Preview.png"
-           sodipodi:linespacing="125%"
-           id="text13114"
-           y="-971.7326"
-           x="54.48122"
-           style="font-size:80.03453827px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#37abc8;fill-opacity:1;fill-rule:nonzero;stroke:#004455;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cuprum;-inkscape-font-specification:Cuprum"
-           xml:space="preserve"><tspan
-             y="-971.7326"
-             x="54.48122"
-             id="tspan13116"
-             sodipodi:role="line"><tspan
-               id="tspan13118"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;color:#000000;fill:#37abc8;fill-opacity:1;fill-rule:nonzero;stroke:#004455;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg">openSUSE</tspan><tspan
-               id="tspan13120"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;color:#000000;fill:#37abc8;fill-opacity:1;fill-rule:nonzero;stroke:#004455;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans"> Conference</tspan></tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:80.03453827px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Cuprum;-inkscape-font-specification:Cuprum"
-           x="54.48122"
-           y="-971.7326"
-           id="text10534"
-           sodipodi:linespacing="125%"
-           inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/PromoCube/Folding Cube oSC14_Preview.png"
-           inkscape:export-xdpi="71.993477"
-           inkscape:export-ydpi="71.993477"><tspan
-             sodipodi:role="line"
-             id="tspan10536"
-             x="54.48122"
-             y="-971.7326"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#73ba25;fill-opacity:1;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
-               id="tspan10538">openSUSE</tspan><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-               id="tspan10540"> Conference</tspan></tspan></text>
-      </g>
-      <g
-         transform="matrix(4.0627091,0,0,-4.0627091,-510.06593,1966.4392)"
-         style="fill:#ffffff;fill-opacity:1;display:inline"
-         id="g12307"
-         inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/PromoCube/Folding Cube oSC14_Preview.png"
-         inkscape:export-xdpi="71.993477"
-         inkscape:export-ydpi="71.993477">
-        <g
-           id="g12309"
-           transform="matrix(0.85199321,0,0,0.85199321,38.213058,57.829046)"
-           style="fill:#ffffff;fill-opacity:1">
-          <text
-             inkscape:export-ydpi="300"
-             inkscape:export-xdpi="300"
-             inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
-             xml:space="preserve"
-             style="font-size:68.5418396px;font-style:normal;font-weight:normal;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#004455;stroke-width:5.23931456;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
-             x="189.32492"
-             y="-373.17847"
-             id="text13110"
-             transform="matrix(0.99981763,-0.0190971,-0.0190971,-0.99981763,0,0)"><tspan
-               sodipodi:role="line"
-               id="tspan13112"
-               x="189.32492"
-               y="-373.17847"
-               style="font-size:50.73672104px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#004455;stroke-width:5.23931456;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:ChunkFive;-inkscape-font-specification:ChunkFive Bold">2014</tspan></text>
-          <text
-             transform="matrix(0.99981763,-0.0190971,-0.0190971,-0.99981763,0,0)"
-             id="text12311"
-             y="-373.17847"
-             x="189.32492"
-             style="font-size:68.5418396px;font-style:normal;font-weight:normal;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26196572;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
-             xml:space="preserve"
-             inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
-             inkscape:export-xdpi="300"
-             inkscape:export-ydpi="300"><tspan
-               style="font-size:50.73672104px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26196572;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:ChunkFive;-inkscape-font-specification:ChunkFive Bold"
-               y="-373.17847"
-               x="189.32492"
-               id="tspan12313"
-               sodipodi:role="line">2014</tspan></text>
-        </g>
-      </g>
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot5712-3"
-         style="font-size:31.35288239px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
-         transform="matrix(2.5430292,0,0,2.5430292,-320.86494,-739.8628)"
-         inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/PromoCube/Folding Cube oSC14_Preview.png"
-         inkscape:export-xdpi="71.993477"
-         inkscape:export-ydpi="71.993477"><flowRegion
-           id="flowRegion5714-4"><rect
-             id="rect5716-5"
-             width="205.80193"
-             height="55.530922"
-             x="228.98239"
-             y="535.54706"
-             style="font-size:31.35288239px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:FifthLeg;-inkscape-font-specification:FifthLeg" /></flowRegion><flowPara
-           style="font-size:18.81172943px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
-           id="flowPara5718-4">April 24-28</flowPara><flowPara
-           style="font-size:18.81172943px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
-           id="flowPara4354">Dubrovnik, Croatia</flowPara></flowRoot>    </g>
+           x="281.57727"
+           id="tspan3976"
+           sodipodi:role="line">The Strength to Change</tspan></text>
+    </g>
     <g
+       id="g13128"
+       transform="translate(106.96632,1208.8729)">
+      <text
+         xml:space="preserve"
+         style="font-size:80.03453827px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#37abc8;fill-opacity:1;fill-rule:nonzero;stroke:#004455;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Cuprum;-inkscape-font-specification:Cuprum"
+         x="54.48122"
+         y="-971.7326"
+         id="text13114"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/PromoCube/Folding Cube oSC14_Preview.png"
+         inkscape:export-xdpi="71.993477"
+         inkscape:export-ydpi="71.993477"><tspan
+           sodipodi:role="line"
+           id="tspan13116"
+           x="54.48122"
+           y="-971.7326"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;color:#000000;fill:#37abc8;fill-opacity:1;fill-rule:nonzero;stroke:#004455;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
+             id="tspan13118">openSUSE</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;color:#000000;fill:#37abc8;fill-opacity:1;fill-rule:nonzero;stroke:#004455;stroke-width:15;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+             id="tspan13120"> Conference</tspan></tspan></text>
+      <text
+         inkscape:export-ydpi="71.993477"
+         inkscape:export-xdpi="71.993477"
+         inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/PromoCube/Folding Cube oSC14_Preview.png"
+         sodipodi:linespacing="125%"
+         id="text10534"
+         y="-971.7326"
+         x="54.48122"
+         style="font-size:80.03453827px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Cuprum;-inkscape-font-specification:Cuprum"
+         xml:space="preserve"><tspan
+           y="-971.7326"
+           x="54.48122"
+           id="tspan10536"
+           sodipodi:role="line"><tspan
+             id="tspan10538"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#73ba25;fill-opacity:1;font-family:FifthLeg;-inkscape-font-specification:FifthLeg">openSUSE</tspan><tspan
+             id="tspan10540"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"> Conference</tspan></tspan></text>
+    </g>
+    <g
+       inkscape:export-ydpi="71.993477"
+       inkscape:export-xdpi="71.993477"
+       inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/PromoCube/Folding Cube oSC14_Preview.png"
+       id="g12307"
+       style="fill:#ffffff;fill-opacity:1;display:inline"
+       transform="matrix(4.0627091,0,0,-4.0627091,-484.55173,1927.9422)">
+      <g
+         style="fill:#ffffff;fill-opacity:1"
+         transform="matrix(0.85199321,0,0,0.85199321,38.213058,57.829046)"
+         id="g12309">
+        <text
+           transform="matrix(0.99981763,-0.0190971,-0.0190971,-0.99981763,0,0)"
+           id="text13110"
+           y="-373.17847"
+           x="189.32492"
+           style="font-size:68.5418396px;font-style:normal;font-weight:normal;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#004455;stroke-width:5.23931456;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
+           xml:space="preserve"
+           inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             style="font-size:50.73672104px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#004455;stroke-width:5.23931456;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:ChunkFive;-inkscape-font-specification:ChunkFive Bold"
+             y="-373.17847"
+             x="189.32492"
+             id="tspan13112"
+             sodipodi:role="line">2014</tspan></text>
+        <text
+           inkscape:export-ydpi="300"
+           inkscape:export-xdpi="300"
+           inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Tux Paper/Folding Tux  oSC14_01.png"
+           xml:space="preserve"
+           style="font-size:68.5418396px;font-style:normal;font-weight:normal;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26196572;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
+           x="189.32492"
+           y="-373.17847"
+           id="text12311"
+           transform="matrix(0.99981763,-0.0190971,-0.0190971,-0.99981763,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan12313"
+             x="189.32492"
+             y="-373.17847"
+             style="font-size:50.73672104px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26196572;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:ChunkFive;-inkscape-font-specification:ChunkFive Bold">2014</tspan></text>
+      </g>
+    </g>
+    <flowRoot
+       inkscape:export-ydpi="71.993477"
+       inkscape:export-xdpi="71.993477"
+       inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/PromoCube/Folding Cube oSC14_Preview.png"
+       transform="matrix(2.5430292,0,0,2.5430292,-292.81681,-778.35977)"
+       style="font-size:31.35288239px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
+       id="flowRoot5712-3"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5714-4"><rect
+           style="font-size:31.35288239px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:FifthLeg;-inkscape-font-specification:FifthLeg"
+           y="535.54706"
+           x="228.98239"
+           height="55.530922"
+           width="205.80193"
+           id="rect5716-5" /></flowRegion><flowPara
+         id="flowPara5718-4"
+         style="font-size:18.81172943px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold">April 24-28</flowPara><flowPara
+         id="flowPara4354"
+         style="font-size:18.81172943px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold">Dubrovnik, Croatia</flowPara></flowRoot>    <g
        id="g3177"
        transform="translate(80.306854,1303.7351)"
        inkscape:export-filename="/git_repo/artwork/Marketing Materials/Events/openSUSE Conference/2014-oS-Conference/Posters/Final/Poster oSC14-FinalVersion-PREVIEW-LOW_RESOLUTION.png"
