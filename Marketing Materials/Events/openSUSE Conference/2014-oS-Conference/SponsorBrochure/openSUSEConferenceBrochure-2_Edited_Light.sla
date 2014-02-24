@@ -274,6 +274,8 @@
             <para ALIGN="1" LINESPMode="0" LINESP="11"/>
             <para ALIGN="1" LINESPMode="0" LINESP="11"/>
             <ITEXT FONT="Open Sans Regular" FONTSIZE="8" FCOLOR="Base Color" FSHADE="100" CH="Svebor"/>
+            <ITEXT CH=" "/>
+            <ITEXT FONT="Open Sans Regular" FONTSIZE="8" FCOLOR="Base Color" FSHADE="100" CH="Prstačić"/>
             <para ALIGN="1" LINESPMode="0" LINESP="11"/>
             <ITEXT FONT="Open Sans Regular" FONTSIZE="8" FCOLOR="Base Color" FSHADE="100" CH="Local Organizer"/>
             <para ALIGN="1" LINESPMode="0" LINESP="11"/>
