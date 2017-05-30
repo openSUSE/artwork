@@ -235,10 +235,3 @@ log --help (also opens in the pager, press "q" to quit.)
 * mention graphical user interfaces (gitk, qgit, ...)
 * link to other howtos, cheat sheets, etc, such as http://cheat.errtheblog.com/s/git
 
-
-Mirrors
--------
-http://geeko.ioda.net/git/artwork/
-rsync://geeko.ioda.net/git/artwork
-
-The mirror is refreshed every 10 minutes
