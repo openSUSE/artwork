@@ -1,15 +1,15 @@
-#Artwork Repository
-This is the repository of the openSUSE [artwork team](https://en.opensuse.org/openSUSE:Art_team).
+# Artwork Repository
+This is the repository of the openSUSE [artwork team](https://en.opensuse.org/openSUSE:Artwork_team).
 While a version control system such as git may seem daunting, it is by far the
 best option for collaborative authoring. GitHub is also relatively easy to use.
 
 
-##License
+## License
 All content in is licensed under [CC-BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) unless
 otherwise stated.
 
-##Contribute
-###Initial setup
+## Contribute
+### Initial setup
 If you would like to modify or add material to our repository, you need to do
 the following things first:
 
@@ -29,8 +29,8 @@ the following things first:
     git@github.com:openSUSE/artwork.git (which will create a subdirectory
     "artwork")
 
-###Workflow
-####Getting the latest changes
+### Workflow
+#### Getting the latest changes
 In order to pull the latest changes that have been stored in the repository,
 use the following command:
 
@@ -44,7 +44,7 @@ on github, and store it on your disk.
 Of course, that command needs to be ran from a shell while being in your local
 artwork directory (e.g. ~/Documents/artwork)
 
-####Adding new files or directories
+#### Adding new files or directories
 When you create a new file or directory, you have to tell git that you would
 like to add it to the repository first, using the following command:
 
@@ -58,7 +58,7 @@ want to add).
 Note that adding a file does not upload it to the repository yet, it merely
 instructs git that you want to put it under version control.
 
-####Committing changes
+#### Committing changes
 When you change files and you would like to store their state in the repository
 (e.g. when you think it's good enough to be used by others), use the following
 command:
@@ -91,7 +91,7 @@ repository, by using the -a switch, like this:
 git commit -m "changed palette to Bento colors" -a
 ```
 
-####Pushing changes
+#### Pushing changes
 When you commit changes, git will only store them in your local repository on
 your hard disk, and not to the artwork repository on github, which means that
 no one else will be able to see your changes.
@@ -123,7 +123,7 @@ can be done quite easily from there. Configure Dolphin and under Services you
 can enable Git support. It will then automatically detect git folders and let
 you add files you changed, make commits and push and pull changes.
 
-####Status
+#### Status
 With the command git status, you can see whether you have files on your hard
 disk that have changes (or new files, or deleted files) that have not been
 committed yet.
@@ -147,7 +147,7 @@ no changes added to commit (use "git add" and/or "git commit -a")
 The output above means that the file git-mini-howto.txt is locally modified:
 you have made changes to that file, but those changes are not committed (yet).
 
-####Removing files
+#### Removing files
 If you want to delete a file from the repository, use git rm instead of
 removing it as you would normally do (using rm filename or your favourite file
 browser), like this:
@@ -166,7 +166,7 @@ To push that change to github, for everyone:
 git push
 ```
 
-####Renaming or moving files or directories
+#### Renaming or moving files or directories
 When you want to rename a file or directory, or move it elsewhere, do not use
 the regular command-line or file manager options to do so. If you do that, git
 will consider the renamed/moved file to be a new one and hence will lose the
@@ -181,7 +181,7 @@ git mv old_filename new_filename
 As usual, you will need to commit and push for that change to be visible for
 everyone.
 
-####History
+#### History
 One of the most obvious advantages of version control systems such as git is
 the ability to see the history of a file, which is a log of the modifications
 that have been made, with the commit messages (see the -m option for git
@@ -227,7 +227,7 @@ output (with expected keys, such as arrow up, arrow down, page up, page down,
 git log has quite a few more options, which you can read about by typing git
 log --help (also opens in the pager, press "q" to quit.)
 
-###TODO
+### TODO
 
 * document how to retrieve previous revisions of a file (git checkout)
 * document how to reset your working environment to the state of the
