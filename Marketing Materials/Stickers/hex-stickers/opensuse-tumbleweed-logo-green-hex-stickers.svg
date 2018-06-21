@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="43.942001mm"
+   height="50.799999mm"
+   viewBox="0 0 43.942001 50.800001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="opensuse-tumbleweed-logo-green-hex-stickers.svg"
+   inkscape:export-filename="/home/cho2/Pictures/stiker/opensuse-tumbleweed-logo-green-hex-stickers.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.8517521"
+     inkscape:cx="85.230251"
+     inkscape:cy="87.905341"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="mm"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     showborder="false"
+     inkscape:window-width="2048"
+     inkscape:window-height="1089"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid816" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-246.19998)">
+    <path
+       sodipodi:type="star"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#3ab6a9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.01568317;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path7642"
+       sodipodi:sides="6"
+       sodipodi:cx="22.041801"
+       sodipodi:cy="271.59317"
+       sodipodi:r1="25.412239"
+       sodipodi:r2="22.007648"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 44.049446,284.29929 -22.007645,12.70612 -22.00764421,-12.70612 1.1e-7,-25.41224 22.0076451,-12.70612 22.007644,12.70612 z" />
+    <g
+       id="g1039"
+       style="fill:#ffffff">
+      <text
+         id="text3"
+         font-size="98.2708px"
+         style="font-size:6.82163525px;line-height:0%;font-family:SourceSansPro-Light;fill:#ffffff;stroke-width:0.06941671"
+         x="2.743515"
+         y="279.03336">Tumbleweed</text>
+      <path
+         id="path5"
+         d="m 24.558882,264.09998 c -0.652517,0 -1.284209,0.18742 -1.846484,0.50674 -0.548392,0.31237 -1.027367,0.73582 -1.450809,1.20091 -0.1666,0.18048 -0.326259,0.37485 -0.485917,0.56921 -0.152717,0.18743 -0.29155,0.3818 -0.437325,0.57616 -0.06942,0.0972 -0.145776,0.20131 -0.215192,0.29849 -0.145775,0.20131 -0.29155,0.39568 -0.451209,0.57616 -0.152717,0.1666 -0.312375,0.32626 -0.472034,0.48592 -0.402616,0.39568 -0.833,0.76358 -1.311975,1.06902 -0.374851,0.23601 -0.819118,0.46509 -1.277268,0.46509 -1.228676,0 -2.32546,-0.97183 -2.32546,-2.45041 0,-1.47858 1.055134,-2.28381 2.32546,-2.28381 0.735817,0 1.381393,0.31238 2.013085,0.85383 l -0.340142,0.34708 0.826059,0.20825 0.826059,0.20825 -0.229076,-0.81912 -0.229075,-0.81911 -0.367908,0.38179 c -0.645576,-0.57616 -1.443868,-1.04125 -2.45041,-1.04125 -1.645176,0 -2.998802,1.18702 -2.998802,2.9988 0,1.73542 1.353626,2.9988 2.873852,2.9988 0.631692,0 1.242559,-0.18742 1.777068,-0.50674 0.485917,-0.28461 0.909358,-0.65946 1.298092,-1.06902 0.131892,-0.13883 0.256842,-0.27767 0.381792,-0.4165 0.1666,-0.18048 0.319317,-0.36097 0.45815,-0.56922 0.06247,-0.0902 0.118009,-0.18048 0.180484,-0.27072 0.111066,-0.1666 0.215191,-0.3332 0.3332,-0.49286 0.222133,-0.29849 0.451209,-0.59004 0.694167,-0.86771 0.4165,-0.46509 0.888534,-0.89547 1.436926,-1.18702 0.437325,-0.23602 0.923242,-0.36097 1.423042,-0.36097 1.735418,0 2.707252,1.20785 2.707252,2.7489 0,1.43693 -0.930184,2.62395 -2.53371,2.62395 -0.9163,0 -1.721534,-0.2499 -2.568418,-0.97877 l 0.395675,-0.47898 -0.839942,-0.13883 -0.839942,-0.13884 0.298492,0.7983 0.298492,0.79829 0.3332,-0.40262 c 0.819117,0.74276 1.714592,1.22868 2.880793,1.22868 1.943668,0 3.213994,-1.47858 3.213994,-3.33895 -0.0069,-1.95755 -1.318918,-3.31117 -3.304236,-3.31117 z"
+         style="fill:#ffffff;stroke-width:0.06941671"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
