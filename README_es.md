@@ -1,6 +1,8 @@
 # Repositorio de diseño (artwork)
 Este es el repositorio que utiliza el [equipo de diseño de openSUSE](https://en.opensuse.org/openSUSE:Artwork_team).
-Aunque un sistema de control de versiones como git puede ser un poco intimidatorio a la hora de utilizarlo sobre todo por las personas menos técnicas. Pero este pequeño manual quieresolucionar eso. Git es de lejos la mejor opción para crear de manera colaborativa. Además la plataforma de GitHub es relativamente sencilla de utilizar.
+Aunque el uso de un sistema de control de versiones como git puede ser un poco intimidatorio a la hora de utilizarlo, sobre todo por las personas menos técnicas, este pequeño manual quiere solucionar eso.
+
+Git es de lejos la mejor opción para crear de manera colaborativa. Además la plataforma de GitHub es relativamente sencilla de utilizar.
 
 
 ## Licencia
@@ -13,14 +15,13 @@ Si desea modificar o añadir material de nuestro repositorio, necesitará primer
  1. Registrarse con una cuenta de GitHub, si todavía no dispone de una
  2. Instalar git en su equipo si todavía no lo tiene instalado (Bien sea usando YaST en openSUSE o mediante la línea de comandos como root o utilizando sudo escriba el comando: zypper install git)
  3. Ver en la ayuda de GitHub cómo configurar su cuenta y cómo subir su clave SSH
- 4. Pida mediante un correo electrónico a admin@opensuse.org el añadir su cuenta de usuario al equipo en GitHub, lo que le dará permisos de escritura al repositorios.
- 5. Ejecute los suiguientes comandos en la línea de comandos como un usuario normal:
+ 4. Pida mediante un correo electrónico a admin@opensuse.org que se añada su cuenta de usuario al equipo "artwork" en GitHub, lo que le dará permisos de escritura en el repositorio.
+ 5. Ejecute los siguientes comandos en la línea de comandos como un usuario normal:
      1. git config --global user.email "mi_correo@dirección.com" (obviamente con su dirección de cuenta de correo ;))
      2. git config --global user.name "John Doe" (de nuevo reemplazando el ejemplo con su nombre real)
- 6. Escoja alguna carpeta donde quiera que se guarden sus archivos. Por ejemplo: ~/Documentos
-    and go there in your shell, e.g. cd ~/Documents
- 7. Descargue el repositorio en su equipo clonando el repositorio almacenado en GitHub mediante el siguiente comando: git clone git@github.com:openSUSE/artwork.git 
- 8. Espere a que finalice la operación. Finalmente obtendrá una carpeta llamada "artwork" que será una copia exacta del contenido del repositorio de GitHub
+ 6. Escoja alguna carpeta donde quiera que se guarden sus archivos. Por ejemplo: ~/Documentos y vaya a ella en la línea de comandos mediante el comando cd ~/Documentos
+ 7. Descargue el repositorio en su equipo clonando el repositorio almacenado en GitHub, mediante el siguiente comando: git clone git@github.com:openSUSE/artwork.git 
+ 8. Espere a que finalice la operación. Finalmente obtendrá una carpeta llamada "artwork" dentro de la carpeta ~/Documentos que será una copia exacta del contenido del repositorio de GitHub
 
 ### Flujo de trabajo
 #### Descargando los cambios más recientes (pull)
@@ -43,7 +44,7 @@ git add nombre_archivo
 
 (Reemplanzado el nombre_archivo del ejemplo por el nombre del archivo o carpeta que quiere añadir).
 
-Tenga en cuenta que añadir un archivo no hace que se suba directamente al repositorio, simplemente le hemos dicho a git que queremos poner el archivo en cuestión bajo el control de siverones para que lo tenga en cuenta.
+Tenga en cuenta que añadir un archivo no hace que se suba directamente al repositorio, simplemente le hemos dicho a git que queremos poner el archivo en cuestión bajo el control de versiones para que lo tenga en cuenta.
 
 #### Realizando los cambios (commit)
 Cuando cambia un archivo y quiere guardar el estado en el que se encuentra en el repositorio (por ejemplo si piensa que es bastante bueno para que pueda ser utilizado por otras personas), debe utilizar el siguiente comando:
@@ -56,7 +57,7 @@ Por favor utilice comentarios descriptivos, esto ayudará a cualquier persona el
 También asegúrese de poner los comentarios entre comillas ("") o la línea de comandos los interpretará como varios comandos de git, lo que no es cierto, y le dará errores.
 
 También puede hacer "commit" de varios archivos al mismo tiempo, lo que es más correcto cuando los cambios afectan a muchos archivos
-(por ejemplo si cambió la paleta de colores de varios archivos de Inkscape): de esa manera, sus cambios se mostrarán como una única acción en el historial de cambios del repositorio.
+(por ejemplo si cambió la paleta de colores de varios archivos de Inkscape). De esa manera, sus cambios se mostrarán como una única acción en el historial de cambios del repositorio.
 
 Para hace eso, simplemente pase varios nombres de archivos al comando de git commit, como en este ejemplo:
 
@@ -64,27 +65,28 @@ Para hace eso, simplemente pase varios nombres de archivos al comando de git com
 git commit -m "cambiada la paleta de colores de rojo" archivo1 archivo2 archivo3
 ```
 
-También puede hacer un "commit" de todos los cambios de todos los archivos de su copia local de su repositorio utilizando el parámetro -a (all), como en este ejemplo:
+También puede hacer un "commit" de todos los cambios, de todos los archivos, de su copia local de su repositorio utilizando el parámetro -a (all), como en este ejemplo:
 
 ```shell
 git commit -m "cambiado el texto en todos los fondos de escritorio" -a
 ```
 
 #### Enviando los cambios (push)
+
 Cuando ha hecho un "commit" de los cambios como hemos visto anteriormente, git solo almacena estos en su repositorio local en su disco duro,
 y no en el repositorio de GitHub, lo que significa que nadie más que usted podrá ver sus cambios.
 
 git funciona de esa manera porque quizás decidió hacer los cambios de manera local, y hacer un seguimiento de esos cambios en su disco duro para poder revertirlos a versiones anteriores, sin necesidad de enviar, por el momento, esos cambios a otra gente con la que trabaje.
 
-Una vez que quiera enviar esos cmabios a todas las personas, deberá ejecutar el comando "push" para enviarlos al repositorio de GitHub, con el siguiente comando:
+Una vez que quiera enviar esos cambios a todas las personas, deberá ejecutar el comando "push" para enviarlos al repositorio de GitHub, con el siguiente comando:
 
 ```shell
 git push
 ```
 
-Tenga en cuenta que la primera vez que ejecute git push, tendrá que utilizar el siguiente comando: git push origin master
+Tenga en cuenta que la primera vez que ejecute git push, tendrá que utilizar el siguiente comando: __git push origin master__
 
-En sucesivas ocasiones simplemente tendrá que ejecutar git push
+En sucesivas ocasiones simplemente tendrá que ejecutar __git push__
 
 Además, cuando este ejecutando ese comando, es posible que alguien más este realizando la misma acción con otros archivos.
 Git le indicará que revise lo que está pasando y deberá hacer un git pull antes que git push
@@ -120,7 +122,7 @@ en vez de eliminarlo como normalmente haría con el gestor de archivos que utili
 git rm filename
 ```
 
-Eliminar un archivo es considerado como un cambio más para git, por tanto deberá realizarlo mediante "commit" mediante alguno de los ejemplos que hemos visto antes y después enviarlo al repositorio de GitHub, para que este disponible para todos:
+Eliminar un archivo es considerado como un cambio más para git, por tanto después deberá realizarlo mediante "commit" siguiendo alguno de los ejemplos que hemos visto antes y después enviarlo al repositorio de GitHub, para que este disponible para todos:
 
 ```shell
 git commit -a "eliminando archvos obsoletos" -m
@@ -128,7 +130,7 @@ git push
 ```
 
 #### Renombrar o mover archivos o carpetas
-Cuando quiere renombrar un archivo o carpeta o moverla a otro lugar, no utilice el comando normal que utilizaría (mv) o el navegador de archivos para hacerlo.
+Cuando quiera renombrar un archivo o carpeta o moverla a otro lugar, no utilice el comando normal que utilizaría (mv) o el navegador de archivos para hacerlo.
 Si lo hace así, git considerará que el archivo renombrado o movido es un archivo o carpeta nuevo y perderá todo el historial de cambios del archivo.
 
 La manera adecuada de hacerlo es utilizando git mv, como en este ejemplo:
@@ -137,11 +139,11 @@ La manera adecuada de hacerlo es utilizando git mv, como en este ejemplo:
 git mv archivo_viejo archivo_nuevo
 ```
 
-Después deberá hacer un "commit" y un "push" parta subir esos cambios al repositorio de GitHub.
+Después deberá hacer un "commit" y un "push" para subir esos cambios al repositorio de GitHub.
 
 #### Historial
 Una de las ventajas más obvias de un sistema de control de versiones como git
-el la posibilidad de ver el historial de un archivo, que no es más que un registro de las modificaciones que se han realizado en ese archivo,
+es la posibilidad de ver el historial de un archivo, que no es más que un registro de las modificaciones que se han realizado en ese archivo,
 con los mensajes de "commit", cuando se hicieron esos cambios y quién los hizo.
 
 Para ver el historial de un archivo, puede hacerlo mediante este comando:
