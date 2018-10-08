@@ -3,9 +3,13 @@ This is the repository of the openSUSE [artwork team](https://en.opensuse.org/op
 While a version control system such as git may seem daunting, it is by far the
 best option for collaborative authoring. GitHub is also relatively easy to use.
 
+You can also read this guide in:
+
+* [Español](README_es.md)
+
 
 ## License
-All content in is licensed under [CC-BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) unless
+All content in is licensed under [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) unless
 otherwise stated.
 
 ## Contribute
