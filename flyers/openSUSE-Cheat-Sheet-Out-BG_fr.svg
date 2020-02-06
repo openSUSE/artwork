@@ -13,7 +13,7 @@
    viewBox="0 0 1261.42 430.869"
    version="1.1"
    id="svg2"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="openSUSE-Cheat-Sheet-Out-BG_fr.svg">
   <metadata
      id="metadata2961">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,17 +36,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="2560"
+     inkscape:window-height="1403"
      id="namedview2959"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="1.4142136"
-     inkscape:cx="183.61692"
-     inkscape:cy="239.16284"
-     inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:cx="1282.0596"
+     inkscape:cy="185.33423"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="surface1467">
     <sodipodi:guide
@@ -464,7 +464,7 @@
        d="M 553.902344 52.523438 L 556.367188 52.523438 L 556.367188 67.082031 L 553.902344 67.082031 Z M 556.683594 48.203125 C 556.683594 48.6875 556.535156 49.082031 556.234375 49.390625 C 555.933594 49.703125 555.570312 49.855469 555.148438 49.855469 C 554.703125 49.855469 554.335938 49.703125 554.046875 49.390625 C 553.757812 49.082031 553.609375 48.6875 553.609375 48.203125 C 553.609375 47.738281 553.757812 47.347656 554.046875 47.027344 C 554.335938 46.710938 554.703125 46.550781 555.148438 46.550781 C 555.59375 46.550781 555.960938 46.710938 556.25 47.027344 C 556.539062 47.347656 556.683594 47.738281 556.683594 48.203125 "
        id="path129" />
     <path
-       style=" stroke:none;fill-rule:nonzero;fill:rgb(22.026062%,38.925171%,17.337036%);fill-opacity:1;"
+       style="stroke:none;fill-rule:nonzero;fill:#38612b;fill-opacity:1"
        d="M 567.851562 59.816406 C 567.851562 59.027344 567.796875 58.289062 567.691406 57.605469 C 567.582031 56.921875 567.414062 56.328125 567.183594 55.828125 C 566.949219 55.324219 566.660156 54.929688 566.3125 54.640625 C 565.964844 54.351562 565.558594 54.207031 565.09375 54.207031 C 564.628906 54.207031 564.226562 54.351562 563.875 54.640625 C 563.527344 54.929688 563.242188 55.324219 563.019531 55.828125 C 562.796875 56.328125 562.632812 56.921875 562.527344 57.605469 C 562.421875 58.289062 562.367188 59.027344 562.367188 59.816406 C 562.367188 60.609375 562.421875 61.339844 562.527344 62.015625 C 562.632812 62.691406 562.796875 63.28125 563.019531 63.78125 C 563.242188 64.28125 563.527344 64.675781 563.875 64.964844 C 564.226562 65.253906 564.628906 65.402344 565.09375 65.402344 C 565.578125 65.402344 565.992188 65.253906 566.34375 64.964844 C 566.691406 64.675781 566.976562 64.28125 567.199219 63.78125 C 567.417969 63.28125 567.582031 62.691406 567.691406 62.015625 C 567.796875 61.339844 567.851562 60.609375 567.851562 59.816406 M 570.402344 59.832031 C 570.402344 60.992188 570.28125 62.046875 570.039062 62.992188 C 569.796875 63.941406 569.449219 64.753906 568.996094 65.429688 C 568.539062 66.105469 567.984375 66.632812 567.328125 67.007812 C 566.667969 67.386719 565.925781 67.574219 565.09375 67.574219 C 564.28125 67.574219 563.546875 67.386719 562.890625 67.007812 C 562.234375 66.632812 561.675781 66.105469 561.222656 65.429688 C 560.769531 64.753906 560.421875 63.941406 560.179688 62.992188 C 559.9375 62.046875 559.816406 60.992188 559.816406 59.832031 C 559.816406 58.671875 559.9375 57.609375 560.179688 56.644531 C 560.421875 55.675781 560.765625 54.855469 561.207031 54.175781 C 561.652344 53.5 562.203125 52.972656 562.863281 52.597656 C 563.519531 52.21875 564.261719 52.03125 565.09375 52.03125 C 565.925781 52.03125 566.667969 52.21875 567.328125 52.597656 C 567.984375 52.972656 568.539062 53.5 568.996094 54.175781 C 569.449219 54.855469 569.796875 55.675781 570.039062 56.644531 C 570.28125 57.609375 570.402344 58.671875 570.402344 59.832031 "
        id="path131" />
     <path
@@ -700,15 +700,15 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#335728;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="443.58438"
-       y="242.32941"
+       y="150.82941"
        id="text10010-0-3"><tspan
          sodipodi:role="line"
          id="tspan10012-9-6"
          x="443.58438"
-         y="242.32941"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#335728;fill-opacity:1">Пробвайте SUSE Studio на <tspan
+         y="150.82941"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#335728;fill-opacity:1">Essayez SUSE Studio Express sur <tspan
    style="font-weight:bold"
-   id="tspan8444">susestudio.com</tspan></tspan></text>
+   id="tspan8444">studioexpress.opensuse.org</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#335728;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -745,57 +745,37 @@
          id="tspan10012-9-6-2"
          x="443.49643"
          y="84.135155"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#ffffff;fill-opacity:1">Искате да създадете собствена Linux дистрибуция? Studio ще ви помогне!</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#ffffff;fill-opacity:1">Vous souhaitez construire votre propre système ? SUSE Studio Express est fait</tspan><tspan
          sodipodi:role="line"
          x="443.49643"
          y="97.885155"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#ffffff;fill-opacity:1"
-         id="tspan8376">Влизате, избирате име и база: openSUSE или SUSE Linux Enterprise. После </tspan><tspan
+         id="tspan1029">pour vous ! Créer un compte, commencer à travailler en choisissant comme</tspan><tspan
          sodipodi:role="line"
          x="443.49643"
          y="111.63515"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#ffffff;fill-opacity:1"
-         id="tspan8378">добавяте софтуер, скриптове и друго съдържание по ваш избор. Всичко </tspan><tspan
+         id="tspan8376">base : openSUSE ou SUSE Linux Enterprise.</tspan><tspan
          sodipodi:role="line"
          x="443.49643"
          y="125.38515"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#ffffff;fill-opacity:1"
-         id="tspan8380">това в лесен и приятен уеб базиран потребителски интерфейс!</tspan><tspan
+         id="tspan1035">Ajoutez votre choix de paquets et assemblez le tout via une interface Web</tspan><tspan
+         sodipodi:role="line"
+         x="443.49643"
+         y="133.0444"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#ffffff;fill-opacity:1"
+         id="tspan1037" /><tspan
          sodipodi:role="line"
          x="443.49643"
          y="139.13516"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#ffffff;fill-opacity:1"
-         id="tspan8382">   Нова дистрибуция само за 20 минути!</tspan><tspan
+         id="tspan1039">conviviale et téléverser votre OS dans le cloud en quelques minutes.</tspan><tspan
          sodipodi:role="line"
          x="443.49643"
-         y="152.88516"
+         y="146.7944"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#ffffff;fill-opacity:1"
-         id="tspan8384">   Тествайте вашата нова дистрибуция през SSH или уеб браузър и всички</tspan><tspan
-         sodipodi:role="line"
-         x="443.49643"
-         y="166.63516"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#ffffff;fill-opacity:1"
-         id="tspan8400">промени ще бъдат запазени. След това можете да направите шаблони за </tspan><tspan
-         sodipodi:role="line"
-         x="443.49643"
-         y="180.38516"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#ffffff;fill-opacity:1"
-         id="tspan8404">VMware, KVM, LiveCD/USB или вариант за дистрибутив от типа one-click за </tspan><tspan
-         sodipodi:role="line"
-         x="443.49643"
-         y="194.13516"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#ffffff;fill-opacity:1"
-         id="tspan8406">Amazon EC2 или друга облачна услуга.</tspan><tspan
-         sodipodi:role="line"
-         x="443.49643"
-         y="207.88516"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#ffffff;fill-opacity:1"
-         id="tspan8388">   Добавете WebYaST и създайте дистрибуция, която ще можете лесно да </tspan><tspan
-         sodipodi:role="line"
-         x="443.49643"
-         y="221.63516"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#ffffff;fill-opacity:1"
-         id="tspan8442">управлявате от всеки уеб браузър.</tspan></text>
+         id="tspan8442" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -911,14 +891,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#335728;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="951.03778"
+       x="927.03778"
        y="214.91367"
        id="text10010-0-3-9"><tspan
          sodipodi:role="line"
          id="tspan10012-9-6-0"
-         x="951.03778"
+         x="927.03778"
          y="214.91367"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#335728;fill-opacity:1">НАУЧЕТЕ ЗАЩО</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#335728;fill-opacity:1">Découvrez pourquoi</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -933,14 +913,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#335728;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="923.49725"
+       x="980.49725"
        y="293.21432"
        id="text10010-0-3-9-3"><tspan
          sodipodi:role="line"
          id="tspan10012-9-6-0-0"
-         x="923.49725"
+         x="980.49725"
          y="293.21432"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#335728;fill-opacity:1">Е НЕЩО СТРАХОТНО</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#335728;fill-opacity:1">est si cool !</tspan></text>
     <circle
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path4315"
@@ -977,23 +957,16 @@
        cx="34.56395"
        cy="344.63788"
        r="1.726396" />
-    <circle
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="path4315-3-56"
-       cx="445.93906"
-       cy="135.98903"
-       r="1.726396" />
-    <circle
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="path4315-3-2"
-       cx="445.92502"
-       cy="149.74399"
-       r="1.726396" />
-    <circle
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="path4315-3-9"
-       cx="445.96252"
-       cy="204.64398"
-       r="1.726396" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:29.99999809px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#38612b;fill-opacity:1;stroke:none;stroke-width:0.74999994"
+       x="573.09375"
+       y="67.681496"
+       id="text1027"><tspan
+         sodipodi:role="line"
+         id="tspan1025"
+         x="573.09375"
+         y="67.681496"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;font-family:Carlito;-inkscape-font-specification:Carlito;fill:#38612b;fill-opacity:1;stroke-width:0.74999994">Express</tspan></text>
   </g>
 </svg>

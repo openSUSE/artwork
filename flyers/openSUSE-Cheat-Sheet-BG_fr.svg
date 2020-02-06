@@ -13,7 +13,7 @@
    viewBox="0 0 1261.42 430.869"
    version="1.1"
    id="svg2"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="openSUSE-Cheat-Sheet-BG_fr.svg">
   <metadata
      id="metadata3953">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,16 +36,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
      id="namedview3951"
      showgrid="true"
      showguides="true"
      inkscape:zoom="1.4745078"
-     inkscape:cx="365.45128"
-     inkscape:cy="445.8323"
+     inkscape:cx="1452.6879"
+     inkscape:cy="283.06612"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:guide-bbox="true">
@@ -5565,16 +5565,6 @@
        x="500.90488"
        y="370.25381"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#66bf2e;fill-opacity:1;stroke-width:0.74999994">nom d'hôte</tspan></text>
-  <path
-     style="fill:#66bf2e;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     d="m 609.90664,174.72445 4.25,1.93359 v 0.66797 l -5.08203,-2.28906 v -0.62109 l 5.08203,-2.29688 v 0.67578 z m 0,0"
-     id="path6112"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:#66bf2e;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     d="m 645.49998,174.72445 -4.25,-1.92969 v -0.67578 l 5.08203,2.29688 v 0.62109 l -5.08203,2.28906 v -0.66797 z m 0,0"
-     id="path6114"
-     inkscape:connector-curvature="0" />
   <path
      inkscape:connector-curvature="0"
      id="path6116"
