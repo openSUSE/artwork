@@ -1,0 +1,2 @@
+#"Team / Component","OBS Username (also used to get email)","Recognition Text",
+"Package A",lkocman,"You're being recognized for your contributions to package A. This is a custom text that will substitute __TEXT__ in email template passed to the recognition_emails_from_csv.py",
