@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="160mm"
+   height="80mm"
+   viewBox="0 0 159.99999 80"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="cdandpendrive.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="159.62579"
+     inkscape:cy="174.36139"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1357"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-nodes="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.73608473,-75.154885)">
+    <path
+       style="opacity:1;fill:#029678;fill-opacity:1;stroke:none;stroke-width:5.18809843;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 157.39062 21.894531 A 129.28571 129.28571 0 0 0 28.105469 151.18164 A 129.28571 129.28571 0 0 0 157.39062 280.4668 A 129.28571 129.28571 0 0 0 286.67578 151.18164 A 129.28571 129.28571 0 0 0 157.39062 21.894531 z M 157.38867 25.701172 C 226.67341 25.701172 282.86523 81.89493 282.86523 151.17969 C 282.86523 220.4644 226.67341 276.65625 157.38867 276.65625 C 88.103936 276.65625 31.910157 220.4644 31.910156 151.17969 C 31.910156 81.89493 88.103936 25.701172 157.38867 25.701172 z M 157.38867 28.277344 C 89.494976 28.277344 34.486328 83.285966 34.486328 151.17969 C 34.486328 219.07338 89.494976 274.08789 157.38867 274.08789 C 225.28237 274.08789 280.29688 219.07338 280.29688 151.17969 C 280.29688 83.285966 225.28237 28.277344 157.38867 28.277344 z M 73.195312 66.984375 L 133.64062 127.43164 A 33.58757 33.58757 0 0 0 133.64062 174.93164 L 73.195312 235.375 A 119.0711 119.0711 0 0 1 73.195312 66.984375 z M 241.58594 66.986328 A 119.0711 119.0711 0 0 1 241.58594 235.37695 L 181.14062 174.92969 A 33.58757 33.58757 0 0 0 181.14062 127.43164 L 241.58594 66.986328 z M 157.39062 124.13867 A 27.04258 27.04258 0 0 1 184.43359 151.18164 A 27.04258 27.04258 0 0 1 157.39062 178.22266 A 27.04258 27.04258 0 0 1 130.34766 151.18164 A 27.04258 27.04258 0 0 1 157.39062 124.13867 z "
+       transform="matrix(0.26458333,0,0,0.26458333,-0.73608473,75.154885)"
+       id="path4542" />
+    <path
+       style="opacity:1;fill:#029678;fill-opacity:1;stroke:none;stroke-width:1.6169225;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 410.57227 21.537109 L 410.57227 79.751953 L 392.35742 79.751953 C 387.41097 79.751953 383.42773 83.73521 383.42773 88.681641 L 383.42773 271.89453 C 383.42773 276.84095 387.41097 280.82422 392.35742 280.82422 L 512.34766 280.82422 C 517.29408 280.82422 521.27734 276.84095 521.27734 271.89453 L 521.27734 88.681641 C 521.27734 83.73521 517.29408 79.751953 512.34766 79.751953 L 494.13477 79.751953 L 494.13477 21.537109 L 410.57227 21.537109 z M 425.92383 39.751953 L 445.92383 39.751953 L 445.92383 62.251953 L 425.92383 62.251953 L 425.92383 39.751953 z M 458.78125 39.751953 L 478.78125 39.751953 L 478.78125 62.251953 L 458.78125 62.251953 L 458.78125 39.751953 z M 394.26953 257.41016 L 510.43555 257.41016 L 510.43555 268.52148 L 394.26953 268.52148 L 394.26953 257.41016 z "
+       transform="matrix(0.26458333,0,0,0.26458333,-0.73608473,75.154885)"
+       id="rect4544" />
+  </g>
+</svg>
