@@ -14,7 +14,7 @@ Libre Office Impress Theme for openSUSE
 
 `$ sudo zypper in libreoffice adobe-sourcesanspro-fonts fontawesome-fonts`
     
-## Fiture
+## Features
 - animation
 - no bitmap (fully editable)
 - lightweight
