@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="hexagon-frame.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 96.308337 41.275"
+   height="41.274998mm"
+   width="96.308334mm"
+   inkscape:export-filename="/home/simon/Dokumente/opensuse/flyer-152-2/gfx/unsplash/hexagons.png"
+   inkscape:export-xdpi="299.98315"
+   inkscape:export-ydpi="299.98315"
+   style="enable-background:new">
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1357"
+     inkscape:window-width="2560"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="304.09647"
+     inkscape:cx="418.17302"
+     inkscape:zoom="1"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:snap-global="true" />
+  <defs
+     id="defs2">
+    <filter
+       style="opacity:1;color-interpolation-filters:sRGB"
+       inkscape:label="Lightness-Contrast"
+       id="filter934">
+      <feColorMatrix
+         values="1 0 0 0.782383 -0 0 1 0 0.782383 -0 0 0 1 0.782383 -0 0 0 0 1 0"
+         id="feColorMatrix932" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1"
+     transform="translate(512.0329,27.294749)">
+    <path
+       style="opacity:1;fill:#003948;fill-opacity:1;stroke:none;stroke-width:12.01599312;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       d="m 461.89844,135.96484 v 156 h 364 v -156 z m 54.16797,13.94141 H 796.32227 L 726.25781,271.25977 H 586.13086 Z"
+       transform="matrix(0.26458333,0,0,0.26458333,-634.24353,-63.268779)"
+       id="rect5395"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
