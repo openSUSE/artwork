@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg867"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="opensuse-alp-logo.svg">
+  <defs
+     id="defs861" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="237.75689"
+     inkscape:cy="247.42785"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="118.05176,247"
+       orientation="0,1"
+       id="guide1560"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="107.17508,244.54836"
+       orientation="1,0"
+       id="guide1562" />
+    <sodipodi:guide
+       position="109.78096,239.40342"
+       orientation="1,0"
+       id="guide1564" />
+    <sodipodi:guide
+       position="118.19995,238.5348"
+       orientation="1,0"
+       id="guide1566" />
+    <sodipodi:guide
+       position="121.32072,222.65449"
+       orientation="1,0"
+       id="guide1568" />
+    <sodipodi:guide
+       position="97.539076,243.37"
+       orientation="0,1"
+       id="guide1570"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="99.617533,244.397"
+       orientation="0,1"
+       id="guide1574"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="85.469864,240.965"
+       orientation="0,1"
+       id="guide1576"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="97.356802,239.965"
+       orientation="0,1"
+       id="guide1578"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="109.78096,237.48"
+       orientation="0,1"
+       id="guide1580"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="98.368302,236.48"
+       orientation="0,1"
+       id="guide1582"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="109.78096,233.878"
+       orientation="0,1"
+       id="guide1584"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="85.753346,232.878"
+       orientation="0,1"
+       id="guide1586"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata864">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#3584e3;fill-opacity:1;stroke-width:0.264999"
+       id="rect1698"
+       width="40"
+       height="40"
+       x="86.555847"
+       y="39.908379"
+       rx="1.0490068"
+       ry="1.0310178" />
+    <ellipse
+       style="fill:#ffffff;stroke-width:0.209627"
+       id="path1452"
+       cx="105.94697"
+       cy="51.364941"
+       rx="1.2436935"
+       ry="1.2164134" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.264999"
+       id="rect1533"
+       width="29.616858"
+       height="2.7966924"
+       x="91.703857"
+       y="64.122002"
+       rx="1.3983462"
+       ry="1.3983462" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.264999"
+       id="rect1535"
+       width="23.437315"
+       height="2.6041462"
+       x="94.762634"
+       y="60.52"
+       rx="1.3983467"
+       ry="1.3983467" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.264999"
+       id="rect1539"
+       width="12.424159"
+       height="2.4848318"
+       x="97.356804"
+       y="57.035"
+       rx="1.2424159"
+       ry="1.2424159" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.264999"
+       id="rect1541"
+       width="4.8239226"
+       height="2.4019432"
+       x="102.35116"
+       y="53.630001"
+       rx="1.2424172"
+       ry="1.2009716" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.264999"
+       id="rect1541-3"
+       width="4.8239226"
+       height="2.4019432"
+       x="111.63196"
+       y="57.035"
+       rx="1.2424172"
+       ry="1.2009716" />
+  </g>
+</svg>
