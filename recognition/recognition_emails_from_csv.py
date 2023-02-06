@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python3
 import csv
 import sys
 import subprocess
@@ -9,7 +9,7 @@ from optparse import OptionParser
 from email.mime.text import MIMEText
 import email.utils
 
-from retrying import retry
+from retry import retry
 
 DEFAULT_DELIMITER = ";"
 
@@ -19,7 +19,7 @@ config = {
     'relay': 'relay.suse.de',
 }
 
-@retry(wait_exponential_multiplier=1000, wait_exponential_max=10000, stop_max_delay=30000)
+@retry(tries=10,delay=5,jitter=1)
 def send_email(relay, user, to, from_addr, subject, body):
 
     # Create the container (outer) email message.
@@ -36,17 +36,23 @@ def send_email(relay, user, to, from_addr, subject, body):
 def get_userinfo(username):
     """
     args:
-        username - OBS username
+        username - OBS username, or a "Name Surname <user@domain>
+                   in case of no OBS account"
     Returns:
         None or ("name surname", "user@email")
     """
     username = username.strip()
+    result = []
     print ("Checking user info for: %s" % username)
-    out = subprocess.check_output(["osc", "whois", username])
-    if "not found" in str(out):
-        return None
+    if "@" in username:
+        result = email.utils.parseaddr(username)
+    else:
+        out = str(subprocess.check_output(["osc", "whois", username]))
+        if "not found" in str(out):
+            return None
 
-    result = email.utils.parseaddr(out)
+        result = email.utils.parseaddr(out)
+
     return (username, result[0], result[1])
 
 
@@ -60,7 +66,7 @@ def main():
     parser.add_option("--csv", help="Data with recipients")
     parser.add_option("--delimiter", help="csv delimiter [%s]" % DEFAULT_DELIMITER, default=DEFAULT_DELIMITER)
     parser.add_option("--subject", help="Subject of the e-thank you")
-    parser.add_option("--from", dest="from_addr", help="Email sender", default="opensuse-releaseteam@opensuse.org")
+    parser.add_option("--from", dest="from_addr", help="Email sender", default="marketing@lists.opensuse.org")
 
     opts, args = parser.parse_args()
 
@@ -107,7 +113,7 @@ def main():
         sys.exit(1)
 
     print("All email addresses look okay. Hit enter to proceed with sending emails. Ctrl+C to cancel.")
-    raw_input()
+    input()
     relay = smtplib.SMTP(config['relay'])
     for username in personalised_emails:
         try:
@@ -119,7 +125,8 @@ def main():
             relay = smtplib.SMTP(config['relay'])
             # continue
     relay.quit()
-    sys.stderr.write("Failed to send email to following accounts: %s\n" % ", ".join(failed.keys()))
+    if failed:
+        sys.stderr.write("Failed to send email to following accounts: %s\n" % ", ".join(failed.keys()))
 
 if __name__ == "__main__":
     main()
