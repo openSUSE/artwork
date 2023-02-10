@@ -27,6 +27,8 @@ def send_email(relay, user, to, from_addr, subject, body):
     msg['Subject'] = subject
     msg['From'] = from_addr
     msg['To'] = to
+    msg['Message-ID'] = email.utils.make_msgid()
+    msg['Date'] = email.utils.formatdate(localtime=1)
 
     print ("Sending email from: %s to: %s (%s)" % (from_addr, to, user))
     time.sleep(0.5) # let's not flood server
