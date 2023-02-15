@@ -11,7 +11,7 @@ import email.utils
 
 from retry import retry
 
-DEFAULT_DELIMITER = ";"
+DEFAULT_DELIMITER = ","
 
 
 # map of default config entries
