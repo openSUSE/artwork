@@ -1,3 +1,5 @@
+== The format ==
+
 This openSUSE Booth quiz leaflet is in A5 format.
 We normally ask print studio to get it printed on two sides on a shiny print A5 paper.
 
