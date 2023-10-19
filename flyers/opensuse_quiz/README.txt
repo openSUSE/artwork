@@ -1,10 +1,9 @@
-== The format ==
-
+# The format
 This openSUSE Booth quiz leaflet is in A5 format.
 We normally ask print studio to get it printed on two sides on a shiny print A5 paper.
 
 
-== The goal ==
+# The goal
 
 The goal of this quiz to educate people about openSUSE and not to make them fail at the test. Goal of booth crew helps to make sure people got it right.
 
