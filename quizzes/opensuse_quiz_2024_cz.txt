@@ -1,0 +1,76 @@
+Jaký je hlavní cíl projektu openSUSE?
+a) Podpora a šíření otevřeného software
+b) Vývoj mobilních aplikací
+c) Produkce videoher
+d) Výzkum v oblasti umělé intelligence
+
+Kde se nachází největší kancelář společnosti SUSE?
+a) Praha, Česká republika
+b) Norimberk, Německo
+c) Provo, USA
+d) Gran Canaria, Španělsko
+
+Co je to Aeon a Kalpa?
+a) Moderní “Immutable” desktop s GNOME a KDE
+b) Rolling distribuce s transakčními aktualizacemi využívající flatpaky na desktopu
+c) Distribuce postavené nad MicroOS
+d) Všechny možnosti jsou správně
+
+Jak se jmenuje maskot projektu openSUSE?
+a) Jackson
+b) Pascal
+c) Geeko
+d) Squirtle
+
+Která rolovací distribuce je rychlejší než Leap a pomalejší než Tumbleweed?
+a) TumbleSlow
+b) FastLeap
+c) Slowroll
+d) SpeedWeed
+
+Jaké typy openSUSE distribucí máme?
+a) Tradiční a Micro (Immutable), oba typy pak mohou být buď rolling nebo s tradičními vydaními
+b) Aktivní a neaktivní
+c) Horké a studené
+d) Stabilní a nestabilní
+
+Jaký je aktuální výchozí souborový systém v openSUSE Leap?
+a) Raiserfs
+b) InterPlanetary File System
+c) Btrfs
+d) XFS
+Co znamená zkratka "YaST" v openSUSE?
+a) Yet another Software Tool
+b) Yet another Setup Tool
+c) Your advanced System Toolbox
+d) Your all-in-one Software Terminal
+
+Která openSUSE distribuce je optimalizována pro běh kontejnerů a mikroslužeb?
+a) MicroOS
+b) Tumbleweed
+c) Leap
+d) Nano
+
+Jaký je slogan openSUSE?
+a) "Have a lot of fun!"
+b) "Innovate and Collaborate"
+c) "Open Source, Open Future"
+d) "Power to the Users"
+
+Odkud můžete nainstalovat dodatečné balíčky, které se nedostali do  distribuce?
+a) Jedním klikem ze software.opensuse.org
+b) Přebíráním nepřeberného množství projektů v OBS build.opensuse.org
+c) Skrze opi, z packman repozitáře nebo třeba z flathubu
+d) Všechny možnosti jsou správně
+
+V jakém roce byl vytvořen projekt openSUSE?
+a) 2047
+b) 0 A.D. (0 n.l.)
+c) 2005
+d) 1991
+
+Který z následujících správců balíčků je standardně používán v openSUSE?
+a) Yum
+b) DNF
+c) Zypper
+d) Pacman

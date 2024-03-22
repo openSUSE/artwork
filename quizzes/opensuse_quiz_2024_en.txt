@@ -1,0 +1,77 @@
+What is the main goal of the openSUSE project?
+a) Supporting and spreading open-source software
+b) Developing mobile applications
+c) Producing video games
+d) Research in artificial intelligence
+
+Where is the largest office of SUSE located?
+a) Prague, Czech Republic
+b) Nuremberg, Germany
+c) Provo, USA
+d) Gran Canaria, Spain
+
+What are Aeon and Kalpa?
+a) Modern "Immutable" desktops with GNOME and KDE
+b) Rolling distributions with transactional updates using flatpaks on the desktop
+c) Distributions built on top of MicroOS
+d) All options are correct
+
+What is the name of the openSUSE project mascot?
+a) Jackson
+b) Pascal
+c) Geeko
+d) Squirtle
+
+Which rolling distribution is faster than Leap and slower than Tumbleweed?
+a) TumbleSlow
+b) FastLeap
+c) Slowroll
+d) SpeedWeed
+
+What types of openSUSE distributions do we have?
+a) Traditional and Micro (Immutable), both types can be either rolling or with traditional releases
+b) Active and inactive
+c) Hot and cold
+d) Stable and unstable
+
+What is the current default file system in openSUSE Leap?
+a) Raiserfs
+b) Btrfs
+c) XFS
+d) InterPlanetary File System
+
+What does the abbreviation "YaST" stand for in openSUSE?
+a) Yet another Software Tool
+b) Yet another Setup Tool
+c) Your advanced System Toolbox
+d) Your all-in-one Software Terminal
+
+Which openSUSE distribution is optimized for running containers and microservices?
+a) MicroOS
+b) Tumbleweed
+c) Leap
+d) Nano
+
+What is the slogan of openSUSE?
+a) "Have a lot of fun!"
+b) "Innovate and Collaborate"
+c) "Open Source, Open Future"
+d) "Power to the Users"
+
+Where can you install additional packages or packages with changes that didn't make it into the main distribution?
+a) With a single click from software.opensuse.org
+b) By browsing the myriad of projects on OBS build.opensuse.org
+c) Through command opi, from the Packman repository or from Flathub
+d) All options are correct
+
+In what year was the openSUSE project created?
+a) 2047
+b) 0 A.D.
+c) 2005
+d) 1991
+
+Which of the following package managers is commonly used in openSUSE?
+a) Yum
+b) DNF
+c) Zypper
+d) Pacman
