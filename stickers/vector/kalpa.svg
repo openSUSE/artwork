@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="kalpa.svg"
+   id="svg837"
+   version="1.1"
+   viewBox="0 0 520 630"
+   preserveAspectRatio="xMidYMid"
+   height="630"
+   width="520"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata843">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs841" />
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     inkscape:current-layer="svg837"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="398.80823"
+     inkscape:cx="83.4386"
+     inkscape:zoom="0.70710678"
+     showgrid="false"
+     id="namedview839"
+     inkscape:window-height="1131"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true">
+    <sodipodi:guide
+       position="285.5717,377.5344"
+       orientation="1,0"
+       id="guide3"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     id="g3"
+     inkscape:export-filename="../Documents/kalpa.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     transform="translate(-24.041631,-69.296465)">
+    <path
+       id="path2"
+       style="fill:#25ac95;fill-opacity:1;stroke-width:12.3535"
+       d="m 152.79584,154.91661 c -0.82575,0.11191 -1.62519,0.51557 -2.22967,1.16555 l -27.97865,29.96422 c -1.17632,1.26382 -1.34113,3.1747 -0.40753,4.6379 l 35.267,55.26628 c -5.69592,10.34799 -10.20236,21.47133 -13.30603,33.14518 L 82.645468,293.8836 c -1.71147,0.4099 -2.92651,1.97454 -2.87697,3.76373 l 1.15079,41.23118 c 0.0479,1.74376 1.27885,3.23486 2.94891,3.59376 l 60.464552,13.16095 c 3.57366,13.31683 8.8691,25.87441 15.75148,37.37029 l -33.2771,54.68351 c -0.92824,1.52823 -0.66458,3.48253 0.62333,4.71071 l 29.58496,28.33734 c 1.24419,1.18805 3.15208,1.37738 4.60317,0.43715 l 53.53582,-35.06354 c 10.8729,5.94958 22.54736,10.55851 34.83546,13.54946 l 14.43285,61.53105 c 0.40618,1.7442 1.96091,2.93943 3.71612,2.88961 l 40.70927,-1.16554 c 1.71145,-0.0486 3.16287,-1.27536 3.5243,-2.98673 l 13.2581,-62.42949 c 12.47651,-3.79325 24.22274,-9.25017 35.00323,-16.09913 l 54.66272,34.11653 c 1.50318,0.94273 3.45734,0.69667 4.67506,-0.60711 l 27.97864,-29.96422 c 1.1836,-1.26754 1.34341,-3.17864 0.40754,-4.63791 l -20.49849,-32.14964 -6.28142,2.2097 c -0.91598,0.32214 -1.92717,-0.002 -2.49337,-0.80131 0,0 -13.01994,-18.17315 -29.82471,-41.64391 -18.23882,38.79919 -56.77129,66.09569 -102.1089,67.3831 -29.27372,0.8312 -56.31533,-9.34587 -77.29488,-26.80756 l 5.87384,-5.94914 c 42.55641,35.26383 105.67634,32.83435 145.35949,-7.35752 39.68318,-40.19185 42.10584,-104.12097 7.28834,-147.22291 l 38.74338,-39.24003 a 10.849787,10.988876 6.7027773e-4 1 0 -15.34392,-15.54061 l -38.74334,39.24004 c -42.5564,-35.26383 -105.67636,-32.83438 -145.35949,7.35749 -39.68317,40.19186 -42.08186,104.12099 -7.26438,147.22295 l -5.9697,6.02195 c -16.30252,-19.69166 -26.4212,-44.84859 -27.18749,-72.53092 -1.32855,-47.99442 25.79617,-90.08907 65.85891,-109.73123 l -0.86306,-30.47416 c -7.31215,2.82621 -14.34903,6.19216 -21.02593,10.12568 l -0.0245,-0.0249 -55.95728,-34.94207 c -0.75345,-0.46859 -1.6199,-0.644 -2.44544,-0.53423 z m 131.07048,74.64347 c 22.01128,-0.11063 44.07001,8.26103 61.08793,25.0835 a 10.84951,10.988594 6.224046e-4 0 0 1.46245,1.48121 c 33.24945,34.47026 33.09025,89.35347 -0.64724,123.52349 -33.72743,34.1598 -87.90028,34.32484 -121.93611,0.67996 a 10.84951,10.988594 6.224046e-4 0 0 -1.46246,-1.48122 c -33.24948,-34.47026 -33.09022,-89.35348 0.64727,-123.52353 16.86369,-17.07986 38.83689,-25.65322 60.84816,-25.76339 z m 0.52746,44.04789 c -11.12811,0 -22.26009,4.26096 -30.6878,12.79671 -16.85543,17.07148 -16.85547,45.09089 0,62.16242 16.85546,17.07152 44.52018,17.0715 61.3756,0 16.85542,-17.07148 16.85547,-45.0909 0,-62.16242 -8.42775,-8.53576 -19.55971,-12.79673 -30.6878,-12.79671 z m 0,21.82969 c 5.52996,0 11.0619,2.17071 15.34388,6.50762 8.56406,8.67383 8.564,22.40741 0,31.0812 -8.56399,8.6738 -22.12375,8.67385 -30.68778,0 -8.56406,-8.67383 -8.564,-22.40741 0,-31.0812 4.28199,-4.33688 9.81391,-6.50762 15.3439,-6.50762 z"
+       inkscape:label="logo" />
+    <text
+       xml:space="preserve"
+       style="font-weight:600;font-size:164.094px;line-height:0;font-family:SUSE;-inkscape-font-specification:'SUSE Semi-Bold';fill:#25ac95;fill-opacity:1;stroke-width:2.19769;paint-order:markers stroke fill"
+       x="81.518005"
+       y="664.02679"
+       id="text2"
+       inkscape:label="kalpa"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="81.518005"
+         y="664.02679"
+         style="fill:#25ac95;fill-opacity:1;stroke-width:2.19769">Kalpa</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60.6779px;font-family:'Source Sans 3';-inkscape-font-specification:'Source Sans 3, ';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff0000;stroke:#000000;stroke-width:1.02394;stroke-linecap:round;stroke-miterlimit:1.49;paint-order:stroke markers fill"
+       x="283.91379"
+       y="123.02055"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="283.91379"
+         y="123.02055"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60.6779px;font-family:Sans;-inkscape-font-specification:Sans;fill:#25ac95;fill-opacity:1;stroke:none;stroke-width:1.02394">kalpadesktop.org</tspan></text>
+  </g>
+</svg>
