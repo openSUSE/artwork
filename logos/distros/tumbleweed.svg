@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   fill="currentColor"
+   version="1.1"
+   viewBox="0 0 256 256"
+   id="svg234"
+   sodipodi:docname="tumbleweed.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs238" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1131"
+     id="namedview236"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.5898438"
+     inkscape:cx="33.022112"
+     inkscape:cy="174.23095"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg234"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050">
+    <sodipodi:guide
+       position="110.74647,0.70491689"
+       orientation="0,-1"
+       id="guide285"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="138.76667,219.97404"
+       orientation="0,-1"
+       id="guide287"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="128.31469,206.40871"
+       orientation="1,0"
+       id="guide289"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="155.76304,4.9932996"
+       orientation="0,-1"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="164.16707,220"
+       orientation="0,1"
+       id="guide2"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata230">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="M 76.510755,2.114699 C 44.497229,2.037979 18.426267,28.108689 18.503244,60.122202 18.580034,92.13572 44.711052,118.26315 76.724579,118.34012 l 14.392996,0.0343 -0.03053,-0.002 c 0.0098,4e-5 0.01376,-3e-5 0.02287,0 h 0.0037 c 13.080435,0.0295 24.495505,0.0562 30.058315,0.069 0.0157,7.63314 0.0699,32.17089 0.0994,44.44773 0.0765,32.01353 26.2044,58.14435 58.21792,58.22133 32.01353,0.0769 58.0845,-25.99399 58.00751,-58.00751 -0.0765,-32.01352 -26.2078,-58.14094 -58.22133,-58.21792 -3.75232,-0.009 -7.72601,-0.0176 -13.58322,-0.0307 -13.30522,-0.0304 -25.22082,-0.0563 -30.86058,-0.0687 -0.0156,-7.63314 -0.07,-32.17092 -0.0995,-44.447754 C 134.6555,28.323451 108.52448,2.192598 76.510994,2.115624 Z m -0.03447,13.694052 c 1.886777,0.0049 3.741042,0.139889 5.565381,0.370516 V 65.488476 H 32.544348 c -0.217359,-1.771478 -0.3432,-3.571351 -0.347592,-5.401158 -0.05899,-24.615263 19.664832,-44.338255 44.278391,-44.278396 z m 19.25941,4.396552 c 14.948765,7.189741 25.260165,22.449639 25.302915,40.161013 0.0295,12.255984 0.0821,36.698804 0.0995,44.382724 -7.68343,-0.0177 -32.123017,-0.0699 -44.37759,-0.0995 C 58.985848,104.60684 43.681284,94.21911 36.522489,79.18241 H 95.737573 V 20.205205 Z m 39.126155,98.267707 c 7.68579,0.0177 32.12641,0.07 44.38274,0.0995 18.01069,0.043 33.47775,10.71067 40.50826,26.07098 h -58.97059 v 58.61136 c -15.2269,-7.08541 -25.77846,-22.48731 -25.8212,-40.40223 -0.0295,-12.25596 -0.0822,-36.69538 -0.0995,-44.37762 z m 39.6119,39.85659 h 49.05779 c 0.17217,1.57862 0.26727,3.18114 0.27117,4.80535 0.0591,24.61526 -19.66481,44.33824 -44.27838,44.27841 -1.70868,-0.002 -3.39177,-0.11521 -5.04981,-0.30558 v -48.77895 z"
+     stroke-width="1"
+     id="path1"
+     style="fill:#35b9ab;fill-opacity:1" />
+  <text
+     y="255.9436"
+     x="16.629559"
+     style="font-size:36.5527px;line-height:0%;font-family:SourceSansPro-Light;fill:#3ab6a9;stroke-width:0.371961"
+     font-size="98.2708px"
+     id="text3">Tumbleweed</text>
+</svg>

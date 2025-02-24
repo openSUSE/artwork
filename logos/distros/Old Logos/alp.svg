@@ -6,7 +6,7 @@
    version="1.1"
    viewBox="0 0 256 256"
    sodipodi:docname="alp.svg"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,26 +25,27 @@
      showgrid="false"
      inkscape:zoom="3.0546875"
      inkscape:cx="128.49105"
-     inkscape:cy="128.32737"
+     inkscape:cy="124.07161"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1131"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="SVGRoot" />
   <g
      id="g5738"
-     style="stroke:#173f4f;stroke-opacity:1">
+     style="stroke:#173f4f;stroke-opacity:1"
+     transform="matrix(0.68284361,0,0,0.68284361,40.54112,3.54024)">
     <path
        d="m 135.5,49.499 -15,-30 -15,30 z"
        fill="#99c1f1"
        id="path2"
-       style="stroke:#173f4f;stroke-width:15px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill:#173f4f;fill-opacity:1" />
+       style="fill:#173f4f;fill-opacity:1;stroke:#173f4f;stroke-width:15px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
     <path
        d="m 150.5,109.5 h 30 l -15,-30 z"
        fill="#99c1f1"
        id="path4"
-       style="stroke:#173f4f;stroke-width:15px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;fill:#173f4f;fill-opacity:1" />
+       style="fill:#173f4f;fill-opacity:1;stroke:#173f4f;stroke-width:15px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
     <g
        fill="none"
        id="g12"
@@ -63,4 +64,15 @@
          style="stroke:#173f4f;stroke-opacity:1" />
     </g>
   </g>
+  <text
+     xml:space="preserve"
+     style="font-size:99.4313px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#173f4f;fill-opacity:1;stroke-width:1.56605;stroke-linecap:round;stroke-miterlimit:1.49;paint-order:stroke markers fill"
+     x="41.696587"
+     y="245.77295"
+     id="text1"><tspan
+       sodipodi:role="line"
+       id="tspan1"
+       x="41.696587"
+       y="245.77295"
+       style="stroke-width:1.56605">ALP</tspan></text>
 </svg>
