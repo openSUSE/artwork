@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 256 256"
+   id="svg1"
+   sodipodi:docname="microos.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.4296875"
+     inkscape:cx="127.56264"
+     inkscape:cy="122.75171"
+     inkscape:window-width="1920"
+     inkscape:window-height="1131"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="m 129.11,32.992 c -38.799,0 -70.836,29.675 -74.619,67.5 H 16.61 a 7.5,7.5 0 0 0 -5.5371,2.461 l -5.0684,5.039 4.922,4.9219 a 7.5,7.5 0 0 0 5.6835,2.5781 h 37.881 c 3.7833,37.825 35.821,67.5 74.619,67.5 38.798,0 70.836,-29.675 74.619,-67.5 h 37.881 a 7.5,7.5 0 0 0 5.3028,-2.1973 7.5,7.5 0 0 0 0.2343,-0.26367 l 5.0684,-5.0391 -4.9218,-4.9219 a 7.5,7.5 0 0 0 -0.38085,-0.38085 7.5,7.5 0 0 0 -5.3028,-2.1973 h -37.881 c -3.7832,-37.825 -35.821,-67.5 -74.619,-67.5 z m 0,15 c 33.226,0 60,26.774 60,60 0,33.226 -26.774,60 -60,60 -33.226,0 -60,-26.774 -60,-60 0,-33.226 26.774,-60 60,-60 z m 0,30 c -16.48,0 -30,13.52 -30,30 0,16.48 13.52,30 30,30 16.48,0 30,-13.52 30,-30 0,-16.48 -13.52,-30 -30,-30 z m 0,15 c 8.3732,0 15,6.6269 15,15 0,8.3731 -6.6268,15 -15,15 -8.3732,0 -15,-6.6269 -15,-15 0,-8.3731 6.6268,-15 15,-15 z"
+     color="#000000"
+     color-rendering="auto"
+     dominant-baseline="auto"
+     fill="#973a84"
+     image-rendering="auto"
+     shape-rendering="auto"
+     solid-color="#000000"
+     stop-color="#000000"
+     style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;isolation:auto;mix-blend-mode:normal"
+     id="path1" />
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-size:60px;font-family:Sans;-inkscape-font-specification:'Sans Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#973a84;fill-opacity:1;stroke-width:0.945;stroke-linecap:round;stroke-miterlimit:1.49;paint-order:stroke markers fill"
+     x="9.580862"
+     y="243.62642"
+     id="text1"><tspan
+       sodipodi:role="line"
+       id="tspan1"
+       x="9.580862"
+       y="243.62642"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'">MicroOS</tspan></text>
+</svg>
