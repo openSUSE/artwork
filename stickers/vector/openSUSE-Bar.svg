@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="oSBARLogotype.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.59843796"
+     inkscape:cx="596.55306"
+     inkscape:cy="477.91086"
+     inkscape:window-width="1536"
+     inkscape:window-height="891"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6922px;font-family:Neonline;-inkscape-font-specification:Neonline;text-align:start;letter-spacing:1.80942px;word-spacing:0.603141px;writing-mode:tb-rl;direction:ltr;text-orientation:upright;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.82366;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="68.273796"
+       y="183.9489"
+       id="text35-1-9"
+       inkscape:export-filename="barlogo.png"
+       inkscape:export-xdpi="135.75063"
+       inkscape:export-ydpi="135.75063"><tspan
+         sodipodi:role="line"
+         id="tspan35-2-2"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Oxanium;-inkscape-font-specification:'Oxanium Ultra-Bold';writing-mode:lr-tb;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.82366"
+         x="68.273796"
+         y="183.9489">Est. 2019</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:800;font-size:55.4599px;font-family:Tenada;-inkscape-font-specification:'Tenada Ultra-Bold';text-align:start;letter-spacing:0px;word-spacing:5.19939px;writing-mode:lr-tb;direction:ltr;text-orientation:upright;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1.0;paint-order:stroke fill markers"
+       x="53.942108"
+       y="158.50005"
+       id="text1-7-0"><tspan
+         sodipodi:role="line"
+         id="tspan1-0-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Taurus Mono Outline';-inkscape-font-specification:'Taurus Mono Outline Bold';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-dasharray:none;stroke-opacity:1.0"
+         x="53.942108"
+         y="158.50005">BAR</tspan></text>
+    <path
+       id="rect13-9-2-7"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:4.7;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 35.14749,147.368 c 0,17.16269 12.269469,30.75853 29.432159,30.75853 m 116.209241,0.44212 C 197.95159,178.56865 210,164.53069 210,147.368 V 131.45429 C 210,114.2916 196.1831,100.4747 179.0204,100.4747 L 58.927972,99.87294 50.48929,99.83066"
+       sodipodi:nodetypes="cccssccc"
+       inkscape:export-filename="barlogotest2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m 24.11429,61.09163 v 10.62996 c -20.21748,1.36352 -36.29364,18.06854 -36.29364,38.62675 0,18.58319 15.12076,33.70396 33.70396,33.70396 14.28833,0 25.92808,-11.63926 25.92808,-25.9276 0,-2.83473 -2.35362,-5.18864 -5.18865,-5.18864 v 5.17741 h -4.9e-4 -4.8e-4 l -4.9e-4,4.8e-4 c -1.8e-4,1e-4 -9.5e-4,3.8e-4 -0.002,4.9e-4 l -4.9e-4,4.9e-4 v 4.9e-4 l -4.8e-4,4.9e-4 c -9.5e-4,0.002 -0.002,0.005 -0.002,0.009 0,11.48218 -9.2514,20.73552 -20.73357,20.73552 -15.77693,0 -28.51189,-12.73448 -28.51189,-28.5114 0,-18.64073 15.05635,-33.69663 33.69663,-33.69663 h 2.59701 V 66.28439 h 15.54883 c 10.31913,0 15.54883,7.71197 15.54883,15.54883 v 5.18131 H 53.6265 c 0.92524,-1.55002 1.6015,-3.25752 1.6015,-5.18131 0,-5.69804 -4.67516,-10.37338 -10.37338,-10.37338 -5.69821,0 -10.3729,4.67533 -10.3729,10.37338 0,5.69808 4.67469,10.37339 10.3729,10.37339 H 65.59747 V 81.83322 c 0,-10.30938 -7.73141,-20.7409 -20.74285,-20.7409 z m 20.74139,15.56008 c 2.89188,0 5.18082,2.28957 5.18082,5.18131 0,2.89177 -2.28894,5.18082 -5.18082,5.18082 -2.89189,0 -5.18131,-2.28906 -5.18131,-5.18082 0,-2.89173 2.28942,-5.18131 5.18131,-5.18131 z m -15.54883,5.18082 -5.19402,4.9e-4 c 0,10.30941 7.931789,20.62622 20.941289,20.40131 4.21903,-0.0729 8.312057,0 8.312057,0 0,0 0.02755,-2.24852 -0.03513,-4.75369 -5.866359,0 -5.601785,0.0333 -8.475955,-0.0973 C 34.5466,96.91499 29.30626,89.66945 29.30626,81.83255 Z m -0.004,20.73552 c -8.56166,0 -15.55811,6.99648 -15.55811,15.55812 0,7.1298 5.83532,12.96502 12.96501,12.96502 5.69801,0 10.3729,-4.67499 10.3729,-10.37339 0,-4.2665 -3.51318,-7.78174 -7.7798,-7.78174 -2.83509,0 -5.18864,2.35386 -5.18864,5.18864 h 5.17692 l 4.9e-4,5e-4 v 4.9e-4 l 4.9e-4,4.8e-4 v 4.9e-4 l 4.8e-4,4.9e-4 4.9e-4,4.9e-4 5e-4,4.9e-4 c 1.9e-4,1.4e-4 9.4e-4,8.5e-4 0.002,9.4e-4 0.002,8.2e-4 0.005,9.5e-4 0.008,9.5e-4 1.46045,0 2.58773,1.12736 2.58773,2.58772 0,2.89241 -2.28925,5.18132 -5.18131,5.18132 -4.32345,0 -7.77246,-3.44891 -7.77246,-7.77246 0,-5.75551 4.61052,-10.36606 10.36604,-10.36606 0.004,0 0.008,-9.4e-4 0.009,-0.002 l 4.9e-4,-4.8e-4 4.9e-4,-4.9e-4 4.9e-4,-4.9e-4 v -4.9e-4 h 4.9e-4 5.17691 c 0,-2.83473 -2.35312,-5.18815 -5.18816,-5.18815 z"
+       style="baseline-shift:baseline;display:inline;overflow:visible;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-dasharray:none;stroke-dashoffset:10;stroke-opacity:1;enable-background:accumulate;stop-color:#000000"
+       id="path2-3"
+       sodipodi:nodetypes="ccssscccccccccssssccssccsssscsccsssssccsccscccssssccccccccscsssssscccccccc" />
+  </g>
+</svg>
