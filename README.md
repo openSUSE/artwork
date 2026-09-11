@@ -12,6 +12,27 @@ You can also read this guide in:
 All content in is licensed under [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) unless
 otherwise stated.
 
+## Repository Structure
+
+```
+artwork/
+├── logos/                  Brand logos (official, distros, events, teams, buttons)
+├── promotional/            Marketing materials (banners, posters, flyers, social media)
+├── events/                 Event materials (celebrations, quizzes, stickers)
+├── presentations/          LibreOffice presentation templates
+├── media/                  Video and image assets
+├── hardware/               Hardware-related artwork (SBC graphics)
+├── palettes/               Color palettes (GIMP .gpl files)
+├── merchdesigns/           Merchandise designs
+├── table-cloth/            Booth table cloth designs
+├── proposed-for-deletion/  Items under review for removal
+├── keep-and-organize/      Items to be kept (pending decision)
+├── README.md               This file
+├── README_es.md            Spanish translation
+├── LICENSE.md              CC-BY-SA 3.0 license
+└── .gitignore              Git ignore rules
+```
+
 ## Contribute
 ### Initial setup
 If you would like to modify or add material to our repository, you need to do
