@@ -8,6 +8,27 @@ Git es de lejos la mejor opción para crear de manera colaborativa. Además la p
 ## Licencia
 Todo el contenido está publicaco bajo la licencia [CC-BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) a menos que se indique lo contrario
 
+## Estructura del Repositorio
+
+```
+artwork/
+├── logos/                  Logos de marca (oficiales, distribuciones, eventos, equipos, botones)
+├── promotional/            Materiales de marketing (banners, pósters, volantes, redes sociales)
+├── events/                 Materiales de eventos (celebraciones, cuestionarios, pegatinas)
+├── presentations/          Plantillas de presentaciones LibreOffice
+├── media/                  Archivos de vídeo e imágenes
+├── hardware/               Diseños de hardware (gráficos SBC)
+├── palettes/               Paletas de colores (archivos .gpl de GIMP)
+├── merchdesigns/           Diseños de mercancía
+├── table-cloth/            Diseños de manteles para stands
+├── proposed-for-deletion/  Elementos en revisión para eliminación
+├── keep-and-organize/      Elementos a conservar (decisión pendiente)
+├── README.md               Este archivo
+├── README_es.md            Traducción al español
+├── LICENSE.md              Licencia CC-BY-SA 3.0
+└── .gitignore              Reglas de ignorar de git
+```
+
 ## Cómo contribuir
 ### Ajustes iniciales
 Si desea modificar o añadir material de nuestro repositorio, necesitará primero seguir algunos pasos iniciales:
